@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Customer_Name,Gender,Age,Region,City,Product_ID,Product_Name,Category,Sub_Category,Order_Date,Ship_Date,Delivery_Date,Order_Status,Quantity,Unit_Price,Discount,Shipping_Cost,Payment_Mode,Total_Sales,Profit
+1,58,"Jack Williamson",Male,65,East,Justinland,5012,"Clothing T-Shirt",Clothing,T-Shirt,2024-04-14,2024-04-19,2024-04-25,Delivered,5,28.69,18.16,7.83,"Credit Card",133.12,16.03
+2,288,"Jacqueline Rivera",Male,63,West,"North Wendy",4611,"Grocery Spices",Grocery,Spices,2024-10-11,2024-10-11,2024-10-18,Delivered,2,35.51,7.25,19.77,"Credit Card",83.54,15.26
+3,195,"Paul Williams",Male,40,East,Justinhaven,5333,"Electronics Headphones",Electronics,Headphones,2025-07-03,2025-07-03,2025-07-07,Delivered,1,1238.47,308.16,63.76,"Credit Card",994.07,234.96
+4,24,"Ryan Weeks",Other,32,East,"East Kellyland",2307,"Clothing Shirt",Clothing,Shirt,2025-01-24,2025-01-26,2025-01-30,Delivered,3,36.27,11.60,68.67,"Credit Card",165.88,3.32
+5,88,"Vanessa Sullivan",Other,64,South,Seanmouth,3677,"Grocery Beverage",Grocery,Beverage,2024-10-03,2024-10-08,2024-10-14,Delivered,5,12.54,6.10,77.99,"Net Banking",134.59,2.69
+6,206,"Samantha Perez",Female,22,South,Marytown,6155,"Clothing Jacket",Clothing,Jacket,2025-02-09,2025-02-14,2025-02-18,Delivered,2,46.49,6.88,58.33,"Cash on Delivery",144.43,2.89
+7,205,"Ashley Johnson",Female,32,South,"Port Brendan",9348,"Grocery Rice",Grocery,Rice,2024-02-18,2024-02-18,2024-02-20,Delivered,2,40.02,10.14,11.04,"Cash on Delivery",80.94,6.83
+8,129,"Austin Norris",Other,18,North,"East Kellyborough",9797,"Furniture Sofa",Furniture,Sofa,2024-04-24,2024-04-26,2024-04-30,Delivered,2,735.21,420.76,88.21,"Debit Card",1137.87,138.18
+9,260,"Melissa Martinez",Male,58,East,Candicehaven,9317,"Clothing T-Shirt",Clothing,T-Shirt,2025-01-17,2025-01-18,2025-01-23,Delivered,5,111.85,100.49,51.42,"Net Banking",510.18,46.81
+10,123,"Kathleen Hayes",Male,33,North,Wagnerhaven,2403,"Grocery Rice",Grocery,Rice,2025-06-29,2025-06-30,2025-07-02,Delivered,4,47.45,9.40,55.13,"Cash on Delivery",235.53,13.34
+11,103,"Michael Pitts",Other,37,West,"West Kellyton",7118,"Grocery Spices",Grocery,Spices,2025-04-07,2025-04-07,2025-04-09,Delivered,2,5.07,0.06,57.62,"Credit Card",67.70,1.99
+12,118,"Christopher Armstrong",Male,20,East,Gordontown,2160,"Clothing Jeans",Clothing,Jeans,2025-05-12,2025-05-13,2025-05-18,Delivered,2,92.34,48.88,59.74,UPI,195.54,6.05
+13,98,"Matthew Garcia",Male,24,West,"New Heidi",6804,"Grocery Beverage",Grocery,Beverage,2025-04-23,2025-04-28,2025-04-29,Delivered,1,4.91,1.07,81.06,"Cash on Delivery",84.90,1.70
+14,230,"David Simmons",Male,45,South,"South Karenburgh",5563,"Grocery Pasta",Grocery,Pasta,2024-03-18,2024-03-21,2024-03-28,Delivered,5,6.70,6.55,56.36,"Debit Card",83.31,1.67
+15,86,"Marissa Webster",Female,49,West,"Lake Ericberg",4502,"Grocery Rice",Grocery,Rice,2024-06-17,2024-06-20,2024-06-21,Delivered,4,14.73,13.86,48.23,"Cash on Delivery",93.29,1.87
+16,250,"James Lee",Male,30,East,"East Heather",4566,"Electronics Camera",Electronics,Camera,2025-07-09,2025-07-09,2025-07-15,Delivered,3,397.18,208.82,52.77,"Cash on Delivery",1035.49,261.72
+17,42,"Lori Stewart",Male,22,North,Atkinsonfurt,4853,"Grocery Rice",Grocery,Rice,2025-08-06,2025-08-07,2025-08-12,Delivered,5,3.91,0.48,67.45,"Net Banking",86.52,1.73
+18,105,"Tiffany Flores",Other,63,East,"South Sandrachester",4910,"Furniture Bed",Furniture,Bed,2024-05-14,2024-05-19,2024-05-25,Delivered,3,740.11,618.82,93.89,"Cash on Delivery",1695.40,133.97
+19,52,"David Taylor",Male,52,South,"South Kristaside",9288,"Furniture Table",Furniture,Table,2024-12-23,2024-12-23,2024-12-25,Delivered,3,498.98,196.78,56.61,"Cash on Delivery",1356.77,180.83
+20,5,"Steven Hamilton",Other,70,East,"Lake Davidville",2697,"Clothing Jeans",Clothing,Jeans,2024-04-28,2024-04-28,2024-05-04,Delivered,5,35.54,15.02,25.01,"Net Banking",187.69,18.83
+21,259,"Sharon Johnson",Female,34,North,Jasonborough,2512,"Grocery Snacks",Grocery,Snacks,2024-02-15,2024-02-15,2024-02-18,Delivered,2,32.58,5.12,75.42,"Credit Card",135.46,2.71
+22,58,"Brittney Oneal",Male,62,South,"New Brandi",9938,"Electronics Tablet",Electronics,Tablet,2025-07-19,2025-07-20,2025-07-24,Delivered,2,371.11,81.20,93.64,"Net Banking",754.66,192.76
+23,108,"Brianna Edwards",Other,33,North,"West Luis",6794,"Grocery Spices",Grocery,Spices,2024-06-07,2024-06-08,2024-06-15,Delivered,2,48.86,23.77,88.73,"Net Banking",162.68,3.25
+24,211,"Christina Finley",Other,65,South,"Port Larryfurt",5371,"Clothing Shirt",Clothing,Shirt,2025-01-26,2025-01-26,2025-02-02,Delivered,4,42.24,41.39,48.73,"Debit Card",176.30,3.53
+25,115,"Paul Huber",Male,60,South,"New Mike",7528,"Furniture Sofa",Furniture,Sofa,2024-03-12,2024-03-14,2024-03-17,Delivered,5,659.55,970.67,55.94,"Net Banking",2383.02,666.62
+26,92,"Edward Green",Other,34,North,Michelleburgh,2776,"Grocery Snacks",Grocery,Snacks,2024-11-17,2024-11-20,2024-11-25,Delivered,5,7.55,10.18,23.06,"Cash on Delivery",50.63,1.01
+27,276,"James Herrera",Other,64,South,"South Christinefort",6967,"Grocery Rice",Grocery,Rice,2024-12-04,2024-12-08,2024-12-11,Delivered,1,36.55,3.29,34.38,"Net Banking",67.64,1.35
+28,284,"Andrew Giles",Male,30,West,"West Laura",7211,"Clothing Dress",Clothing,Dress,2025-08-05,2025-08-07,2025-08-11,Delivered,5,103.37,47.12,24.97,"Net Banking",494.70,113.22
+29,239,"Jasmine Hayes",Female,46,South,Gomezhaven,9375,"Grocery Pasta",Grocery,Pasta,2024-03-27,2024-03-29,2024-04-03,Delivered,5,18.09,22.21,76.36,"Debit Card",144.60,7.43
+30,76,"Austin Mills",Male,20,South,Stuartton,8784,"Electronics Headphones",Electronics,Headphones,2025-02-28,2025-03-05,2025-03-10,Delivered,2,1521.19,350.46,42.97,"Credit Card",2734.89,333.87
+31,218,"Courtney Jordan",Male,29,West,"West Caitlin",1822,"Clothing Shirt",Clothing,Shirt,2025-04-12,2025-04-13,2025-04-20,Delivered,4,86.76,102.85,61.57,"Cash on Delivery",305.76,43.37
+32,259,"Lisa Gibbs",Female,53,West,Williamstad,3607,"Grocery Beverage",Grocery,Beverage,2024-09-22,2024-09-23,2024-09-30,Delivered,3,38.76,18.18,64.54,"Net Banking",162.64,12.70
+33,121,"Mark Gray",Female,39,East,Timothyside,9849,"Electronics Laptop",Electronics,Laptop,2024-06-03,2024-06-04,2024-06-08,Delivered,2,1500.91,57.84,43.72,"Debit Card",2987.70,604.80
+34,216,"Mark Parks",Female,67,North,Carlchester,7232,"Grocery Rice",Grocery,Rice,2024-12-26,2024-12-28,2025-01-04,Delivered,4,42.97,49.16,44.81,"Cash on Delivery",167.53,18.38
+35,113,"Kimberly Francis",Female,32,East,Charlesmouth,8140,"Grocery Rice",Grocery,Rice,2025-02-02,2025-02-04,2025-02-10,Delivered,4,36.76,37.07,92.36,UPI,202.33,7.90
+36,289,"Jennifer Estrada",Other,19,North,Ronaldtown,8022,"Clothing Jacket",Clothing,Jacket,2024-07-05,2024-07-05,2024-07-08,Delivered,4,52.74,28.78,37.06,UPI,219.24,45.11
+37,130,"Paige Ward",Male,48,North,Hughesmouth,9837,"Electronics Tablet",Electronics,Tablet,2024-08-17,2024-08-22,2024-08-23,Delivered,1,1582.20,450.74,23.94,"Debit Card",1155.40,115.93
+38,243,"Randy Roberts",Other,25,South,"West Travisside",8619,"Furniture Sofa",Furniture,Sofa,2024-06-20,2024-06-24,2024-06-29,Delivered,1,1188.91,58.41,34.55,"Cash on Delivery",1165.05,227.84
+39,193,"Aaron Keith",Female,63,South,"Port Lauraberg",2245,"Clothing Shirt",Clothing,Shirt,2024-11-04,2024-11-09,2024-11-14,Delivered,1,99.62,16.92,8.90,"Credit Card",91.60,14.14
+40,260,"Jessica Hernandez",Other,39,North,"East Kenneth",7882,"Grocery Rice",Grocery,Rice,2025-03-19,2025-03-21,2025-03-27,Delivered,4,35.95,18.79,74.71,"Cash on Delivery",199.72,26.55
+41,248,"Christian Smith",Female,45,East,Mcconnellhaven,6280,"Clothing Shirt",Clothing,Shirt,2024-10-12,2024-10-15,2024-10-17,Delivered,4,76.98,61.73,36.96,UPI,283.15,42.95
+42,109,"William Wilson",Female,69,East,"West Steve",6576,"Furniture Wardrobe",Furniture,Wardrobe,2024-10-09,2024-10-13,2024-10-14,Delivered,5,1427.29,183.29,73.41,UPI,7026.57,1346.92
+43,252,"Valerie Ramos",Female,68,North,"Lake Lindamouth",2524,"Furniture Table",Furniture,Table,2025-02-18,2025-02-23,2025-02-25,Delivered,3,1029.54,341.93,57.58,"Cash on Delivery",2804.27,434.81
+44,170,"Kari Webb",Female,62,West,Evansburgh,5438,"Furniture Sofa",Furniture,Sofa,2024-08-24,2024-08-24,2024-08-30,Delivered,2,541.77,241.48,95.33,UPI,937.39,191.31
+45,142,"Barbara Moody",Other,55,East,Christianburgh,2647,"Clothing Jeans",Clothing,Jeans,2024-08-20,2024-08-22,2024-08-24,Delivered,3,21.41,10.29,31.06,"Debit Card",85.00,7.31
+46,252,"Robert Garcia",Male,18,East,"South Kimberly",8690,"Grocery Beverage",Grocery,Beverage,2024-12-14,2024-12-15,2024-12-16,Delivered,3,47.17,20.28,83.10,"Credit Card",204.33,18.76
+47,78,"William Vang",Male,69,East,Christineberg,2395,"Clothing Shirt",Clothing,Shirt,2025-07-25,2025-07-28,2025-08-02,Delivered,5,99.07,33.54,54.64,"Cash on Delivery",516.45,75.70
+48,220,"Christopher Shah",Female,54,North,Jacobberg,2625,"Clothing T-Shirt",Clothing,T-Shirt,2024-09-27,2024-10-02,2024-10-03,Delivered,2,43.99,14.57,19.87,UPI,93.28,6.49
+49,150,"Heather Jones",Male,32,East,"Port Mark",5632,"Grocery Rice",Grocery,Rice,2024-08-27,2024-08-29,2024-09-05,Delivered,5,33.74,47.25,45.39,"Net Banking",166.84,10.67
+50,73,"Philip Garza",Male,21,South,"South Randy",6039,"Furniture Bed",Furniture,Bed,2024-05-07,2024-05-10,2024-05-16,Delivered,3,1079.63,915.97,52.54,"Credit Card",2375.46,459.59
+51,222,"Rebecca Hensley",Other,38,East,"South Sarah",1423,"Electronics Laptop",Electronics,Laptop,2024-01-22,2024-01-27,2024-02-03,Delivered,3,1279.62,878.84,21.64,"Net Banking",2981.66,598.45
+52,93,"Ryan Bell",Other,45,West,"West Timothybury",2494,"Grocery Snacks",Grocery,Snacks,2025-02-22,2025-02-24,2025-02-27,Delivered,1,43.17,4.27,70.90,"Cash on Delivery",109.80,2.20
+53,19,"Alan Phelps",Female,23,East,"Port Troy",5135,"Furniture Chair",Furniture,Chair,2025-02-17,2025-02-21,2025-02-28,Delivered,1,1020.72,166.15,44.26,UPI,898.83,109.51
+54,227,"Samuel Dominguez",Male,31,East,Hardyfort,9998,"Clothing Jeans",Clothing,Jeans,2025-03-24,2025-03-29,2025-04-02,Delivered,1,22.89,4.33,80.93,"Credit Card",99.49,1.99
+55,283,"Jacqueline Barnett",Female,23,South,Rubioport,2858,"Grocery Rice",Grocery,Rice,2024-06-06,2024-06-09,2024-06-15,Delivered,3,26.43,6.50,84.30,"Cash on Delivery",157.09,11.28
+56,75,"Arthur Scott",Female,30,South,"East Felicia",2143,"Furniture Bed",Furniture,Bed,2024-12-14,2024-12-18,2024-12-21,Delivered,1,495.97,44.42,60.76,"Debit Card",512.31,120.49
+57,229,"Jessica Jackson",Other,48,East,"Port Vanessa",6446,"Grocery Beverage",Grocery,Beverage,2024-11-25,2024-11-26,2024-12-02,Delivered,2,29.45,4.13,78.68,UPI,133.45,2.67
+58,198,"Matthew Johnson",Other,68,South,Hunterland,9115,"Electronics Laptop",Electronics,Laptop,2025-05-29,2025-06-02,2025-06-05,Delivered,1,1786.12,235.93,54.97,UPI,1605.16,276.83
+59,80,"Holly Miller",Male,48,East,Clayshire,6546,"Grocery Rice",Grocery,Rice,2024-12-02,2024-12-07,2024-12-14,Delivered,5,20.24,9.61,73.28,"Credit Card",164.87,3.30
+60,36,"Valerie Abbott DVM",Male,58,East,"Port John",4727,"Electronics Headphones",Electronics,Headphones,2024-04-10,2024-04-15,2024-04-21,Delivered,1,1054.25,219.49,90.83,"Net Banking",925.59,55.00
+61,184,"Heidi Gray",Female,45,South,Robertsberg,5000,"Grocery Spices",Grocery,Spices,2024-07-03,2024-07-04,2024-07-06,Delivered,1,31.26,3.59,69.90,"Debit Card",97.57,1.95
+62,237,"Danny Harrell",Other,34,West,Cooperbury,5183,"Electronics Headphones",Electronics,Headphones,2024-10-21,2024-10-26,2024-10-31,Delivered,2,425.57,241.36,98.83,"Net Banking",708.61,49.92
+63,234,"Brandy Jacobs",Female,30,West,Longfurt,8916,"Electronics Laptop",Electronics,Laptop,2025-01-25,2025-01-29,2025-02-01,Delivered,5,802.98,842.26,7.08,"Credit Card",3179.72,842.54
+64,290,"Meagan Martinez",Other,67,North,Williamsport,9138,"Furniture Table",Furniture,Table,2024-12-26,2024-12-27,2025-01-02,Delivered,2,969.25,394.15,73.49,"Credit Card",1617.84,327.23
+65,21,"Janet Morales",Female,68,West,Julieborough,1546,"Furniture Table",Furniture,Table,2024-04-02,2024-04-04,2024-04-07,Delivered,4,345.90,54.86,56.24,"Net Banking",1384.98,376.12
+66,85,"John Blair",Female,70,West,"East Taylor",5835,"Furniture Chair",Furniture,Chair,2025-04-24,2025-04-24,2025-04-26,Delivered,2,1304.20,566.71,98.09,"Net Banking",2139.78,559.68
+67,47,"George Mckay",Female,18,East,Hineston,9791,"Electronics Headphones",Electronics,Headphones,2025-01-12,2025-01-17,2025-01-23,Delivered,3,1293.75,957.61,94.33,"Credit Card",3017.97,344.69
+68,288,"Leslie Greene",Female,57,South,Thomaschester,2035,"Grocery Snacks",Grocery,Snacks,2025-02-22,2025-02-22,2025-02-24,Delivered,1,47.42,4.33,51.80,"Debit Card",94.89,1.90
+69,199,"Maria Smith",Female,41,West,"East Cindy",3531,"Grocery Rice",Grocery,Rice,2025-05-16,2025-05-20,2025-05-24,Delivered,3,3.57,1.19,47.12,"Credit Card",56.64,1.13
+70,189,"Lauren Adkins",Other,59,East,"North Karenfurt",1992,"Grocery Snacks",Grocery,Snacks,2024-07-13,2024-07-13,2024-07-20,Delivered,4,6.40,1.63,65.75,"Net Banking",89.72,5.39
+71,125,"Jennifer Flowers",Male,68,South,"South Steven",2124,"Clothing Dress",Clothing,Dress,2024-08-09,2024-08-10,2024-08-13,Delivered,2,98.86,35.35,31.34,"Cash on Delivery",193.71,32.72
+72,129,"Jacob Spencer",Male,25,North,Snyderburgh,3159,"Electronics Tablet",Electronics,Tablet,2024-08-31,2024-09-04,2024-09-07,Delivered,1,596.22,9.37,75.46,UPI,662.31,92.30
+73,230,"Jeffrey Copeland",Female,50,North,Gomezland,8405,"Clothing Dress",Clothing,Dress,2024-02-14,2024-02-19,2024-02-26,Delivered,5,50.16,48.40,7.96,UPI,210.36,57.29
+74,56,"Samantha Simpson",Female,63,West,"South Brett",2204,"Electronics Tablet",Electronics,Tablet,2024-05-31,2024-05-31,2024-06-02,Delivered,3,1361.34,717.19,72.65,"Net Banking",3439.48,571.47
+75,233,"Steven Berger",Other,56,West,"Port George",2624,"Electronics Camera",Electronics,Camera,2024-08-08,2024-08-11,2024-08-15,Delivered,2,1003.48,498.18,42.88,"Net Banking",1551.66,364.34
+76,131,"Theresa Young",Female,27,West,"Port Jimmyville",2099,"Electronics Mobile",Electronics,Mobile,2024-04-05,2024-04-08,2024-04-09,Delivered,3,1680.01,841.24,60.71,"Credit Card",4259.50,881.47
+77,211,"Douglas Hernandez",Female,60,West,Meghanside,1842,"Furniture Wardrobe",Furniture,Wardrobe,2024-11-15,2024-11-17,2024-11-18,Delivered,5,810.38,188.09,50.81,"Cash on Delivery",3914.62,1032.23
+78,189,"Krista Collins",Male,66,East,"Port Chelsea",4705,"Grocery Spices",Grocery,Spices,2025-07-24,2025-07-24,2025-07-29,Delivered,3,3.39,0.83,77.43,"Debit Card",86.77,1.74
+79,74,"Mrs. Marissa Baldwin",Other,60,West,Mitchellside,2140,"Clothing Shirt",Clothing,Shirt,2024-04-03,2024-04-08,2024-04-13,Delivered,2,57.62,15.68,19.95,"Cash on Delivery",119.51,12.93
+80,44,"Stephen Hall",Male,27,South,"South Deanna",1815,"Electronics Tablet",Electronics,Tablet,2025-03-29,2025-04-03,2025-04-07,Delivered,4,1332.03,662.05,25.48,"Credit Card",4691.55,940.34
+81,146,"Melanie Mcgee",Other,61,West,"West Cynthiaview",9633,"Furniture Chair",Furniture,Chair,2024-08-13,2024-08-16,2024-08-21,Delivered,1,110.76,10.02,25.07,"Net Banking",125.81,9.64
+82,62,"John Melton",Male,49,West,Schmidtbury,3878,"Clothing Jacket",Clothing,Jacket,2025-06-29,2025-07-04,2025-07-06,Delivered,5,75.87,76.03,38.65,UPI,341.97,40.08
+83,10,"Mary Quinn",Female,22,East,"Port Thomasshire",8033,"Grocery Beverage",Grocery,Beverage,2024-10-23,2024-10-23,2024-10-27,Delivered,1,48.38,2.49,95.02,"Net Banking",140.91,2.82
+84,46,"Dennis Smith",Female,24,South,Julietown,8138,"Grocery Spices",Grocery,Spices,2024-03-21,2024-03-24,2024-03-31,Delivered,3,37.80,7.54,79.02,"Cash on Delivery",184.88,3.70
+85,262,"Tony Woodward",Male,67,East,"Lake Michelleberg",6752,"Clothing T-Shirt",Clothing,T-Shirt,2024-04-15,2024-04-16,2024-04-19,Delivered,2,37.35,3.43,77.12,UPI,148.39,2.97
+86,238,"James Gordon",Other,66,West,Stephenton,6295,"Furniture Table",Furniture,Table,2025-03-26,2025-03-26,2025-03-30,Delivered,4,983.94,940.25,61.18,UPI,3056.69,508.13
+87,232,"Jack Stephens",Male,21,East,Hallborough,5703,"Electronics Mobile",Electronics,Mobile,2025-06-03,2025-06-06,2025-06-10,Delivered,5,1242.34,1475.56,90.11,"Debit Card",4826.25,863.13
+88,165,"Stephanie Lopez",Other,48,South,Donnafort,2013,"Grocery Rice",Grocery,Rice,2024-12-17,2024-12-22,2024-12-23,Delivered,5,33.01,1.94,72.22,"Cash on Delivery",235.33,29.71
+89,82,"George Bennett DDS",Female,41,East,"East Jamie",7347,"Grocery Snacks",Grocery,Snacks,2024-02-23,2024-02-28,2024-03-05,Delivered,3,5.16,0.44,69.45,"Cash on Delivery",84.49,1.69
+90,77,"Vanessa Stokes",Female,23,South,"Lake Donnaberg",6731,"Furniture Bed",Furniture,Bed,2024-05-12,2024-05-16,2024-05-22,Delivered,1,533.41,60.28,80.21,"Cash on Delivery",553.34,97.39
+91,48,"Brian Wong",Other,60,West,Kristenberg,9331,"Furniture Chair",Furniture,Chair,2025-01-06,2025-01-08,2025-01-10,Delivered,2,578.43,265.90,23.24,"Net Banking",914.20,265.48
+92,52,"Michelle Taylor",Other,67,North,"Lake Daniel",6517,"Clothing Dress",Clothing,Dress,2025-01-20,2025-01-21,2025-01-23,Delivered,2,103.13,47.72,81.86,UPI,240.40,4.81
+93,187,"Kimberly Cole",Other,64,South,"Lake Johnfort",8277,"Furniture Bed",Furniture,Bed,2024-08-27,2024-08-31,2024-09-02,Delivered,3,1451.84,1024.91,90.88,"Cash on Delivery",3421.49,431.48
+94,226,"Steven Duncan",Female,67,East,Millerview,7256,"Grocery Pasta",Grocery,Pasta,2024-07-23,2024-07-27,2024-07-29,Delivered,3,4.50,1.95,40.27,"Cash on Delivery",51.82,1.04
+95,64,"Michael Davis",Female,23,South,"East Elizabethmouth",5469,"Grocery Spices",Grocery,Spices,2024-05-30,2024-06-02,2024-06-03,Delivered,2,41.20,21.87,93.39,"Net Banking",153.92,3.08
+96,121,"Stephanie Henderson",Female,23,East,"North Katiemouth",4678,"Electronics Tablet",Electronics,Tablet,2024-04-11,2024-04-16,2024-04-22,Delivered,3,1645.35,203.76,32.25,"Debit Card",4764.54,1247.34
+97,241,"Derrick Smith",Female,57,North,Robertberg,2298,"Electronics Tablet",Electronics,Tablet,2024-08-08,2024-08-09,2024-08-14,Delivered,5,1197.21,199.67,32.37,UPI,5818.75,926.38
+98,235,"Carrie Pratt",Male,25,West,Williamland,9782,"Electronics Camera",Electronics,Camera,2024-09-04,2024-09-09,2024-09-11,Delivered,3,1029.71,569.77,27.85,"Credit Card",2547.21,452.58
+99,269,"Danielle Garcia DVM",Female,22,North,Weststad,7397,"Grocery Rice",Grocery,Rice,2025-01-31,2025-02-02,2025-02-05,Delivered,1,19.14,0.39,27.91,"Cash on Delivery",46.66,2.89
+100,171,"Melissa Ibarra",Male,20,East,Williamsport,9945,"Furniture Table",Furniture,Table,2025-04-20,2025-04-25,2025-04-29,Delivered,2,1236.10,46.80,78.74,"Credit Card",2504.14,453.00
+101,103,"Melvin Scott",Male,38,East,Meghanshire,9444,"Grocery Spices",Grocery,Spices,2025-04-29,2025-05-01,2025-05-02,Delivered,2,15.73,8.14,9.54,"Net Banking",32.86,4.09
+102,224,"David Miller",Female,65,West,Frostport,7334,"Furniture Table",Furniture,Table,2025-05-23,2025-05-28,2025-06-01,Delivered,3,1394.03,651.50,81.11,"Cash on Delivery",3611.70,863.26
+103,93,"Christopher Hughes",Other,36,East,"South Alyssa",2680,"Electronics Tablet",Electronics,Tablet,2024-10-29,2024-10-31,2024-11-04,Delivered,5,1520.03,379.96,47.17,"Net Banking",7267.36,1350.55
+104,223,"Rose Shaffer",Female,58,North,"Port Kristinemouth",2229,"Grocery Snacks",Grocery,Snacks,2025-06-09,2025-06-14,2025-06-20,Delivered,2,47.73,4.09,62.72,"Credit Card",154.09,22.32
+105,121,"Bryce Stokes",Other,41,East,"West Caleb",7272,"Electronics Camera",Electronics,Camera,2024-06-06,2024-06-11,2024-06-15,Delivered,3,932.42,640.37,59.52,"Net Banking",2216.41,432.24
+106,128,"Shannon Wells",Male,19,South,"South Kathleenchester",9176,"Grocery Spices",Grocery,Spices,2024-04-30,2024-05-02,2024-05-09,Delivered,3,35.79,6.91,63.13,"Debit Card",163.59,3.27
+107,63,"Sandra Solis",Male,22,West,Wheelerville,3828,"Grocery Rice",Grocery,Rice,2024-11-23,2024-11-28,2024-12-01,Delivered,1,28.40,2.47,33.50,"Debit Card",59.43,1.19
+108,186,"Randy Woodward",Other,32,North,Cruzmouth,4292,"Clothing T-Shirt",Clothing,T-Shirt,2025-05-20,2025-05-20,2025-05-23,Delivered,5,77.23,54.14,98.39,"Credit Card",430.40,8.61
+109,159,"Kurt Williams",Female,63,West,Russellburgh,9612,"Grocery Beverage",Grocery,Beverage,2024-03-16,2024-03-17,2024-03-20,Delivered,1,23.60,4.82,37.73,"Cash on Delivery",56.51,1.13
+110,94,"Scott Ewing",Male,45,North,"Port Traceybury",3034,"Clothing Jeans",Clothing,Jeans,2024-06-17,2024-06-18,2024-06-21,Delivered,2,54.60,30.82,90.02,"Cash on Delivery",168.40,9.82
+111,141,"Billy Morris",Male,58,East,Robertland,9740,"Electronics Camera",Electronics,Camera,2024-06-21,2024-06-25,2024-06-30,Delivered,2,591.04,221.45,90.69,"Credit Card",1051.32,119.03
+112,15,"Abigail Durham",Male,20,East,"Port Joseph",4453,"Grocery Spices",Grocery,Spices,2024-02-01,2024-02-04,2024-02-10,Delivered,5,15.90,22.82,50.88,"Net Banking",107.56,2.15
+113,233,"Joyce Adams",Male,62,North,"South Justin",3589,"Grocery Beverage",Grocery,Beverage,2025-05-10,2025-05-13,2025-05-15,Delivered,3,31.12,8.76,73.24,UPI,157.84,3.16
+114,67,"Mary Gates",Female,50,North,Robertsside,6228,"Clothing Jacket",Clothing,Jacket,2024-05-05,2024-05-07,2024-05-11,Delivered,2,34.09,1.03,94.81,"Debit Card",161.96,3.24
+115,168,"Aimee Johnson",Other,64,East,Arellanobury,4110,"Clothing Jacket",Clothing,Jacket,2025-06-11,2025-06-14,2025-06-18,Delivered,3,69.74,5.65,42.36,"Cash on Delivery",245.93,33.87
+116,181,"Ms. Kathryn Hayes",Male,21,East,Smithview,9108,"Grocery Snacks",Grocery,Snacks,2025-07-03,2025-07-03,2025-07-10,Delivered,1,22.68,6.00,74.11,UPI,90.79,1.82
+117,27,"Janet Harmon",Other,53,South,"South Jason",6939,"Furniture Chair",Furniture,Chair,2025-01-30,2025-02-03,2025-02-07,Delivered,5,491.61,729.38,69.64,UPI,1798.31,179.99
+118,192,"Connor Ibarra",Female,53,East,"South Ricardo",3363,"Clothing Dress",Clothing,Dress,2025-06-05,2025-06-08,2025-06-13,Delivered,1,24.53,1.01,36.64,"Cash on Delivery",60.16,1.20
+119,264,"Michael Martinez",Male,38,East,"East Mary",3662,"Grocery Spices",Grocery,Spices,2024-11-02,2024-11-06,2024-11-09,Delivered,5,41.76,33.35,72.33,"Net Banking",247.78,4.96
+120,170,"Chad Hicks",Other,25,West,Schneiderfort,6040,"Electronics Camera",Electronics,Camera,2025-04-30,2025-05-02,2025-05-08,Delivered,5,1281.98,1387.23,60.43,"Cash on Delivery",5083.10,654.55
+121,195,"Rebecca Perez",Male,70,South,"West Julie",1517,"Electronics Laptop",Electronics,Laptop,2024-01-20,2024-01-23,2024-01-26,Delivered,4,557.43,461.89,43.99,"Credit Card",1811.82,430.54
+122,71,"Michele Moody",Other,31,East,Daveville,8837,"Grocery Snacks",Grocery,Snacks,2024-06-26,2024-06-29,2024-07-04,Delivered,3,28.22,17.17,87.43,"Net Banking",154.92,3.10
+123,248,"John Nelson",Male,33,East,"East Davidland",5890,"Clothing Jeans",Clothing,Jeans,2024-10-22,2024-10-27,2024-10-29,Delivered,4,51.70,21.64,93.70,"Credit Card",278.86,35.16
+124,294,"John Reese",Other,52,West,Christinaport,7464,"Furniture Table",Furniture,Table,2024-10-24,2024-10-24,2024-10-27,Delivered,1,584.91,77.62,29.36,"Cash on Delivery",536.65,96.37
+125,139,"David Carroll PhD",Other,62,East,Annville,3249,"Electronics Camera",Electronics,Camera,2024-09-02,2024-09-03,2024-09-04,Delivered,5,683.64,238.76,14.52,"Debit Card",3193.96,524.54
+126,3,"Elizabeth Jensen",Other,28,West,Loveburgh,8793,"Grocery Pasta",Grocery,Pasta,2024-10-21,2024-10-23,2024-10-26,Delivered,1,45.58,1.22,59.54,"Credit Card",103.90,2.08
+127,90,"Charles King",Female,29,North,Stephanietown,7504,"Grocery Pasta",Grocery,Pasta,2024-10-23,2024-10-23,2024-10-24,Delivered,3,29.26,2.83,98.38,"Cash on Delivery",183.33,3.67
+128,269,"Shawn Moon",Female,26,West,Rodneymouth,5470,"Clothing Shirt",Clothing,Shirt,2024-12-04,2024-12-05,2024-12-11,Delivered,4,84.83,73.15,6.34,"Debit Card",272.51,43.63
+129,90,"Carmen Rice",Other,58,West,Leonardland,8007,"Furniture Chair",Furniture,Chair,2025-02-14,2025-02-19,2025-02-20,Delivered,2,1474.36,422.37,93.90,UPI,2620.25,238.08
+130,137,"Casey Baldwin",Female,37,North,Ernestfurt,5285,"Furniture Table",Furniture,Table,2024-03-04,2024-03-09,2024-03-10,Delivered,4,529.53,257.62,52.74,"Net Banking",1913.24,500.57
+131,61,"Terri Brewer",Other,36,East,Liufort,4618,"Clothing T-Shirt",Clothing,T-Shirt,2025-05-04,2025-05-05,2025-05-09,Delivered,5,57.36,60.39,91.72,"Debit Card",318.13,20.16
+132,127,"Krystal Thompson",Other,66,North,Nicoleside,9609,"Grocery Spices",Grocery,Spices,2025-01-05,2025-01-05,2025-01-10,Delivered,1,4.96,0.82,53.02,"Net Banking",57.16,1.14
+133,267,"Jeremy Bailey",Female,25,South,"New Daniel",9008,"Electronics Camera",Electronics,Camera,2025-04-01,2025-04-01,2025-04-05,Delivered,2,1172.52,321.36,10.48,"Credit Card",2034.16,385.28
+134,203,"Nathan Cooper",Female,70,North,"North Marymouth",4570,"Electronics Mobile",Electronics,Mobile,2025-03-09,2025-03-11,2025-03-17,Delivered,1,1219.98,22.05,89.95,"Net Banking",1287.88,334.83
+135,210,"Jo Meyers",Male,67,South,"East Thomasfort",7887,"Furniture Bed",Furniture,Bed,2025-04-04,2025-04-07,2025-04-11,Delivered,1,1055.82,209.62,56.23,"Debit Card",902.43,185.45
+136,276,"Amanda Osborne",Female,51,South,"Port Elizabethhaven",4648,"Electronics Mobile",Electronics,Mobile,2024-11-01,2024-11-04,2024-11-10,Delivered,5,1021.02,580.87,26.82,"Debit Card",4551.05,867.14
+137,58,"Kelsey Raymond",Male,69,West,"Port Deanna",1256,"Clothing T-Shirt",Clothing,T-Shirt,2024-03-09,2024-03-09,2024-03-14,Delivered,1,64.64,13.03,87.86,UPI,139.47,5.74
+138,120,"Brittney Young",Other,31,North,Annashire,3295,"Furniture Table",Furniture,Table,2024-11-22,2024-11-26,2024-12-01,Delivered,3,431.67,340.43,98.64,"Net Banking",1053.22,174.58
+139,32,"Amanda Allen",Other,55,South,Lewisfort,7999,"Grocery Rice",Grocery,Rice,2024-12-18,2024-12-23,2024-12-29,Delivered,4,39.72,15.19,44.55,"Cash on Delivery",188.24,10.27
+140,243,"Lori Morales",Male,32,East,"East Dominic",3365,"Grocery Rice",Grocery,Rice,2025-07-29,2025-08-01,2025-08-05,Delivered,5,27.44,15.99,29.22,UPI,150.43,18.97
+141,190,"Angelica Bell",Male,52,South,"West Cindyville",1844,"Furniture Bed",Furniture,Bed,2024-02-10,2024-02-10,2024-02-12,Delivered,5,1114.03,933.86,50.54,"Credit Card",4686.83,1261.44
+142,109,"Paul Martinez",Male,65,North,Shaneton,8846,"Clothing Dress",Clothing,Dress,2024-07-28,2024-07-31,2024-08-02,Delivered,5,52.16,22.15,49.29,"Net Banking",287.94,47.23
+143,263,"Tyler Luna",Female,47,North,Tiffanyshire,8692,"Furniture Table",Furniture,Table,2025-01-14,2025-01-16,2025-01-20,Delivered,1,887.53,58.92,18.86,"Cash on Delivery",847.47,117.26
+144,214,"Erin Phillips",Female,27,South,"West Michellefurt",6404,"Clothing Jacket",Clothing,Jacket,2025-08-06,2025-08-07,2025-08-11,Delivered,5,85.46,87.79,29.45,UPI,368.96,75.51
+145,236,"Sarah Crawford",Male,64,East,Alanville,3773,"Clothing Dress",Clothing,Dress,2025-05-15,2025-05-16,2025-05-21,Delivered,1,72.39,18.22,12.06,"Credit Card",66.23,13.99
+146,212,"Cynthia Reynolds",Male,58,South,Robertton,2113,"Clothing Shirt",Clothing,Shirt,2024-08-11,2024-08-15,2024-08-19,Delivered,3,26.05,14.95,93.72,"Credit Card",156.92,3.14
+147,4,"Kelly Schneider",Other,53,West,"East William",1194,"Electronics Camera",Electronics,Camera,2024-10-08,2024-10-12,2024-10-15,Delivered,1,1153.77,241.55,45.90,"Credit Card",958.12,258.55
+148,269,"Brian Johnston",Male,33,South,"East Calvin",9625,"Furniture Sofa",Furniture,Sofa,2024-09-30,2024-10-03,2024-10-04,Delivered,3,1443.02,596.11,28.10,"Credit Card",3761.05,889.63
+149,17,"Elizabeth Miller",Male,43,West,"New Gregorymouth",7179,"Grocery Rice",Grocery,Rice,2024-01-10,2024-01-15,2024-01-17,Delivered,1,25.99,3.38,79.52,"Credit Card",102.13,2.04
+150,271,"Caroline Garrison",Male,32,South,Cunninghamhaven,8790,"Furniture Chair",Furniture,Chair,2024-03-17,2024-03-22,2024-03-25,Delivered,5,888.91,43.87,93.23,"Cash on Delivery",4493.91,672.04
+151,74,"Anthony Craig",Other,70,West,"New Kurt",2260,"Furniture Table",Furniture,Table,2025-07-31,2025-08-01,2025-08-06,Delivered,4,1047.85,679.71,41.47,"Credit Card",3553.16,854.33
+152,257,"Mr. Albert Brown",Other,40,North,"South Melissa",2600,"Grocery Pasta",Grocery,Pasta,2024-03-18,2024-03-20,2024-03-25,Delivered,5,47.83,28.46,78.49,UPI,289.18,11.59
+153,252,"Connie Sanchez",Male,40,West,"New Kenneth",8075,"Clothing Dress",Clothing,Dress,2025-01-24,2025-01-24,2025-01-31,Delivered,5,49.54,18.31,11.98,"Debit Card",241.37,32.96
+154,200,"Steven Cobb",Female,41,North,Kramerton,2499,"Electronics Tablet",Electronics,Tablet,2025-03-31,2025-04-02,2025-04-09,Delivered,3,473.79,37.22,45.94,"Credit Card",1430.09,280.83
+155,14,"Tracie Hughes",Male,40,North,"Lake Brooke",6315,"Grocery Rice",Grocery,Rice,2024-10-25,2024-10-28,2024-11-01,Delivered,1,36.79,6.18,99.31,UPI,129.92,2.60
+156,87,"Cynthia Archer",Male,35,East,Denisestad,5397,"Grocery Pasta",Grocery,Pasta,2024-03-05,2024-03-06,2024-03-10,Delivered,3,22.21,9.68,12.31,UPI,69.26,7.04
+157,101,"Danielle Mcintosh",Female,24,South,"North Ronaldport",5991,"Electronics Headphones",Electronics,Headphones,2024-12-06,2024-12-10,2024-12-14,Delivered,3,1048.38,406.30,83.24,"Net Banking",2822.08,605.76
+158,165,"Patricia Schultz",Other,62,South,Doyleborough,8848,"Furniture Table",Furniture,Table,2025-02-11,2025-02-13,2025-02-16,Delivered,4,1454.87,1365.20,35.96,"Net Banking",4490.24,681.01
+159,59,"Rachael Levy",Other,30,South,"Lake Heatherview",1440,"Grocery Pasta",Grocery,Pasta,2025-03-24,2025-03-26,2025-04-02,Delivered,1,41.31,9.86,43.87,"Debit Card",75.32,1.51
+160,130,"Perry Mckee",Other,27,West,"New George",7176,"Electronics Headphones",Electronics,Headphones,2025-05-05,2025-05-09,2025-05-13,Delivered,5,1161.24,1603.19,70.71,"Net Banking",4273.72,849.33
+161,275,"Jennifer Perry",Other,58,North,"South Debraview",2791,"Clothing Jeans",Clothing,Jeans,2024-06-19,2024-06-24,2024-06-29,Delivered,1,76.32,14.77,66.44,UPI,127.99,7.04
+162,55,"Anthony Wall",Male,24,East,Longmouth,4637,"Clothing Jacket",Clothing,Jacket,2025-01-18,2025-01-21,2025-01-25,Delivered,5,89.04,20.13,99.78,"Credit Card",524.85,68.81
+163,60,"Deborah Hamilton",Other,27,East,Charlesfurt,6110,"Furniture Bed",Furniture,Bed,2024-07-30,2024-08-03,2024-08-07,Delivered,3,766.63,302.32,71.19,"Credit Card",2068.76,316.48
+164,12,"Elizabeth Leon",Female,59,North,"East Reneeshire",3692,"Clothing Dress",Clothing,Dress,2024-06-27,2024-07-01,2024-07-03,Delivered,3,75.98,65.54,27.03,UPI,189.43,26.90
+165,203,"Ms. Jenna Bell",Male,65,South,Johnborough,8365,"Grocery Beverage",Grocery,Beverage,2024-01-05,2024-01-10,2024-01-12,Delivered,2,15.36,6.49,80.62,"Cash on Delivery",104.85,2.10
+166,96,"Keith Perez",Female,38,South,Leahville,8496,"Electronics Tablet",Electronics,Tablet,2025-05-16,2025-05-20,2025-05-26,Delivered,3,1314.85,723.40,60.77,"Cash on Delivery",3281.92,520.57
+167,89,"Anna Luna",Other,63,East,Andrewhaven,2388,"Clothing Jeans",Clothing,Jeans,2024-04-30,2024-05-01,2024-05-04,Delivered,1,38.30,7.97,53.53,UPI,83.86,1.88
+168,217,"Mary Flores",Male,49,South,"New Mallory",3733,"Grocery Snacks",Grocery,Snacks,2024-05-23,2024-05-24,2024-05-27,Delivered,4,31.73,32.96,95.42,UPI,189.38,9.19
+169,288,"Elizabeth Lee",Other,59,West,"New Destiny",7703,"Grocery Beverage",Grocery,Beverage,2025-03-30,2025-04-02,2025-04-04,Delivered,1,29.14,6.96,25.95,"Net Banking",48.13,0.96
+170,87,"Brendan Palmer",Female,54,West,Bellberg,9369,"Electronics Camera",Electronics,Camera,2024-04-26,2024-04-28,2024-05-05,Delivered,5,1699.58,935.27,83.15,"Cash on Delivery",7645.78,789.31
+171,112,"Samuel White",Female,24,South,Stevensonfort,5877,"Electronics Headphones",Electronics,Headphones,2024-09-26,2024-09-28,2024-10-05,Delivered,1,1046.42,312.03,78.69,"Cash on Delivery",813.08,76.34
+172,180,"Steven Lynn",Other,57,West,"Port Tammystad",3719,"Clothing T-Shirt",Clothing,T-Shirt,2024-07-30,2024-07-30,2024-08-04,Delivered,3,73.23,39.34,21.00,"Cash on Delivery",201.35,50.27
+173,137,"Matthew Singleton",Other,61,North,"East Karenstad",3221,"Grocery Rice",Grocery,Rice,2024-10-10,2024-10-15,2024-10-17,Delivered,2,13.98,5.97,83.71,UPI,105.70,2.11
+174,73,"Mark Patel",Other,58,East,"East Amanda",7786,"Grocery Beverage",Grocery,Beverage,2024-03-18,2024-03-23,2024-03-30,Delivered,1,21.34,4.80,71.00,UPI,87.54,1.75
+175,168,"Scott Torres",Other,18,North,"East Lawrenceport",8511,"Furniture Chair",Furniture,Chair,2025-07-01,2025-07-04,2025-07-06,Delivered,4,1254.79,744.92,35.67,"Debit Card",4309.91,660.09
+176,290,"Gloria Horton",Female,68,East,"South Tiffanyborough",1793,"Electronics Mobile",Electronics,Mobile,2025-04-15,2025-04-15,2025-04-16,Delivered,2,1050.19,0.43,96.01,"Debit Card",2195.96,261.91
+177,155,"Cynthia Vang",Male,35,North,Barreraland,6905,"Furniture Chair",Furniture,Chair,2025-01-15,2025-01-20,2025-01-26,Delivered,2,172.50,64.75,73.97,"Credit Card",354.22,54.48
+178,49,"Alexandra Burke",Male,31,West,"West Sharonhaven",2276,"Clothing Dress",Clothing,Dress,2024-08-19,2024-08-23,2024-08-29,Delivered,4,20.93,17.47,82.63,"Debit Card",148.88,2.98
+179,245,"Emily Villa",Male,32,West,"West Isaac",2463,"Electronics Mobile",Electronics,Mobile,2024-11-16,2024-11-18,2024-11-21,Delivered,2,950.63,463.93,88.08,"Credit Card",1525.41,298.34
+180,272,"Nancy Thompson",Other,18,South,Reidhaven,8210,"Furniture Table",Furniture,Table,2024-06-04,2024-06-07,2024-06-12,Delivered,4,1303.95,135.64,14.54,UPI,5094.70,1268.24
+181,180,"Hannah Powell",Female,38,South,Jackieburgh,5059,"Furniture Chair",Furniture,Chair,2024-09-11,2024-09-15,2024-09-20,Delivered,5,1109.65,474.24,94.42,"Net Banking",5168.43,494.63
+182,106,"Rose Sellers",Other,56,South,Patrickside,7418,"Furniture Chair",Furniture,Chair,2024-09-02,2024-09-05,2024-09-09,Delivered,1,437.51,83.75,11.75,"Net Banking",365.51,98.18
+183,163,"Matthew Burgess",Male,42,West,Watkinstown,6986,"Clothing Jacket",Clothing,Jacket,2024-03-15,2024-03-15,2024-03-20,Delivered,1,21.38,1.38,92.65,"Net Banking",112.65,2.25
+184,257,"Jessica Sosa",Female,45,West,"Lake Willie",2350,"Clothing Jeans",Clothing,Jeans,2024-03-26,2024-03-28,2024-03-29,Delivered,5,112.09,163.82,19.76,"Credit Card",416.39,59.79
+185,159,"Michael Owens",Other,45,South,"New Lesliestad",1948,"Clothing Shirt",Clothing,Shirt,2025-03-20,2025-03-20,2025-03-24,Delivered,5,80.88,37.52,75.46,"Debit Card",442.34,86.53
+186,6,"Bailey Young",Male,49,East,"West Lisafurt",9568,"Furniture Table",Furniture,Table,2025-01-15,2025-01-16,2025-01-22,Delivered,3,1126.11,119.65,90.49,"Cash on Delivery",3349.17,524.78
+187,33,"Cassandra Holmes",Female,63,North,"South Caitlinfort",9128,"Grocery Spices",Grocery,Spices,2025-01-03,2025-01-03,2025-01-07,Delivered,5,10.01,2.36,78.47,"Credit Card",126.16,2.52
+188,117,"Amanda Wilson",Other,50,North,Amandahaven,1721,"Electronics Laptop",Electronics,Laptop,2024-02-17,2024-02-20,2024-02-23,Delivered,4,1864.39,400.38,96.23,UPI,7153.41,716.99
+189,115,"Andrew Burns",Female,33,West,"North Michaelshire",6241,"Furniture Chair",Furniture,Chair,2025-08-08,2025-08-10,2025-08-11,Delivered,5,1042.66,82.38,26.20,UPI,5157.12,1041.77
+190,36,"Jessica Oliver",Female,36,East,Vanessabury,6362,"Electronics Camera",Electronics,Camera,2025-04-12,2025-04-12,2025-04-15,Delivered,2,795.71,374.55,75.26,UPI,1292.13,166.87
+191,101,"Kelly Haney",Other,52,South,Brucebury,3466,"Electronics Headphones",Electronics,Headphones,2024-01-25,2024-01-26,2024-01-31,Delivered,3,1381.10,861.96,5.91,UPI,3287.25,545.75
+192,158,"Patrick Rasmussen",Male,31,South,"West Kathyfurt",7878,"Grocery Rice",Grocery,Rice,2024-05-25,2024-05-30,2024-06-02,Delivered,1,4.11,0.28,85.32,UPI,89.15,1.78
+193,44,"Willie Humphrey",Other,24,South,"Lake Lisa",7461,"Electronics Camera",Electronics,Camera,2025-08-04,2025-08-04,2025-08-08,Delivered,2,702.51,110.01,34.93,"Net Banking",1329.94,324.68
+194,163,"Jacob Cross",Female,35,South,Susanview,2223,"Clothing T-Shirt",Clothing,T-Shirt,2024-04-21,2024-04-22,2024-04-23,Delivered,2,64.96,12.24,16.47,UPI,134.15,13.86
+195,158,"Steve Wright",Female,34,North,"North Thomas",2481,"Clothing Jeans",Clothing,Jeans,2024-02-11,2024-02-12,2024-02-19,Delivered,3,34.83,22.29,97.00,"Net Banking",179.20,12.36
+196,134,"Jennifer Stone",Male,19,West,Hollandport,8408,"Clothing Shirt",Clothing,Shirt,2025-04-18,2025-04-18,2025-04-25,Delivered,2,32.15,1.19,79.19,UPI,142.30,2.85
+197,191,"Heidi Martin",Other,58,North,"North Amandafort",5240,"Electronics Mobile",Electronics,Mobile,2024-03-07,2024-03-08,2024-03-14,Delivered,4,1675.81,184.97,85.49,UPI,6603.76,1701.10
+198,26,"Timothy Brown",Male,54,West,"New John",7471,"Grocery Rice",Grocery,Rice,2025-01-26,2025-01-31,2025-02-04,Delivered,2,18.99,10.35,31.12,"Cash on Delivery",58.75,2.91
+199,126,"James Avery",Other,36,West,Howardmouth,7750,"Grocery Rice",Grocery,Rice,2024-03-30,2024-04-01,2024-04-05,Delivered,2,22.12,8.53,80.73,"Cash on Delivery",116.44,2.33
+200,10,"Antonio Gray",Female,68,East,"Lake Jenniferbury",8859,"Grocery Snacks",Grocery,Snacks,2025-08-02,2025-08-06,2025-08-09,Delivered,4,14.98,0.47,61.73,"Net Banking",121.18,2.42
+201,30,"Amanda Cooper",Female,51,East,"South Amandaburgh",4813,"Clothing Shirt",Clothing,Shirt,2024-09-10,2024-09-15,2024-09-17,Delivered,3,73.37,52.25,75.02,"Cash on Delivery",242.88,6.88
+202,199,"Lawrence Wilson",Female,29,South,"East Thomas",4875,"Furniture Sofa",Furniture,Sofa,2024-01-29,2024-02-03,2024-02-09,Delivered,3,1426.58,723.63,58.50,UPI,3614.61,460.59
+203,278,"Maria Butler",Female,29,West,"North Dale",1621,"Electronics Mobile",Electronics,Mobile,2024-08-26,2024-08-30,2024-09-01,Delivered,1,1194.96,0.25,92.20,"Debit Card",1286.91,161.59
+204,166,"Angela Santos MD",Male,19,South,"South Amyfurt",3320,"Electronics Camera",Electronics,Camera,2025-01-08,2025-01-08,2025-01-11,Delivered,4,1296.23,523.51,35.65,UPI,4697.06,1362.86
+205,250,"Paul Lee",Other,38,South,Robertton,6846,"Clothing Dress",Clothing,Dress,2024-06-28,2024-07-01,2024-07-04,Delivered,3,32.73,21.47,95.13,"Cash on Delivery",171.85,3.60
+206,17,"Paul Montoya",Male,56,East,"West Dennisland",4619,"Electronics Headphones",Electronics,Headphones,2024-05-24,2024-05-26,2024-06-01,Delivered,1,704.59,207.66,20.95,"Net Banking",517.88,136.75
+207,229,"Rachel Walker",Male,34,South,Fosterhaven,5088,"Electronics Tablet",Electronics,Tablet,2024-09-19,2024-09-19,2024-09-25,Delivered,1,381.85,50.20,44.87,UPI,376.52,34.91
+208,180,"Harold Lopez",Other,42,North,Williamview,8855,"Clothing T-Shirt",Clothing,T-Shirt,2025-04-07,2025-04-07,2025-04-14,Delivered,1,49.49,4.73,95.41,UPI,140.17,2.80
+209,83,"Ashley Green",Other,22,North,Lukechester,6536,"Grocery Rice",Grocery,Rice,2025-03-17,2025-03-22,2025-03-24,Delivered,5,44.71,10.54,14.62,"Cash on Delivery",227.63,28.67
+210,277,"Raymond Juarez",Female,60,East,Hillfurt,5872,"Clothing Shirt",Clothing,Shirt,2024-02-20,2024-02-23,2024-02-28,Delivered,5,103.99,23.96,39.28,"Cash on Delivery",535.27,86.23
+211,246,"John Marshall",Male,24,North,"West Charlesside",4390,"Clothing Jeans",Clothing,Jeans,2024-03-24,2024-03-27,2024-04-03,Delivered,1,50.84,6.06,51.46,"Cash on Delivery",96.24,8.05
+212,199,"Matthew Cruz",Male,41,West,"Lake Jamesburgh",7052,"Clothing Jacket",Clothing,Jacket,2024-02-15,2024-02-17,2024-02-21,Delivered,4,46.34,46.55,58.60,"Credit Card",197.41,3.95
+213,44,"Holly Frye",Other,40,West,"South Matthewberg",4727,"Electronics Headphones",Electronics,Headphones,2025-06-19,2025-06-22,2025-06-27,Delivered,4,1273.61,360.14,33.39,"Credit Card",4767.69,833.00
+214,258,"Mrs. Amanda Martinez",Other,51,South,"Port Juliefort",2970,"Grocery Pasta",Grocery,Pasta,2024-06-20,2024-06-21,2024-06-28,Delivered,2,8.06,2.05,98.89,"Debit Card",112.96,2.26
+215,133,"Jerry Garcia",Female,64,North,"Lake Janice",2425,"Grocery Spices",Grocery,Spices,2025-02-10,2025-02-14,2025-02-17,Delivered,3,26.95,22.24,6.17,UPI,64.78,12.26
+216,58,"Denise Wilson",Female,27,South,"New Janet",2641,"Electronics Camera",Electronics,Camera,2024-04-13,2024-04-15,2024-04-22,Delivered,5,1796.23,2365.34,30.09,UPI,6645.90,1519.37
+217,20,"Paul Stevens",Male,35,West,"New Saraburgh",3356,"Grocery Rice",Grocery,Rice,2025-02-09,2025-02-11,2025-02-17,Delivered,2,4.37,1.25,30.52,"Net Banking",38.01,0.76
+218,160,"Justin Conway",Female,49,North,Keithshire,4734,"Clothing Jeans",Clothing,Jeans,2025-03-29,2025-03-31,2025-04-03,Delivered,4,80.50,8.63,46.96,UPI,360.33,79.03
+219,265,"Timothy Escobar",Female,70,North,Coxburgh,9442,"Clothing Shirt",Clothing,Shirt,2024-11-14,2024-11-19,2024-11-24,Delivered,4,33.56,34.28,88.54,"Debit Card",188.50,3.77
+220,30,"Robert Parker",Male,20,West,"New Rebecca",1828,"Furniture Table",Furniture,Table,2024-10-07,2024-10-09,2024-10-16,Delivered,4,807.18,615.47,16.77,"Cash on Delivery",2630.02,274.18
+221,229,"Jason Johnson",Male,48,East,Smithborough,6640,"Clothing Jeans",Clothing,Jeans,2024-04-02,2024-04-04,2024-04-05,Delivered,4,24.97,25.58,79.08,"Debit Card",153.38,3.07
+222,106,"Alexis Santos",Female,59,West,"South Coreyshire",9409,"Electronics Mobile",Electronics,Mobile,2025-04-30,2025-05-01,2025-05-07,Delivered,2,1321.94,6.71,28.98,"Net Banking",2666.15,683.92
+223,217,"Erik Jones",Female,40,West,Gutierrezville,5128,"Clothing Jacket",Clothing,Jacket,2024-11-05,2024-11-10,2024-11-15,Delivered,5,59.72,9.17,53.59,"Net Banking",343.02,44.69
+224,288,"Rebecca Woodward",Other,56,East,Brittanyville,5890,"Electronics Headphones",Electronics,Headphones,2024-03-06,2024-03-08,2024-03-11,Delivered,3,1764.54,414.72,72.55,"Debit Card",4951.45,1347.81
+225,265,"Miguel Carter",Male,21,West,Michaeltown,6236,"Clothing Shirt",Clothing,Shirt,2025-05-24,2025-05-26,2025-05-29,Delivered,4,60.46,53.45,60.39,"Net Banking",248.78,31.68
+226,114,"Jordan Gardner",Other,52,West,"East Jerry",6873,"Furniture Table",Furniture,Table,2025-07-25,2025-07-26,2025-07-29,Delivered,1,759.09,168.73,73.89,"Net Banking",664.25,91.33
+227,46,"Shelby Martinez",Male,40,South,Chaseville,6031,"Grocery Snacks",Grocery,Snacks,2025-01-15,2025-01-17,2025-01-22,Delivered,3,24.26,2.57,10.10,"Cash on Delivery",80.31,13.00
+228,37,"Leon Levy",Female,30,North,"South Michael",7253,"Furniture Bed",Furniture,Bed,2024-02-25,2024-02-26,2024-02-28,Delivered,2,579.74,343.38,89.82,"Debit Card",905.92,236.22
+229,42,"David Bates",Female,39,South,"Lake Philipstad",6134,"Electronics Mobile",Electronics,Mobile,2025-04-07,2025-04-09,2025-04-11,Delivered,2,1279.67,121.65,79.60,UPI,2517.29,618.78
+230,220,"John Garza",Female,45,West,"North Erin",7280,"Electronics Mobile",Electronics,Mobile,2025-06-30,2025-07-01,2025-07-07,Delivered,3,1915.12,1537.47,76.90,"Credit Card",4284.79,867.01
+231,128,"Jennifer Miller",Male,62,East,"South Vincent",6113,"Clothing Shirt",Clothing,Shirt,2025-01-27,2025-01-31,2025-02-05,Delivered,3,36.70,27.21,33.33,"Cash on Delivery",116.22,2.32
+232,269,"Christopher Frazier",Female,45,South,"West Fred",6615,"Grocery Snacks",Grocery,Snacks,2024-07-11,2024-07-12,2024-07-19,Delivered,4,2.92,0.79,98.56,"Cash on Delivery",109.45,2.19
+233,87,"Mrs. Elizabeth Rodriguez",Male,41,North,Sonyamouth,7147,"Furniture Wardrobe",Furniture,Wardrobe,2024-02-19,2024-02-23,2024-02-24,Delivered,1,1014.99,6.01,70.53,"Cash on Delivery",1079.51,171.59
+234,130,"Brooke Buchanan",Female,62,South,"Port Crystal",4366,"Electronics Tablet",Electronics,Tablet,2025-03-06,2025-03-11,2025-03-12,Delivered,5,758.96,689.48,18.03,"Cash on Delivery",3123.35,825.47
+235,61,"Nicholas Horne",Female,25,North,"Lake Matthewmouth",9154,"Clothing Dress",Clothing,Dress,2024-07-23,2024-07-25,2024-08-01,Delivered,5,117.31,62.98,43.93,"Debit Card",567.50,57.11
+236,247,"Anthony Smith",Female,33,North,"Lake Ryan",1208,"Electronics Mobile",Electronics,Mobile,2025-08-10,2025-08-15,2025-08-19,Delivered,2,1914.06,895.24,12.13,"Debit Card",2945.01,712.23
+237,234,"Nicholas Lara",Female,34,West,"Lake Janeside",1820,"Electronics Laptop",Electronics,Laptop,2024-02-10,2024-02-12,2024-02-15,Delivered,3,1024.19,106.83,85.87,"Debit Card",3051.61,824.23
+238,88,"Amy Williams",Female,40,West,Scottburgh,5395,"Electronics Tablet",Electronics,Tablet,2024-12-16,2024-12-17,2024-12-18,Delivered,4,980.43,537.13,84.39,UPI,3468.98,785.29
+239,86,"Diane Brown",Male,26,North,Wellsmouth,3611,"Electronics Headphones",Electronics,Headphones,2025-05-09,2025-05-13,2025-05-19,Delivered,4,608.14,277.13,39.07,"Debit Card",2194.50,214.59
+240,248,"Deborah Shepherd",Female,25,West,"Port Antonio",8220,"Electronics Mobile",Electronics,Mobile,2024-09-24,2024-09-29,2024-10-02,Delivered,1,1497.77,304.61,77.92,"Net Banking",1271.08,234.91
+241,266,"Norma Allen",Other,62,North,"South Patrickport",8091,"Clothing Jacket",Clothing,Jacket,2024-12-20,2024-12-25,2024-12-31,Delivered,4,34.87,34.58,89.75,"Debit Card",194.65,22.83
+242,259,"Sarah Harper",Female,49,South,"East Antonio",2226,"Grocery Snacks",Grocery,Snacks,2024-09-03,2024-09-05,2024-09-08,Delivered,1,26.33,4.35,40.97,UPI,62.95,4.18
+243,294,"Jonathon Wilkins",Female,23,West,Meyermouth,8324,"Furniture Chair",Furniture,Chair,2025-05-24,2025-05-29,2025-06-04,Delivered,1,243.70,30.15,57.93,"Cash on Delivery",271.48,18.73
+244,156,"James Jones",Other,53,South,Brookstown,8474,"Furniture Sofa",Furniture,Sofa,2024-02-25,2024-02-26,2024-03-04,Delivered,4,564.76,520.09,62.00,UPI,1800.95,411.88
+245,59,"Joseph Kelly",Male,66,South,Armstrongtown,1035,"Furniture Sofa",Furniture,Sofa,2024-10-25,2024-10-29,2024-11-03,Delivered,3,1082.93,44.62,20.59,UPI,3224.76,403.04
+246,55,"Daniel Hall",Female,57,South,Sanchezburgh,4072,"Electronics Headphones",Electronics,Headphones,2024-08-08,2024-08-11,2024-08-18,Delivered,2,1518.54,98.19,44.37,"Cash on Delivery",2983.26,819.96
+247,64,"James Gilmore",Female,47,South,Callahantown,9172,"Electronics Camera",Electronics,Camera,2024-02-19,2024-02-23,2024-02-27,Delivered,5,1120.98,854.75,92.51,"Debit Card",4842.66,616.60
+248,54,"Stanley Stanley",Female,60,East,"Lake James",9259,"Grocery Beverage",Grocery,Beverage,2024-09-11,2024-09-13,2024-09-17,Delivered,3,48.58,19.80,17.67,"Cash on Delivery",143.61,16.81
+249,154,"Cody Richardson",Other,53,East,"North Jamieville",4560,"Clothing T-Shirt",Clothing,T-Shirt,2024-10-24,2024-10-29,2024-11-01,Delivered,2,118.13,46.08,96.04,"Net Banking",286.22,5.72
+250,60,"William Mills",Female,53,West,Daniellechester,7839,"Furniture Bed",Furniture,Bed,2024-01-14,2024-01-18,2024-01-19,Delivered,1,633.22,10.08,10.38,"Net Banking",633.52,91.51
+251,129,"Jerry Mitchell",Male,21,East,Sarahchester,4342,"Electronics Tablet",Electronics,Tablet,2025-04-08,2025-04-08,2025-04-13,Delivered,5,1770.23,1971.36,58.32,"Net Banking",6938.11,992.03
+252,25,"Danielle Banks",Female,42,West,Singhtown,6122,"Electronics Mobile",Electronics,Mobile,2024-09-14,2024-09-15,2024-09-20,Delivered,4,1710.97,1871.43,71.94,"Cash on Delivery",5044.39,1114.15
+253,101,"Tyler Charles",Other,30,East,Pearsonside,8353,"Clothing Shirt",Clothing,Shirt,2024-07-10,2024-07-11,2024-07-17,Delivered,5,31.94,1.95,31.52,"Net Banking",189.27,21.58
+254,3,"Jacob Wilson",Female,47,South,Monicabury,1654,"Clothing Jeans",Clothing,Jeans,2024-02-22,2024-02-27,2024-03-03,Delivered,3,69.06,35.59,39.02,"Debit Card",210.61,37.86
+255,95,"Pamela Miller",Other,22,South,"Lake Emilytown",7814,"Grocery Rice",Grocery,Rice,2024-12-23,2024-12-24,2024-12-26,Delivered,3,17.89,4.73,95.28,"Cash on Delivery",144.22,2.88
+256,5,"Keith Thompson DDS",Male,60,East,Kimberlyshire,8301,"Clothing Dress",Clothing,Dress,2024-09-06,2024-09-06,2024-09-12,Delivered,3,58.14,41.67,15.77,"Credit Card",148.52,14.38
+257,265,"Sherry Ortega",Female,50,West,"North Amy",8975,"Electronics Tablet",Electronics,Tablet,2024-07-16,2024-07-18,2024-07-23,Delivered,1,1911.96,96.02,95.85,"Credit Card",1911.79,376.63
+258,108,"Michael Smith",Other,58,South,"New Desireefort",7950,"Electronics Laptop",Electronics,Laptop,2025-07-04,2025-07-09,2025-07-15,Delivered,4,1399.15,1577.82,75.95,"Net Banking",4094.73,508.02
+259,20,"Shawn Espinoza",Male,22,North,Gordonfort,3916,"Furniture Wardrobe",Furniture,Wardrobe,2024-03-13,2024-03-17,2024-03-24,Delivered,2,1375.38,336.39,47.86,UPI,2462.23,429.16
+260,61,"Eric Wilson",Other,18,North,Pottershire,1745,"Electronics Tablet",Electronics,Tablet,2025-05-29,2025-05-29,2025-06-01,Delivered,3,1331.16,337.27,93.04,"Credit Card",3749.25,606.28
+261,243,"Kevin Abbott",Male,52,South,Daviston,3234,"Grocery Spices",Grocery,Spices,2024-10-29,2024-11-03,2024-11-05,Delivered,3,34.51,28.39,80.53,"Credit Card",155.67,3.45
+262,284,"Mr. James Floyd",Other,27,North,Aprilchester,1684,"Electronics Camera",Electronics,Camera,2025-02-07,2025-02-11,2025-02-16,Delivered,1,817.97,183.62,90.84,"Cash on Delivery",725.19,88.32
+263,73,"Mathew Ryan",Male,29,South,Johnsonfurt,5140,"Clothing Shirt",Clothing,Shirt,2024-07-04,2024-07-09,2024-07-16,Delivered,5,105.23,134.38,93.58,"Cash on Delivery",485.35,95.50
+264,38,"Benjamin Bridges",Female,60,North,"East Cherylburgh",5107,"Electronics Laptop",Electronics,Laptop,2025-05-13,2025-05-15,2025-05-18,Delivered,2,1441.20,202.81,32.09,UPI,2711.68,302.27
+265,231,"Catherine Lopez",Female,57,East,"South Brookeshire",3496,"Furniture Sofa",Furniture,Sofa,2025-03-14,2025-03-15,2025-03-16,Delivered,3,444.65,88.65,75.28,"Debit Card",1320.58,201.53
+266,170,"Jon Mccall",Female,47,West,Hillville,6877,"Furniture Bed",Furniture,Bed,2025-07-18,2025-07-18,2025-07-20,Delivered,5,214.76,90.40,83.51,"Credit Card",1066.91,265.44
+267,39,"Daniel Bright",Male,50,North,Erinland,7637,"Clothing Shirt",Clothing,Shirt,2025-07-18,2025-07-20,2025-07-25,Delivered,5,67.21,78.15,39.75,"Net Banking",297.65,21.96
+268,69,"Travis Simon",Female,50,North,Leemouth,7500,"Furniture Wardrobe",Furniture,Wardrobe,2024-01-11,2024-01-16,2024-01-18,Delivered,5,1057.83,1201.49,18.34,"Cash on Delivery",4106.00,533.74
+269,75,"Pamela Lawson",Other,64,West,"West Daniel",6878,"Electronics Laptop",Electronics,Laptop,2025-05-14,2025-05-15,2025-05-16,Delivered,3,928.04,35.76,24.64,UPI,2773.00,769.34
+270,233,"Alicia Mason",Male,20,East,Matthewville,2691,"Furniture Sofa",Furniture,Sofa,2025-07-11,2025-07-15,2025-07-17,Delivered,4,1015.15,445.00,67.07,UPI,3682.67,948.38
+271,115,"Ricky Alvarado",Other,43,East,Rodneyland,6653,"Grocery Beverage",Grocery,Beverage,2024-01-07,2024-01-11,2024-01-13,Delivered,4,9.95,0.92,66.13,"Net Banking",105.01,2.10
+272,61,"Donna Atkinson",Other,32,West,Choiborough,6410,"Electronics Headphones",Electronics,Headphones,2025-05-05,2025-05-08,2025-05-10,Delivered,5,574.12,717.68,7.13,"Debit Card",2160.05,231.82
+273,69,"Patrick Matthews",Other,50,North,"New Timothy",3406,"Electronics Laptop",Electronics,Laptop,2024-09-21,2024-09-22,2024-09-27,Delivered,4,1318.91,892.01,6.77,"Net Banking",4390.40,1066.97
+274,44,"Daniel Greene",Male,46,West,Brockchester,8891,"Clothing T-Shirt",Clothing,T-Shirt,2025-02-24,2025-02-28,2025-03-02,Delivered,5,102.05,27.84,67.67,"Net Banking",550.08,49.26
+275,233,"Sarah Mendez",Other,55,North,"South Julieview",4765,"Grocery Beverage",Grocery,Beverage,2024-05-15,2024-05-15,2024-05-16,Delivered,2,27.09,14.78,70.01,"Debit Card",109.41,2.19
+276,244,"Thomas Hubbard",Other,56,North,"East Jillianstad",9706,"Electronics Mobile",Electronics,Mobile,2025-05-08,2025-05-13,2025-05-15,Delivered,5,1216.79,2.19,94.08,UPI,6175.84,1413.25
+277,190,"Sean Copeland",Male,62,West,Jenniferstad,4759,"Grocery Beverage",Grocery,Beverage,2024-12-24,2024-12-28,2025-01-04,Delivered,5,6.69,1.34,50.33,"Net Banking",82.44,1.65
+278,279,"Terry Lambert",Female,34,South,"Lake Leslie",1089,"Electronics Camera",Electronics,Camera,2025-06-19,2025-06-19,2025-06-24,Delivered,1,937.55,57.78,81.41,UPI,961.18,155.58
+279,300,"Charles Chang",Female,34,West,"West William",6990,"Furniture Bed",Furniture,Bed,2024-07-27,2024-07-30,2024-08-04,Delivered,5,775.45,430.62,57.72,"Net Banking",3504.35,510.75
+280,204,"Tracey Marshall",Other,26,North,Mcconnellland,4764,"Grocery Pasta",Grocery,Pasta,2024-04-12,2024-04-13,2024-04-18,Delivered,4,39.73,38.18,63.33,UPI,184.07,26.96
+281,3,"Monica Welch",Male,70,South,"New Denise",8727,"Grocery Rice",Grocery,Rice,2024-03-06,2024-03-08,2024-03-10,Delivered,3,5.84,0.20,41.51,"Cash on Delivery",58.83,1.18
+282,147,"John Hall",Other,56,North,"Lake Rebeccaview",3871,"Grocery Beverage",Grocery,Beverage,2024-01-11,2024-01-12,2024-01-19,Delivered,5,15.73,0.79,61.95,"Debit Card",139.81,8.64
+283,19,"Deanna Brown",Female,33,North,"North Stephanie",3579,"Electronics Tablet",Electronics,Tablet,2025-02-13,2025-02-15,2025-02-21,Delivered,4,989.27,237.79,6.46,"Cash on Delivery",3725.75,892.35
+284,146,"Valerie Long",Other,53,East,"North William",6693,"Furniture Table",Furniture,Table,2024-07-18,2024-07-21,2024-07-25,Delivered,5,106.51,27.97,53.09,"Net Banking",557.67,93.48
+285,60,"Emma Williams",Other,34,East,"New Brendabury",8254,"Grocery Spices",Grocery,Spices,2025-05-10,2025-05-11,2025-05-18,Delivered,3,48.14,19.88,48.77,"Credit Card",173.31,26.40
+286,133,"Timothy Wise",Male,42,South,Smallland,4767,"Furniture Bed",Furniture,Bed,2024-12-27,2024-12-31,2025-01-05,Delivered,1,1081.15,85.42,32.29,"Net Banking",1028.02,166.93
+287,39,"Carol White",Other,29,West,Sharonchester,6142,"Furniture Table",Furniture,Table,2025-08-10,2025-08-12,2025-08-14,Delivered,2,798.60,95.67,74.87,"Debit Card",1576.40,404.50
+288,128,"James Hicks",Other,40,South,Ronaldside,2747,"Electronics Mobile",Electronics,Mobile,2025-05-19,2025-05-23,2025-05-24,Delivered,5,1928.59,2453.19,40.26,"Cash on Delivery",7230.02,1154.45
+289,141,"Mark Cameron",Female,29,East,Amandaberg,7518,"Clothing Dress",Clothing,Dress,2024-05-11,2024-05-11,2024-05-16,Delivered,4,67.83,44.02,52.74,"Debit Card",280.04,22.53
+290,235,"James Dean",Male,62,West,Pricetown,6171,"Electronics Mobile",Electronics,Mobile,2024-08-03,2024-08-06,2024-08-11,Delivered,1,853.24,156.85,29.67,UPI,726.06,142.52
+291,176,"Brent Vargas",Female,29,West,"Lake John",7945,"Clothing Jacket",Clothing,Jacket,2025-01-16,2025-01-18,2025-01-25,Delivered,4,47.96,10.35,17.46,"Credit Card",198.95,37.06
+292,139,"Kimberly Hendricks",Male,53,West,"North Jennifer",7240,"Clothing T-Shirt",Clothing,T-Shirt,2024-06-02,2024-06-05,2024-06-12,Delivered,1,37.66,5.65,99.58,"Net Banking",131.59,2.63
+293,250,"Heather Leonard",Female,34,North,Timothymouth,7527,"Electronics Laptop",Electronics,Laptop,2024-03-02,2024-03-03,2024-03-10,Delivered,3,1110.12,629.30,47.74,"Cash on Delivery",2748.80,442.28
+294,286,"Anthony Castro",Female,40,North,Kevinfort,7746,"Electronics Tablet",Electronics,Tablet,2024-07-22,2024-07-26,2024-07-31,Delivered,5,596.72,698.44,38.74,UPI,2323.90,526.74
+295,41,"Ellen Ford",Female,57,East,"South Noahville",8598,"Clothing T-Shirt",Clothing,T-Shirt,2024-12-11,2024-12-14,2024-12-20,Delivered,5,77.16,98.25,11.78,"Net Banking",299.33,36.73
+296,150,"Joanna Patterson",Other,35,West,"New Tammyside",5444,"Grocery Snacks",Grocery,Snacks,2025-06-17,2025-06-20,2025-06-24,Delivered,2,10.83,0.15,74.14,"Credit Card",95.65,1.91
+297,108,"Margaret Jennings",Male,43,North,Sullivanville,2565,"Electronics Headphones",Electronics,Headphones,2025-07-15,2025-07-15,2025-07-16,Delivered,4,1190.77,1423.22,14.87,UPI,3354.73,746.23
+298,159,"Michele Jones DDS",Male,33,East,"South Christina",8260,"Clothing T-Shirt",Clothing,T-Shirt,2025-06-23,2025-06-24,2025-06-25,Delivered,1,86.35,22.28,35.89,"Cash on Delivery",99.96,2.00
+299,140,"Kimberly Payne",Other,46,South,"North Carlaberg",9835,"Clothing Dress",Clothing,Dress,2025-04-12,2025-04-17,2025-04-23,Delivered,5,63.50,60.94,55.71,"Debit Card",312.27,58.88
+300,46,"Jessica Nash",Female,37,East,Kimberlyfort,7753,"Furniture Table",Furniture,Table,2024-11-06,2024-11-06,2024-11-07,Delivered,5,1241.53,1579.12,37.67,UPI,4666.20,897.04
+301,245,"Nicolas Padilla",Female,18,West,"Lake Ronaldmouth",5799,"Clothing Shirt",Clothing,Shirt,2025-07-15,2025-07-17,2025-07-19,Delivered,4,108.22,56.76,28.74,UPI,404.86,82.11
+302,113,"Jennifer Foster",Female,23,West,"Port Jessicamouth",4924,"Furniture Sofa",Furniture,Sofa,2025-06-28,2025-06-30,2025-07-04,Delivered,2,1294.87,141.72,32.51,"Net Banking",2480.53,546.59
+303,252,"Amanda Saunders",Male,38,North,"West Lawrence",3492,"Electronics Camera",Electronics,Camera,2024-01-23,2024-01-24,2024-01-25,Delivered,3,757.63,487.67,74.08,UPI,1859.30,256.06
+304,112,"Aaron Manning",Female,44,East,"East Laurenmouth",9165,"Furniture Bed",Furniture,Bed,2024-02-02,2024-02-04,2024-02-05,Delivered,2,178.45,83.05,11.78,"Net Banking",285.63,52.00
+305,196,"Erin Warner",Male,25,South,Jamesberg,7304,"Grocery Pasta",Grocery,Pasta,2024-02-04,2024-02-05,2024-02-09,Delivered,1,27.01,7.96,49.92,"Net Banking",68.97,1.38
+306,82,"Matthew Jones",Other,64,North,Hernandezburgh,9534,"Electronics Tablet",Electronics,Tablet,2025-05-07,2025-05-12,2025-05-15,Delivered,2,912.73,28.53,68.34,UPI,1865.27,521.41
+307,167,"Bobby Foster",Male,28,East,"Port James",2960,"Grocery Pasta",Grocery,Pasta,2024-01-10,2024-01-10,2024-01-15,Delivered,4,35.04,6.52,78.23,"Cash on Delivery",211.87,4.24
+308,174,"Stephanie Johnson",Other,21,North,Shelbybury,6824,"Clothing Dress",Clothing,Dress,2024-04-19,2024-04-20,2024-04-24,Delivered,2,51.67,17.31,66.24,"Debit Card",152.27,3.05
+309,11,"Daniel Johnson",Other,42,East,Jerrytown,3207,"Furniture Chair",Furniture,Chair,2025-05-11,2025-05-16,2025-05-20,Delivered,5,512.60,535.95,23.03,UPI,2050.08,274.36
+310,141,"James Weiss",Other,53,South,Carrilloview,2128,"Clothing Jacket",Clothing,Jacket,2024-10-29,2024-10-31,2024-11-05,Delivered,3,65.41,45.68,53.07,"Cash on Delivery",203.62,13.72
+311,187,"Garrett James",Other,33,East,"North Karlbury",2037,"Grocery Pasta",Grocery,Pasta,2025-06-20,2025-06-25,2025-06-29,Delivered,5,9.40,3.99,43.93,"Credit Card",86.94,4.96
+312,23,"Victor Jimenez",Male,29,North,Taylorport,4310,"Electronics Headphones",Electronics,Headphones,2024-07-15,2024-07-15,2024-07-16,Delivered,5,1390.98,810.80,51.54,"Credit Card",6195.64,1365.95
+313,188,"Dana Hernandez",Male,56,North,Grayland,1214,"Clothing Jacket",Clothing,Jacket,2024-03-22,2024-03-25,2024-04-01,Delivered,1,56.09,12.51,89.59,"Credit Card",133.17,2.66
+314,137,"David Matthews MD",Other,20,North,"North Dominiqueburgh",5979,"Electronics Laptop",Electronics,Laptop,2025-06-15,2025-06-15,2025-06-16,Delivered,2,1203.82,136.85,54.99,"Debit Card",2325.78,322.86
+315,286,"Michael Johnson",Other,53,West,Monicashire,2728,"Furniture Bed",Furniture,Bed,2025-03-13,2025-03-13,2025-03-15,Delivered,2,869.95,263.43,67.47,"Net Banking",1543.94,285.07
+316,162,"Christopher Knox",Other,38,East,Andersonside,7755,"Grocery Snacks",Grocery,Snacks,2024-09-03,2024-09-07,2024-09-12,Delivered,2,20.00,6.60,75.73,UPI,109.13,2.18
+317,1,"Jesse Keller",Other,20,East,"North Dustin",1267,"Clothing Jeans",Clothing,Jeans,2024-01-07,2024-01-09,2024-01-11,Delivered,2,105.57,1.37,83.08,"Cash on Delivery",292.85,38.45
+318,262,"Kathleen Williams",Other,54,South,Chadberg,2544,"Electronics Headphones",Electronics,Headphones,2024-12-30,2024-12-31,2025-01-02,Delivered,3,924.04,484.14,27.13,UPI,2315.11,598.70
+319,292,"Cheryl Silva",Male,64,North,Thomasburgh,6319,"Grocery Pasta",Grocery,Pasta,2025-05-14,2025-05-19,2025-05-25,Delivered,5,41.34,5.91,66.01,UPI,266.80,5.34
+320,41,"Brandon Johnson",Male,67,East,Barajasside,6700,"Grocery Beverage",Grocery,Beverage,2024-05-03,2024-05-04,2024-05-10,Delivered,5,46.58,44.29,65.06,"Net Banking",253.67,5.07
+321,277,"Kayla Garcia",Other,27,East,Jamieberg,9231,"Clothing T-Shirt",Clothing,T-Shirt,2024-02-21,2024-02-26,2024-03-03,Delivered,4,117.10,105.79,59.65,UPI,422.26,29.91
+322,76,"Erin Martinez",Male,39,North,"West Richardberg",8796,"Electronics Camera",Electronics,Camera,2025-02-12,2025-02-14,2025-02-15,Delivered,4,1153.10,1070.76,17.39,UPI,3559.03,444.83
+323,203,"Nicole Knight",Other,54,South,"Port Tony",9589,"Clothing T-Shirt",Clothing,T-Shirt,2024-03-14,2024-03-16,2024-03-23,Delivered,4,52.34,58.05,13.51,"Net Banking",164.82,32.60
+324,98,"Gregory Branch",Female,40,North,Estradaport,5994,"Clothing Jeans",Clothing,Jeans,2025-03-28,2025-04-01,2025-04-03,Delivered,4,24.49,24.05,23.97,"Credit Card",97.88,3.84
+325,58,"Brian Peterson",Other,21,South,"Lake Benjaminmouth",3419,"Furniture Chair",Furniture,Chair,2024-12-17,2024-12-22,2024-12-29,Delivered,1,527.17,74.52,36.53,"Cash on Delivery",489.18,108.39
+326,268,"Courtney Robles",Female,53,West,Annamouth,3315,"Electronics Headphones",Electronics,Headphones,2025-06-23,2025-06-23,2025-06-26,Delivered,2,402.19,48.43,71.17,"Credit Card",827.12,100.06
+327,35,"Angela Dunn",Female,60,East,"Port Markville",6901,"Electronics Mobile",Electronics,Mobile,2024-10-26,2024-10-31,2024-11-04,Delivered,2,1965.65,599.77,72.42,"Cash on Delivery",3403.95,917.86
+328,273,"Felicia Edwards",Male,29,South,Nealstad,9202,"Grocery Spices",Grocery,Spices,2024-01-23,2024-01-23,2024-01-25,Delivered,5,16.64,12.23,75.72,"Net Banking",146.69,2.93
+329,155,"Ryan Golden",Male,50,East,Jessicaland,2015,"Furniture Bed",Furniture,Bed,2024-01-31,2024-02-04,2024-02-07,Delivered,2,312.39,168.16,67.41,"Cash on Delivery",524.03,40.80
+330,117,"Eric Nelson",Female,33,South,Joseborough,7987,"Furniture Wardrobe",Furniture,Wardrobe,2024-12-03,2024-12-06,2024-12-11,Delivered,2,389.46,32.38,56.43,"Net Banking",802.97,169.78
+331,269,"Katherine Brown",Male,45,South,"South Annette",3589,"Furniture Chair",Furniture,Chair,2025-07-24,2025-07-28,2025-08-03,Delivered,1,357.79,90.11,18.82,UPI,286.50,25.35
+332,211,"Bailey Montgomery",Female,46,East,Jamiestad,3489,"Clothing Shirt",Clothing,Shirt,2024-05-14,2024-05-15,2024-05-16,Delivered,5,81.69,74.20,63.17,"Credit Card",397.42,66.00
+333,184,"Gene Williams",Male,62,West,"West Jessica",3196,"Grocery Snacks",Grocery,Snacks,2024-07-07,2024-07-10,2024-07-14,Delivered,4,8.60,1.99,8.06,"Net Banking",40.47,8.14
+334,212,"David Lopez",Male,65,South,Dustinshire,4351,"Electronics Laptop",Electronics,Laptop,2025-03-25,2025-03-29,2025-04-02,Delivered,3,1773.52,1416.74,45.62,UPI,3949.44,982.56
+335,161,"Martha Huerta",Female,57,North,Moorestad,9530,"Electronics Headphones",Electronics,Headphones,2025-04-12,2025-04-12,2025-04-14,Delivered,5,1214.38,1792.12,8.73,"Credit Card",4288.51,756.23
+336,98,"Anthony Hill",Female,46,West,"North Dustin",5989,"Furniture Bed",Furniture,Bed,2024-06-19,2024-06-22,2024-06-25,Delivered,5,1386.65,1435.08,90.85,"Credit Card",5589.02,1030.24
+337,257,"Scott Fletcher",Male,29,South,Fitzpatrickfort,7440,"Grocery Snacks",Grocery,Snacks,2025-04-06,2025-04-06,2025-04-08,Delivered,4,30.34,25.95,24.18,"Debit Card",119.59,15.19
+338,64,"Judy Roberts",Male,25,West,Kellitown,6946,"Electronics Camera",Electronics,Camera,2025-01-28,2025-02-02,2025-02-09,Delivered,5,1340.52,321.52,57.28,"Net Banking",6438.36,689.25
+339,290,"Jessica Morgan",Other,27,South,"New Anitafurt",3369,"Clothing Shirt",Clothing,Shirt,2025-03-05,2025-03-07,2025-03-10,Delivered,4,48.88,10.60,90.36,"Net Banking",275.28,53.85
+340,7,"Elizabeth Frank",Female,49,West,Shortland,9904,"Electronics Camera",Electronics,Camera,2025-05-20,2025-05-21,2025-05-23,Delivered,5,1421.10,967.21,46.98,"Cash on Delivery",6185.27,1351.76
+341,143,"Elizabeth Sharp",Other,58,South,"West Laura",1801,"Clothing T-Shirt",Clothing,T-Shirt,2024-02-26,2024-03-02,2024-03-05,Delivered,1,34.54,0.34,59.92,"Credit Card",94.12,1.88
+342,26,"Kristen Webb",Male,44,South,"Lake David",3643,"Furniture Wardrobe",Furniture,Wardrobe,2025-08-09,2025-08-13,2025-08-15,Delivered,4,1149.07,496.66,8.40,UPI,4108.02,1038.73
+343,35,"Joseph White PhD",Female,53,North,Darrylton,5797,"Grocery Pasta",Grocery,Pasta,2024-05-04,2024-05-09,2024-05-16,Delivered,3,17.80,6.63,24.94,"Cash on Delivery",71.71,5.91
+344,271,"Lynn Bean",Male,48,East,"North David",7996,"Furniture Sofa",Furniture,Sofa,2025-06-22,2025-06-26,2025-07-01,Delivered,3,1397.95,772.87,52.16,"Debit Card",3473.14,828.02
+345,120,"Brenda Martinez",Other,36,South,Dianeberg,1025,"Electronics Mobile",Electronics,Mobile,2025-04-21,2025-04-26,2025-05-03,Delivered,1,1553.70,96.64,63.45,"Net Banking",1520.51,265.09
+346,287,"Courtney Martinez",Other,31,North,"Lake Karenburgh",4296,"Furniture Sofa",Furniture,Sofa,2024-03-10,2024-03-12,2024-03-15,Delivered,5,869.99,1000.96,15.81,"Cash on Delivery",3364.80,555.00
+347,15,"Fernando Santiago",Male,30,East,"South Stephenfort",6536,"Grocery Beverage",Grocery,Beverage,2024-02-06,2024-02-11,2024-02-13,Delivered,4,9.46,5.23,87.20,UPI,119.81,2.40
+348,29,"Adam Harrison",Other,37,East,"New Angelashire",9779,"Electronics Laptop",Electronics,Laptop,2024-12-05,2024-12-07,2024-12-08,Delivered,2,776.78,14.53,98.44,"Cash on Delivery",1637.47,305.28
+349,200,"Rachel Morgan",Male,56,North,"Lake Nicholas",6050,"Furniture Chair",Furniture,Chair,2024-10-05,2024-10-08,2024-10-09,Delivered,4,1327.87,592.10,83.80,"Debit Card",4803.18,735.58
+350,58,"Kylie Cordova",Female,68,North,"Lake Peggyland",4311,"Electronics Headphones",Electronics,Headphones,2025-06-02,2025-06-02,2025-06-09,Delivered,4,1838.42,339.91,37.31,"Net Banking",7051.08,1363.27
+351,168,"Teresa Blankenship",Male,67,North,"Lake Nathanfort",9456,"Clothing T-Shirt",Clothing,T-Shirt,2024-02-07,2024-02-10,2024-02-14,Delivered,5,31.58,14.73,9.18,"Net Banking",152.35,34.60
+352,240,"Mrs. Robin Smith",Male,24,East,"East Richard",1368,"Furniture Table",Furniture,Table,2024-11-24,2024-11-25,2024-11-27,Delivered,3,487.31,139.97,46.91,"Net Banking",1368.87,159.80
+353,59,"Daniel Jefferson",Male,57,North,"North Derek",4384,"Furniture Wardrobe",Furniture,Wardrobe,2024-11-22,2024-11-24,2024-11-26,Delivered,3,903.72,139.31,34.58,"Credit Card",2606.43,706.78
+354,67,"Angela Cummings",Male,48,North,"North Debramouth",2735,"Grocery Rice",Grocery,Rice,2024-03-29,2024-04-01,2024-04-05,Delivered,2,35.82,19.15,64.80,"Net Banking",117.29,2.35
+355,160,"Amy Sheppard",Female,70,South,"Lake Rachelstad",9740,"Electronics Headphones",Electronics,Headphones,2025-08-04,2025-08-05,2025-08-06,Delivered,4,465.35,173.33,66.22,"Debit Card",1754.29,412.01
+356,74,"Ryan Fowler",Other,34,East,"West Amandabury",7423,"Clothing Jeans",Clothing,Jeans,2024-11-28,2024-12-01,2024-12-05,Delivered,1,26.54,0.90,50.47,"Net Banking",76.11,1.52
+357,295,"Michael Berg",Male,50,North,Ruthport,7646,"Electronics Tablet",Electronics,Tablet,2025-07-23,2025-07-28,2025-07-29,Delivered,3,1205.67,434.93,44.28,UPI,3226.36,701.21
+358,197,"Nathaniel Ruiz",Male,39,South,"Lake Royland",8063,"Grocery Spices",Grocery,Spices,2024-12-16,2024-12-20,2024-12-26,Delivered,2,10.31,4.14,75.24,"Credit Card",91.72,1.83
+359,238,"Michael Nichols",Female,53,North,Reesechester,8294,"Clothing Jeans",Clothing,Jeans,2025-02-19,2025-02-19,2025-02-24,Delivered,1,88.55,15.84,82.89,"Credit Card",155.60,3.11
+360,47,"Samuel Armstrong",Male,70,South,Austinside,1003,"Clothing T-Shirt",Clothing,T-Shirt,2025-04-08,2025-04-12,2025-04-15,Delivered,4,81.56,43.76,24.54,"Net Banking",307.02,74.14
+361,223,"Pamela James",Other,40,North,"Lake Kelsey",1133,"Grocery Pasta",Grocery,Pasta,2024-10-28,2024-10-28,2024-10-31,Delivered,5,48.46,0.06,58.20,"Net Banking",300.44,68.45
+362,16,"Jaime Martinez",Male,45,West,"Port Susanland",6212,"Grocery Beverage",Grocery,Beverage,2025-01-25,2025-01-28,2025-02-02,Delivered,2,33.80,9.63,22.88,UPI,80.85,1.62
+363,79,"Alicia Mendoza",Female,60,South,"South Jared",3200,"Electronics Mobile",Electronics,Mobile,2024-01-17,2024-01-18,2024-01-24,Delivered,4,1418.48,1659.58,17.90,UPI,4032.24,504.39
+364,218,"Jillian Nunez",Other,29,West,Flynnberg,9346,"Grocery Spices",Grocery,Spices,2025-04-05,2025-04-08,2025-04-11,Delivered,2,10.92,3.96,59.90,"Cash on Delivery",77.78,1.56
+365,138,"Kari Leach",Female,52,East,Webstershire,1548,"Electronics Camera",Electronics,Camera,2025-05-09,2025-05-14,2025-05-17,Delivered,1,1286.46,371.17,12.61,"Net Banking",927.90,221.88
+366,239,"April Navarro",Other,23,North,Nathanshire,5017,"Grocery Rice",Grocery,Rice,2025-07-06,2025-07-10,2025-07-13,Delivered,5,4.53,2.34,78.96,UPI,99.27,1.99
+367,294,"Amy Smith",Other,39,West,Tonystad,6782,"Furniture Sofa",Furniture,Sofa,2024-06-20,2024-06-20,2024-06-26,Delivered,5,1149.20,1253.15,58.55,"Debit Card",4551.40,490.62
+368,294,"Philip Marsh",Male,60,East,Wardstad,1447,"Furniture Bed",Furniture,Bed,2024-03-25,2024-03-26,2024-03-31,Delivered,1,1292.02,107.70,17.59,"Credit Card",1201.91,177.44
+369,58,"Ashley Wiley",Other,29,South,Frankside,8317,"Furniture Table",Furniture,Table,2024-09-24,2024-09-29,2024-10-01,Delivered,4,353.13,223.49,8.14,"Cash on Delivery",1197.17,348.98
+370,79,"Lisa Nguyen",Female,66,West,"East Danahaven",7277,"Clothing Jacket",Clothing,Jacket,2024-06-20,2024-06-21,2024-06-26,Delivered,3,25.43,6.05,82.86,UPI,153.10,3.06
+371,155,"Jennifer Cook",Female,65,South,Wilsonshire,7222,"Grocery Beverage",Grocery,Beverage,2024-09-25,2024-09-26,2024-10-01,Delivered,4,2.57,2.86,47.64,"Credit Card",55.06,1.10
+372,50,"Michelle Braun",Other,58,East,Cervantesfort,8074,"Furniture Sofa",Furniture,Sofa,2024-10-03,2024-10-05,2024-10-12,Delivered,1,457.48,80.17,48.81,"Cash on Delivery",426.12,82.79
+373,100,"Jacob Taylor",Other,39,South,"Port Frankland",6132,"Electronics Mobile",Electronics,Mobile,2024-03-10,2024-03-10,2024-03-14,Delivered,1,1192.95,245.33,38.39,"Credit Card",986.01,227.38
+374,13,"Cindy Sullivan",Other,23,North,Brewerfurt,4552,"Electronics Mobile",Electronics,Mobile,2024-03-29,2024-04-02,2024-04-04,Delivered,4,1415.87,1528.96,58.78,"Debit Card",4193.30,1186.87
+375,130,"Scott Haynes",Female,47,North,Brandonside,8429,"Furniture Bed",Furniture,Bed,2024-11-27,2024-11-29,2024-12-01,Delivered,1,488.20,9.14,41.92,"Net Banking",520.98,137.92
+376,92,"Blake Hines",Female,22,West,"Lake Jeffrey",4287,"Grocery Pasta",Grocery,Pasta,2025-05-18,2025-05-18,2025-05-20,Delivered,5,38.90,12.74,66.12,"Credit Card",247.88,27.70
+377,18,"William Johnson",Male,22,East,Clarkborough,8305,"Electronics Headphones",Electronics,Headphones,2024-06-01,2024-06-06,2024-06-12,Delivered,1,1885.92,376.02,30.31,"Cash on Delivery",1540.21,348.68
+378,2,"Kathryn Lin",Other,63,West,"Port Seanview",8833,"Grocery Beverage",Grocery,Beverage,2024-03-12,2024-03-16,2024-03-18,Delivered,1,20.45,4.23,79.08,"Net Banking",95.30,1.91
+379,171,"Timothy Adams",Other,37,West,Stephanieville,1904,"Electronics Tablet",Electronics,Tablet,2025-07-01,2025-07-03,2025-07-04,Delivered,4,1592.77,554.20,24.30,"Debit Card",5841.18,1215.00
+380,154,"Rose Young",Other,42,North,Johnborough,6886,"Grocery Rice",Grocery,Rice,2025-03-24,2025-03-29,2025-03-31,Delivered,2,3.71,0.06,99.66,"Cash on Delivery",107.02,2.14
+381,158,"Anna Saunders",Female,52,West,Westhaven,1268,"Electronics Tablet",Electronics,Tablet,2024-02-27,2024-02-29,2024-03-07,Delivered,1,989.36,62.83,67.12,"Cash on Delivery",993.65,158.04
+382,77,"Shelby Morrison",Other,55,South,Rebeccaborough,2180,"Electronics Laptop",Electronics,Laptop,2025-05-15,2025-05-20,2025-05-21,Delivered,4,1842.20,1367.00,28.05,"Credit Card",6029.85,1378.76
+383,158,"Billy Flores",Male,47,South,"West Stevenburgh",2047,"Electronics Mobile",Electronics,Mobile,2025-05-24,2025-05-28,2025-06-04,Delivered,5,674.97,814.48,45.49,UPI,2605.86,649.26
+384,167,"Rodney Wilson",Male,61,South,Danielbury,6268,"Clothing Shirt",Clothing,Shirt,2024-06-26,2024-06-28,2024-06-29,Delivered,1,47.39,10.77,20.96,"Debit Card",57.58,4.64
+385,298,"Sara Cardenas",Male,26,North,"Port Jessica",7162,"Clothing Shirt",Clothing,Shirt,2025-05-13,2025-05-13,2025-05-14,Delivered,1,37.94,1.01,66.92,UPI,103.85,2.08
+386,65,"Roberto Hughes",Male,27,East,Xavierburgh,9570,"Grocery Beverage",Grocery,Beverage,2024-09-01,2024-09-02,2024-09-07,Delivered,1,30.62,6.59,63.14,"Net Banking",87.17,1.74
+387,179,"Robert Jones",Female,18,South,Lindseyfort,4144,"Electronics Camera",Electronics,Camera,2024-04-07,2024-04-11,2024-04-14,Delivered,5,1162.82,809.70,64.51,"Credit Card",5068.91,707.02
+388,77,"Nicole Garcia",Other,48,West,"New Mark",3888,"Clothing Shirt",Clothing,Shirt,2024-02-25,2024-03-01,2024-03-04,Delivered,3,40.96,9.27,63.60,"Credit Card",177.21,17.18
+389,27,"Benjamin Kramer",Other,29,South,"New Holly",1476,"Grocery Spices",Grocery,Spices,2024-04-28,2024-04-28,2024-04-30,Delivered,4,30.45,11.91,23.88,"Credit Card",133.77,21.98
+390,167,"Summer Smith",Male,24,South,"Port Kathyview",7759,"Clothing Jacket",Clothing,Jacket,2024-08-13,2024-08-13,2024-08-17,Delivered,5,68.44,91.42,18.77,UPI,269.55,67.35
+391,192,"Leonard Taylor",Male,47,South,Elizabethfort,6875,"Furniture Table",Furniture,Table,2024-12-09,2024-12-10,2024-12-11,Delivered,5,183.51,37.57,85.91,"Net Banking",965.89,161.35
+392,113,"Summer Smith",Female,56,South,"South Dylan",3784,"Clothing Shirt",Clothing,Shirt,2025-02-25,2025-03-01,2025-03-05,Delivered,2,79.16,39.76,31.52,"Debit Card",150.08,17.56
+393,127,"Terry Thompson",Female,45,South,Wardville,3440,"Electronics Headphones",Electronics,Headphones,2024-02-15,2024-02-15,2024-02-19,Delivered,5,357.15,284.54,50.53,UPI,1551.74,368.97
+394,254,"Scott Malone",Male,23,North,Jeremyland,7662,"Clothing T-Shirt",Clothing,T-Shirt,2025-01-02,2025-01-04,2025-01-06,Delivered,1,21.59,4.34,20.37,"Cash on Delivery",37.62,0.75
+395,13,"Pamela Acosta",Female,47,South,Rhondahaven,7641,"Clothing Jeans",Clothing,Jeans,2025-04-20,2025-04-25,2025-05-01,Delivered,1,106.04,2.25,89.88,UPI,193.67,15.82
+396,139,"Dr. Cheyenne Barnes DDS",Other,57,South,Jenkinston,2326,"Furniture Chair",Furniture,Chair,2025-06-11,2025-06-16,2025-06-19,Delivered,1,255.35,28.00,63.82,"Cash on Delivery",291.17,33.76
+397,35,"Jordan Campbell",Other,63,South,Richardshire,3267,"Furniture Table",Furniture,Table,2025-07-06,2025-07-06,2025-07-12,Delivered,4,1132.33,1022.19,87.76,"Debit Card",3594.89,810.66
+398,165,"Sarah Williams",Female,35,West,Briannabury,5540,"Electronics Mobile",Electronics,Mobile,2025-01-16,2025-01-18,2025-01-22,Delivered,4,1152.47,1147.25,49.67,"Net Banking",3512.30,694.12
+399,232,"Maria Wood",Other,41,North,Michaelport,4085,"Grocery Rice",Grocery,Rice,2024-03-23,2024-03-26,2024-03-28,Delivered,3,48.00,3.32,20.65,"Debit Card",161.33,15.69
+400,105,"Amanda Hamilton",Other,58,North,"New Frankville",5803,"Grocery Spices",Grocery,Spices,2024-05-15,2024-05-18,2024-05-21,Delivered,4,23.31,18.03,32.69,"Debit Card",107.90,2.16
+401,267,"Melissa Middleton",Other,39,West,"East Steveburgh",6616,"Furniture Bed",Furniture,Bed,2025-06-26,2025-06-30,2025-07-04,Delivered,4,525.72,83.24,79.99,UPI,2099.63,260.93
+402,191,"Mark Brown",Female,67,North,"North Tarabury",3430,"Furniture Sofa",Furniture,Sofa,2025-04-11,2025-04-12,2025-04-17,Delivered,2,1096.54,187.67,97.45,"Debit Card",2102.86,503.42
+403,83,"Andre Cox",Male,25,North,Michellefurt,6187,"Clothing Jacket",Clothing,Jacket,2024-09-23,2024-09-25,2024-09-27,Delivered,2,76.25,1.59,35.11,"Cash on Delivery",186.02,18.92
+404,84,"Connie Franklin",Other,37,North,Liumouth,1408,"Grocery Beverage",Grocery,Beverage,2024-05-28,2024-05-31,2024-06-03,Delivered,2,2.21,0.98,97.68,UPI,101.12,2.02
+405,149,"Joseph Miller",Other,60,South,Huangfurt,8243,"Furniture Chair",Furniture,Chair,2025-05-05,2025-05-05,2025-05-07,Delivered,5,263.63,9.81,63.66,"Net Banking",1372.00,177.12
+406,29,"Laurie Price",Other,59,South,"New Williamside",9625,"Clothing Jeans",Clothing,Jeans,2024-07-19,2024-07-19,2024-07-20,Delivered,5,104.95,106.58,95.97,UPI,514.14,104.50
+407,163,"Sophia Nixon",Other,56,North,Richardstad,6915,"Grocery Pasta",Grocery,Pasta,2025-03-13,2025-03-15,2025-03-19,Delivered,3,2.59,0.80,34.27,"Debit Card",41.24,0.82
+408,228,"Jenny May",Other,44,West,Simmonsmouth,5728,"Clothing Jacket",Clothing,Jacket,2025-02-28,2025-03-01,2025-03-08,Delivered,5,79.79,17.19,33.81,"Net Banking",415.57,104.76
+409,34,"Christina Blankenship",Other,66,West,Whiteton,2449,"Electronics Headphones",Electronics,Headphones,2024-10-06,2024-10-09,2024-10-11,Delivered,5,1085.60,924.79,91.91,"Net Banking",4595.12,591.53
+410,284,"Tammie Hernandez",Female,20,East,"West Jessicafurt",5979,"Grocery Spices",Grocery,Spices,2025-04-19,2025-04-20,2025-04-21,Delivered,1,9.39,0.85,65.85,"Net Banking",74.39,1.49
+411,214,"Christian Lucero",Male,49,South,Lisabury,1466,"Electronics Tablet",Electronics,Tablet,2025-05-19,2025-05-19,2025-05-24,Delivered,3,1287.81,655.52,87.49,"Credit Card",3295.40,702.88
+412,192,"Jennifer Clark",Other,64,North,Wellsfort,5252,"Clothing Dress",Clothing,Dress,2024-02-29,2024-03-01,2024-03-04,Delivered,4,107.83,17.53,20.51,"Net Banking",434.30,59.64
+413,25,"Barbara Newman",Female,36,North,"Port Christopher",9419,"Clothing T-Shirt",Clothing,T-Shirt,2024-04-06,2024-04-10,2024-04-17,Delivered,2,74.37,38.93,83.55,"Net Banking",193.36,13.45
+414,50,"Kristina Shaw",Other,55,East,"West Manuelburgh",3354,"Electronics Laptop",Electronics,Laptop,2025-06-14,2025-06-16,2025-06-19,Delivered,4,1000.39,1105.52,20.49,"Debit Card",2916.53,410.64
+415,287,"Brett Hull",Other,62,North,Sheltonport,7837,"Grocery Rice",Grocery,Rice,2024-04-29,2024-04-30,2024-05-01,Delivered,4,18.71,15.51,18.21,"Cash on Delivery",77.54,2.19
+416,176,"Nathan Thomas",Male,63,East,Johnside,1471,"Electronics Laptop",Electronics,Laptop,2024-05-11,2024-05-16,2024-05-18,Delivered,2,822.63,103.57,98.21,"Credit Card",1639.90,247.68
+417,40,"Paul Webster",Male,67,West,Stevenstad,8065,"Electronics Laptop",Electronics,Laptop,2024-04-20,2024-04-20,2024-04-27,Delivered,5,1308.40,920.62,91.31,"Credit Card",5712.69,597.03
+418,50,"Holly Koch",Male,56,South,Dudleyberg,4277,"Clothing Jeans",Clothing,Jeans,2024-01-30,2024-01-30,2024-02-01,Delivered,3,114.88,35.96,20.25,"Debit Card",328.93,54.40
+419,259,"Ryan Schneider",Other,22,North,"North Tinamouth",1229,"Clothing T-Shirt",Clothing,T-Shirt,2024-10-15,2024-10-16,2024-10-23,Delivered,5,20.43,22.22,92.80,UPI,172.73,3.45
+420,188,"Andrew Gonzalez",Other,55,South,Manuelbury,8203,"Electronics Laptop",Electronics,Laptop,2024-12-29,2025-01-01,2025-01-05,Delivered,2,1174.23,287.15,77.33,"Cash on Delivery",2138.64,317.68
+421,70,"Gerald Hanna",Female,66,East,Marvinfort,5723,"Electronics Mobile",Electronics,Mobile,2024-12-01,2024-12-04,2024-12-05,Delivered,4,782.14,563.51,34.64,"Cash on Delivery",2599.69,749.61
+422,209,"Brian Khan",Female,45,South,"East Jennifer",2140,"Grocery Snacks",Grocery,Snacks,2024-07-02,2024-07-02,2024-07-08,Delivered,4,34.26,16.29,54.65,UPI,175.40,25.16
+423,206,"Joann House",Other,55,North,"East Michael",3764,"Electronics Tablet",Electronics,Tablet,2024-07-22,2024-07-24,2024-07-26,Delivered,5,1734.85,1052.07,27.12,"Cash on Delivery",7649.30,1402.88
+424,140,"Kenneth Taylor",Other,43,East,"East Ashley",8795,"Grocery Beverage",Grocery,Beverage,2025-06-07,2025-06-09,2025-06-11,Delivered,4,7.19,2.16,52.24,"Credit Card",78.84,2.49
+425,28,"Elizabeth Allen",Male,49,North,Payneside,3934,"Grocery Spices",Grocery,Spices,2024-11-30,2024-12-01,2024-12-04,Delivered,5,31.92,36.40,67.80,UPI,191.00,8.45
+426,104,"Jessica Lopez",Female,60,West,"West Markberg",9032,"Furniture Wardrobe",Furniture,Wardrobe,2024-12-17,2024-12-21,2024-12-26,Delivered,1,1433.61,13.59,45.89,"Net Banking",1465.91,393.05
+427,193,"Samantha Johnson",Female,47,North,Joshuamouth,1538,"Clothing Dress",Clothing,Dress,2024-11-06,2024-11-11,2024-11-13,Delivered,4,63.07,23.65,41.96,UPI,270.59,45.86
+428,284,"Valerie Morgan",Other,52,West,"Lake Sabrinafurt",8797,"Clothing Dress",Clothing,Dress,2024-02-27,2024-03-01,2024-03-04,Delivered,4,79.10,35.86,69.27,"Credit Card",349.81,61.21
+429,15,"Candice Park",Other,20,South,"Lake Catherinefurt",7003,"Furniture Wardrobe",Furniture,Wardrobe,2024-01-28,2024-02-02,2024-02-05,Delivered,4,236.29,97.87,38.95,"Debit Card",886.24,131.38
+430,121,"Angela Griffin",Other,37,North,Nicoleton,2073,"Furniture Chair",Furniture,Chair,2024-12-11,2024-12-12,2024-12-13,Delivered,5,556.56,384.79,87.02,"Net Banking",2485.03,473.02
+431,11,"Jordan Brown",Other,48,North,Sheppardbury,6185,"Grocery Spices",Grocery,Spices,2025-02-03,2025-02-05,2025-02-10,Delivered,1,40.80,1.22,69.14,"Net Banking",108.72,2.17
+432,86,"Mary Ramirez",Other,37,East,"South Sara",8143,"Clothing Jacket",Clothing,Jacket,2024-03-18,2024-03-22,2024-03-24,Delivered,3,46.52,12.45,59.48,"Credit Card",186.59,14.59
+433,297,"Barry Coleman",Male,55,East,Juliemouth,5478,"Electronics Camera",Electronics,Camera,2025-06-27,2025-06-30,2025-07-04,Delivered,2,890.44,40.96,83.26,"Cash on Delivery",1823.18,337.11
+434,161,"Yesenia Smith",Male,44,West,"West Donald",5116,"Grocery Spices",Grocery,Spices,2024-07-03,2024-07-03,2024-07-09,Delivered,5,43.41,37.56,25.23,UPI,204.72,43.12
+435,138,"Jessica Hawkins",Other,52,West,"North Phillipton",1981,"Clothing Jeans",Clothing,Jeans,2025-04-18,2025-04-19,2025-04-21,Delivered,2,94.64,43.47,85.19,"Credit Card",231.00,4.62
+436,105,"Jennifer Williamson",Female,35,East,"New Cassandra",3631,"Furniture Wardrobe",Furniture,Wardrobe,2024-08-29,2024-09-01,2024-09-03,Delivered,1,309.95,2.58,80.72,UPI,388.09,30.24
+437,217,"Sara Castro",Other,20,South,"East Christophertown",3610,"Furniture Table",Furniture,Table,2024-01-30,2024-02-01,2024-02-08,Delivered,3,1022.14,161.89,85.99,"Credit Card",2990.52,829.43
+438,29,"Maurice Smith",Male,38,East,"East Samuelton",2041,"Grocery Snacks",Grocery,Snacks,2024-04-02,2024-04-05,2024-04-12,Delivered,2,13.33,4.57,52.52,"Cash on Delivery",74.61,1.49
+439,269,"William Hicks",Female,49,North,Scottland,4900,"Electronics Tablet",Electronics,Tablet,2024-12-03,2024-12-07,2024-12-13,Delivered,4,1669.93,1490.83,93.87,"Debit Card",5282.76,740.12
+440,141,"Amanda Turner",Female,44,East,"East Sheenamouth",1916,"Grocery Spices",Grocery,Spices,2025-01-18,2025-01-23,2025-01-24,Delivered,3,28.20,12.05,28.40,"Debit Card",100.95,2.02
+441,186,"Robin Young",Female,63,East,Mcdonaldtown,6049,"Electronics Camera",Electronics,Camera,2024-02-05,2024-02-10,2024-02-16,Delivered,1,1474.16,348.85,27.77,"Net Banking",1153.08,232.63
+442,63,"Katie Hardin",Other,33,West,"South Phillipville",7364,"Electronics Headphones",Electronics,Headphones,2024-09-18,2024-09-20,2024-09-21,Delivered,2,805.62,415.42,20.22,UPI,1216.04,221.33
+443,18,"Jeffrey Logan",Female,23,West,Justinburgh,8718,"Grocery Snacks",Grocery,Snacks,2025-03-08,2025-03-08,2025-03-15,Delivered,2,35.53,10.80,38.43,"Net Banking",98.69,1.97
+444,233,"Mrs. Toni Young DDS",Other,19,North,Lindseybury,4010,"Grocery Pasta",Grocery,Pasta,2024-01-04,2024-01-07,2024-01-09,Delivered,3,17.06,1.26,19.99,"Debit Card",69.91,1.40
+445,211,"Rachel Scott",Female,46,West,Blakeview,3187,"Furniture Table",Furniture,Table,2024-12-01,2024-12-03,2024-12-05,Delivered,1,680.29,37.12,88.26,"Debit Card",731.43,146.82
+446,11,"Kara Brown",Male,53,South,"East Amanda",2457,"Grocery Pasta",Grocery,Pasta,2024-09-25,2024-09-30,2024-10-07,Delivered,2,4.39,1.63,62.04,"Debit Card",69.19,1.38
+447,291,"Carolyn Mahoney",Male,18,West,"West Krista",8433,"Grocery Rice",Grocery,Rice,2024-08-17,2024-08-22,2024-08-24,Delivered,2,47.41,23.14,30.29,UPI,101.97,12.08
+448,106,"Daniel Pierce",Other,31,East,Micheleberg,4102,"Grocery Pasta",Grocery,Pasta,2025-02-22,2025-02-23,2025-02-24,Delivered,3,48.85,10.35,47.84,UPI,184.04,6.44
+449,44,"Ryan Garner",Male,48,South,"Lake Omar",6296,"Grocery Pasta",Grocery,Pasta,2025-01-27,2025-02-01,2025-02-05,Delivered,5,14.30,2.04,10.58,"Net Banking",80.04,10.33
+450,24,"Jacob Bradley",Male,34,West,"West Sarah",5956,"Grocery Snacks",Grocery,Snacks,2024-05-15,2024-05-19,2024-05-20,Delivered,5,10.61,2.70,51.82,"Credit Card",102.17,2.04
+451,163,"Melinda Allen",Other,51,West,Webershire,3323,"Furniture Chair",Furniture,Chair,2024-11-16,2024-11-16,2024-11-18,Delivered,4,1320.35,1322.68,76.04,"Net Banking",4034.76,1118.46
+452,136,"Jessica Coleman DDS",Other,38,West,Marthatown,3703,"Furniture Bed",Furniture,Bed,2024-06-03,2024-06-07,2024-06-14,Delivered,4,174.51,31.12,26.84,UPI,693.76,67.98
+453,224,"Don Martinez",Male,49,North,Hillborough,8233,"Furniture Wardrobe",Furniture,Wardrobe,2025-05-11,2025-05-14,2025-05-18,Delivered,1,1284.17,333.97,16.75,"Debit Card",966.95,105.53
+454,87,"Bridget Burns",Other,50,East,Herbertshire,4479,"Electronics Camera",Electronics,Camera,2025-08-07,2025-08-08,2025-08-12,Delivered,1,718.47,107.36,13.96,"Credit Card",625.07,99.30
+455,202,"Ronald Coleman",Female,55,North,"East Angie",6300,"Clothing Shirt",Clothing,Shirt,2024-03-24,2024-03-27,2024-04-03,Delivered,4,65.41,74.97,61.45,"Cash on Delivery",248.12,4.96
+456,232,"Steve Molina Jr.",Female,64,South,Hansonfurt,4463,"Electronics Tablet",Electronics,Tablet,2024-11-26,2024-11-26,2024-12-02,Delivered,1,1230.17,222.28,13.79,UPI,1021.68,150.57
+457,46,"Paul Williams",Male,31,South,"West Danielville",7365,"Grocery Snacks",Grocery,Snacks,2024-06-06,2024-06-06,2024-06-09,Delivered,4,40.45,35.72,92.56,"Net Banking",218.64,7.47
+458,50,"Larry Robinson",Female,50,South,"Lake Jameston",9021,"Grocery Beverage",Grocery,Beverage,2025-05-02,2025-05-04,2025-05-09,Delivered,5,22.31,25.31,82.04,UPI,168.28,3.37
+459,48,"Nicole Miller",Male,50,East,Markbury,8594,"Clothing T-Shirt",Clothing,T-Shirt,2025-05-22,2025-05-26,2025-06-01,Delivered,5,28.40,19.95,12.52,"Debit Card",134.57,29.89
+460,154,"Lauren Shaffer",Male,51,West,Jacquelineside,5841,"Electronics Camera",Electronics,Camera,2024-03-19,2024-03-19,2024-03-24,Delivered,1,1168.11,144.73,49.14,"Net Banking",1072.52,229.80
+461,131,"Rachel Robinson",Other,23,North,Cookville,2866,"Grocery Pasta",Grocery,Pasta,2024-07-05,2024-07-08,2024-07-09,Delivered,1,21.98,4.64,34.82,UPI,52.16,1.04
+462,136,"Martha Wells",Female,69,South,Rodgersburgh,4458,"Clothing Shirt",Clothing,Shirt,2024-09-22,2024-09-27,2024-09-28,Delivered,4,73.44,0.52,16.08,UPI,309.32,35.56
+463,250,"Timothy Bennett",Female,57,East,"Lake Williamstad",7471,"Furniture Chair",Furniture,Chair,2024-05-08,2024-05-09,2024-05-10,Delivered,2,256.68,2.45,97.20,"Debit Card",608.11,128.70
+464,124,"Jeffery Thompson",Female,58,South,"East Brandonborough",2410,"Furniture Bed",Furniture,Bed,2024-05-31,2024-06-03,2024-06-07,Delivered,1,263.04,71.21,75.18,"Credit Card",267.01,18.03
+465,231,"Virginia Herrera",Other,33,South,Arnoldborough,5830,"Grocery Rice",Grocery,Rice,2024-12-07,2024-12-07,2024-12-08,Delivered,4,49.02,49.92,75.02,"Net Banking",221.18,11.24
+466,19,"Joshua Rodriguez",Female,43,West,Collierbury,9410,"Grocery Pasta",Grocery,Pasta,2024-03-03,2024-03-07,2024-03-08,Delivered,4,29.67,19.70,30.45,"Credit Card",129.43,9.19
+467,254,"Jessica Drake",Other,59,East,Jillbury,8345,"Grocery Rice",Grocery,Rice,2024-06-14,2024-06-16,2024-06-22,Delivered,2,24.52,6.44,53.23,"Cash on Delivery",95.83,1.92
+468,240,"James Massey",Male,36,West,Howardfurt,7829,"Furniture Bed",Furniture,Bed,2024-06-14,2024-06-18,2024-06-20,Delivered,3,1066.98,82.77,50.87,UPI,3169.04,415.91
+469,52,"Joseph Owens",Female,49,East,"Port Wesleyhaven",4845,"Clothing Dress",Clothing,Dress,2024-02-18,2024-02-18,2024-02-21,Delivered,3,55.70,7.95,83.66,"Credit Card",242.81,43.05
+470,173,"Molly Mack",Female,25,South,Benjaminbury,2977,"Clothing Jacket",Clothing,Jacket,2024-09-21,2024-09-23,2024-09-30,Delivered,3,96.94,67.19,57.92,"Cash on Delivery",281.55,37.74
+471,54,"Sean Coleman",Other,21,West,"Lake Katherinetown",8489,"Electronics Mobile",Electronics,Mobile,2024-04-14,2024-04-18,2024-04-19,Delivered,5,479.20,452.79,87.73,"Net Banking",2030.94,541.48
+472,227,"Crystal Macdonald",Other,49,North,"Lake Melissaberg",3527,"Furniture Sofa",Furniture,Sofa,2024-05-21,2024-05-21,2024-05-28,Delivered,2,714.75,178.29,78.06,"Net Banking",1329.27,154.93
+473,147,"Deborah Mason",Other,28,North,Jamesfort,5358,"Furniture Bed",Furniture,Bed,2025-01-04,2025-01-09,2025-01-15,Delivered,2,312.26,141.18,45.06,UPI,528.40,52.33
+474,210,"Dawn Clark",Female,51,East,Pagefort,1487,"Grocery Pasta",Grocery,Pasta,2024-01-11,2024-01-16,2024-01-23,Delivered,5,47.29,6.01,34.91,"Credit Card",265.35,65.43
+475,202,"Megan Pruitt",Male,60,South,Pattyland,1947,"Furniture Bed",Furniture,Bed,2025-02-15,2025-02-20,2025-02-26,Delivered,5,1322.96,1431.87,34.80,"Cash on Delivery",5217.73,860.65
+476,76,"Steven Cox",Other,43,West,"South Joshua",4360,"Grocery Snacks",Grocery,Snacks,2025-02-18,2025-02-19,2025-02-22,Delivered,1,3.77,0.38,73.88,"Cash on Delivery",77.27,1.55
+477,146,"Amanda Larson",Male,23,East,Markview,9541,"Furniture Table",Furniture,Table,2024-01-24,2024-01-24,2024-01-31,Delivered,5,929.51,336.49,78.54,"Credit Card",4389.60,1018.75
+478,31,"Barry Hansen",Female,34,East,Hamiltonborough,3028,"Electronics Mobile",Electronics,Mobile,2025-04-04,2025-04-06,2025-04-11,Delivered,1,1070.35,315.63,81.51,"Cash on Delivery",836.23,201.70
+479,120,"Kimberly Macias",Female,37,East,"North Kyleland",3293,"Grocery Spices",Grocery,Spices,2024-09-10,2024-09-10,2024-09-13,Delivered,5,29.95,36.96,39.32,UPI,152.11,3.04
+480,42,"Thomas Clark",Male,21,West,"East Heather",3130,"Grocery Pasta",Grocery,Pasta,2025-04-01,2025-04-01,2025-04-04,Delivered,5,21.33,17.88,78.99,UPI,167.76,3.36
+481,226,"Shawn Hunter",Other,49,West,Howardport,3668,"Clothing Dress",Clothing,Dress,2024-05-10,2024-05-13,2024-05-19,Delivered,4,32.94,27.85,87.01,UPI,190.92,3.82
+482,17,"Stephen Gibbs",Other,28,East,Hollandbury,2945,"Grocery Rice",Grocery,Rice,2024-05-03,2024-05-05,2024-05-10,Delivered,3,3.93,0.54,40.29,UPI,51.54,1.03
+483,15,"Kelsey Mccall",Male,27,West,"West Erin",1797,"Furniture Sofa",Furniture,Sofa,2024-08-08,2024-08-09,2024-08-16,Delivered,4,102.92,67.62,11.42,"Net Banking",355.48,34.73
+484,290,"Julie Anderson",Female,39,West,"East Victoriashire",8786,"Clothing T-Shirt",Clothing,T-Shirt,2025-05-31,2025-06-05,2025-06-09,Delivered,4,86.72,15.50,74.15,"Cash on Delivery",405.53,15.89
+485,210,"Lisa Davis",Female,32,West,"Lake Jennifertown",6554,"Electronics Headphones",Electronics,Headphones,2024-10-11,2024-10-16,2024-10-17,Delivered,2,1502.25,515.57,80.64,"Credit Card",2569.57,578.40
+486,287,"Kaitlyn Mathis",Male,30,North,"New Lindseychester",9548,"Clothing Jacket",Clothing,Jacket,2025-05-29,2025-05-29,2025-05-30,Delivered,5,37.97,1.08,79.74,"Cash on Delivery",268.51,5.37
+487,228,"Dawn Hernandez",Male,69,East,"New Alyssa",7583,"Electronics Headphones",Electronics,Headphones,2024-01-24,2024-01-26,2024-01-30,Delivered,2,1005.39,518.57,35.15,"Credit Card",1527.36,223.96
+488,278,"Wesley Hernandez",Male,36,South,Deniseton,3992,"Furniture Chair",Furniture,Chair,2024-06-06,2024-06-08,2024-06-12,Delivered,2,182.48,105.23,22.24,"Credit Card",281.97,59.71
+489,164,"Brian Crawford",Male,44,East,Leefort,5225,"Grocery Rice",Grocery,Rice,2024-02-23,2024-02-24,2024-02-26,Delivered,5,30.13,22.28,76.48,"Credit Card",204.85,18.32
+490,163,"Melissa Gutierrez",Female,53,West,"East Terriview",2072,"Grocery Rice",Grocery,Rice,2025-02-21,2025-02-26,2025-02-28,Delivered,1,14.92,4.32,69.13,"Debit Card",79.73,1.59
+491,156,"Scott Romero",Other,44,West,Kevinland,2374,"Clothing T-Shirt",Clothing,T-Shirt,2025-01-17,2025-01-21,2025-01-23,Delivered,2,73.75,18.75,91.59,UPI,220.34,24.46
+492,149,"Andrea King",Other,28,North,Theresatown,1985,"Grocery Snacks",Grocery,Snacks,2024-09-13,2024-09-18,2024-09-22,Delivered,3,42.44,8.13,84.86,"Cash on Delivery",204.05,11.78
+493,289,"John Martin",Male,37,North,"South Anneshire",7476,"Electronics Laptop",Electronics,Laptop,2025-07-23,2025-07-25,2025-07-29,Delivered,2,1337.76,768.48,35.24,"Net Banking",1942.28,444.83
+494,232,"Mark Wiley",Female,33,East,Antonioburgh,6597,"Clothing Jacket",Clothing,Jacket,2024-12-02,2024-12-02,2024-12-08,Delivered,2,84.64,0.10,50.27,UPI,219.45,30.51
+495,285,"Nichole Evans",Other,63,West,Deniseton,7435,"Electronics Mobile",Electronics,Mobile,2025-07-05,2025-07-05,2025-07-12,Delivered,4,1442.82,611.17,82.21,"Debit Card",5242.32,1355.26
+496,5,"Mark Jimenez",Male,47,East,"East Aprilside",4161,"Grocery Rice",Grocery,Rice,2024-08-14,2024-08-19,2024-08-20,Delivered,3,34.67,22.13,23.19,"Debit Card",105.07,14.31
+497,120,"Amy Schroeder",Female,41,North,"New Nicholas",5599,"Grocery Spices",Grocery,Spices,2024-08-02,2024-08-02,2024-08-04,Delivered,4,7.33,2.44,52.53,"Cash on Delivery",79.41,1.59
+498,290,"Bryan Barr",Male,22,South,Jacksonport,2065,"Clothing Jeans",Clothing,Jeans,2025-08-06,2025-08-07,2025-08-12,Delivered,3,39.19,23.91,99.24,"Net Banking",192.90,3.86
+499,287,"Luis Contreras",Female,18,West,"New Christina",1849,"Furniture Bed",Furniture,Bed,2025-02-20,2025-02-22,2025-02-23,Delivered,5,753.22,408.40,77.11,"Net Banking",3434.81,920.62
+500,216,"Jessica Cross",Other,46,East,"West Juan",1084,"Grocery Pasta",Grocery,Pasta,2024-12-08,2024-12-08,2024-12-13,Delivered,1,49.53,3.35,70.51,"Debit Card",116.69,2.33
+501,85,"Shannon Maddox",Female,37,North,Cummingsfort,2584,"Electronics Headphones",Electronics,Headphones,2025-03-18,2025-03-18,2025-03-23,Delivered,3,1728.86,384.56,49.99,"Net Banking",4852.01,1380.23
+502,267,"Allison Green",Male,22,West,Maryshire,2567,"Grocery Spices",Grocery,Spices,2024-05-07,2024-05-07,2024-05-08,Delivered,1,20.11,5.37,70.87,UPI,85.61,1.71
+503,29,"James Prince",Female,57,West,"South Dennisview",2077,"Electronics Mobile",Electronics,Mobile,2025-07-26,2025-07-26,2025-07-29,Delivered,4,982.86,728.06,44.06,"Cash on Delivery",3247.44,856.91
+504,6,"Jacob Cooke",Female,42,West,"North Jennifer",8014,"Electronics Tablet",Electronics,Tablet,2024-01-27,2024-01-30,2024-02-04,Delivered,3,1299.28,126.30,6.17,"Debit Card",3777.71,913.37
+505,294,"Audrey Davis",Male,58,East,Warrenhaven,6822,"Grocery Beverage",Grocery,Beverage,2025-03-31,2025-04-01,2025-04-03,Delivered,2,40.26,1.46,34.61,"Net Banking",113.67,2.27
+506,160,"Angela Woodard",Other,52,South,"Port Barry",3415,"Grocery Snacks",Grocery,Snacks,2024-12-17,2024-12-19,2024-12-22,Delivered,1,26.85,5.29,18.74,"Cash on Delivery",40.30,0.81
+507,28,"Charles Moore",Female,40,South,"North Desiree",4282,"Clothing Shirt",Clothing,Shirt,2024-12-15,2024-12-16,2024-12-22,Delivered,4,89.48,105.44,61.98,"Net Banking",314.46,24.04
+508,154,"Casey Pineda",Female,39,South,"Port Darrellshire",2717,"Grocery Rice",Grocery,Rice,2025-05-22,2025-05-23,2025-05-24,Delivered,2,35.27,9.87,25.25,"Net Banking",85.92,2.20
+509,193,"William Evans",Male,43,South,Davisstad,1110,"Furniture Chair",Furniture,Chair,2024-03-16,2024-03-18,2024-03-19,Delivered,5,261.27,113.88,23.47,"Credit Card",1215.94,249.95
+510,16,"Jason Thompson",Male,30,East,"Port Cynthia",3853,"Clothing Jeans",Clothing,Jeans,2024-06-27,2024-06-29,2024-07-06,Delivered,5,44.60,13.11,21.73,"Debit Card",231.62,30.88
+511,195,"Laura Young",Other,68,North,Fraziermouth,6544,"Clothing Jeans",Clothing,Jeans,2025-04-12,2025-04-13,2025-04-16,Delivered,3,86.09,72.92,97.82,"Credit Card",283.17,12.40
+512,61,"Angela May",Male,26,South,Alexanderborough,4140,"Grocery Snacks",Grocery,Snacks,2024-11-21,2024-11-25,2024-11-29,Delivered,2,46.21,21.16,60.80,"Debit Card",132.06,10.36
+513,168,"Thomas Wallace",Male,21,East,"East Jonathan",3071,"Grocery Pasta",Grocery,Pasta,2024-03-24,2024-03-27,2024-04-03,Delivered,5,5.11,3.90,76.37,UPI,98.02,1.96
+514,266,"Valerie Fowler",Female,29,East,"South Katherineburgh",7125,"Grocery Beverage",Grocery,Beverage,2025-04-30,2025-05-02,2025-05-07,Delivered,4,32.63,30.96,66.73,UPI,166.29,3.33
+515,121,"Rachael Haas",Female,31,East,"South Stephanie",7963,"Grocery Spices",Grocery,Spices,2024-06-09,2024-06-11,2024-06-14,Delivered,5,6.07,6.85,33.03,"Credit Card",56.53,1.13
+516,239,"Robert Morton",Other,57,East,Snyderburgh,7981,"Grocery Beverage",Grocery,Beverage,2025-03-18,2025-03-21,2025-03-24,Delivered,4,17.22,7.90,22.06,"Net Banking",83.04,1.83
+517,43,"Lee Patel",Female,50,North,"New Jessicaborough",5528,"Clothing Shirt",Clothing,Shirt,2024-05-01,2024-05-01,2024-05-04,Delivered,1,74.60,7.47,69.14,"Net Banking",136.27,2.73
+518,98,"Tara Sanders",Other,56,South,"East Gary",9898,"Furniture Chair",Furniture,Chair,2024-11-02,2024-11-04,2024-11-11,Delivered,3,1196.38,434.80,43.55,UPI,3197.89,667.04
+519,263,"Matthew Salas",Male,43,South,"Lake Petermouth",4717,"Clothing Jacket",Clothing,Jacket,2024-08-27,2024-08-31,2024-09-05,Delivered,5,95.76,103.78,48.83,"Debit Card",423.85,89.26
+520,220,"Tiffany Cannon MD",Other,44,South,Douglasburgh,8187,"Grocery Spices",Grocery,Spices,2024-01-31,2024-02-02,2024-02-04,Delivered,5,43.94,20.14,75.09,"Net Banking",274.65,15.17
+521,174,"Elizabeth Reed",Male,44,West,Valeriehaven,7608,"Furniture Sofa",Furniture,Sofa,2024-01-24,2024-01-28,2024-02-04,Delivered,1,1391.00,64.14,95.50,"Cash on Delivery",1422.36,190.25
+522,294,"Daniel Harmon",Female,42,South,Evansland,7400,"Electronics Camera",Electronics,Camera,2025-01-30,2025-01-31,2025-02-04,Delivered,1,859.03,247.90,65.71,"Cash on Delivery",676.84,92.72
+523,91,"Michael White",Male,70,West,"New Mario",1439,"Clothing T-Shirt",Clothing,T-Shirt,2024-03-12,2024-03-15,2024-03-18,Delivered,2,43.30,17.14,11.65,"Debit Card",81.11,4.72
+524,168,"Angela Stephenson",Female,43,South,"New Nicole",2814,"Clothing Dress",Clothing,Dress,2025-03-04,2025-03-07,2025-03-13,Delivered,1,58.90,15.97,24.62,UPI,67.55,7.95
+525,82,"Hannah Weaver",Other,54,East,Villanuevastad,4325,"Grocery Snacks",Grocery,Snacks,2024-07-25,2024-07-25,2024-07-27,Delivered,4,5.07,2.43,81.72,UPI,99.57,1.99
+526,236,"Vanessa Campbell",Female,54,North,"East Patrick",2492,"Furniture Bed",Furniture,Bed,2024-12-21,2024-12-26,2025-01-02,Delivered,3,647.53,479.88,85.74,"Cash on Delivery",1548.45,259.99
+527,222,"Katrina Thompson",Female,42,South,Annaburgh,2565,"Grocery Rice",Grocery,Rice,2024-09-02,2024-09-03,2024-09-06,Delivered,5,16.01,22.01,71.31,UPI,129.35,6.44
+528,211,"Scott Lucas",Other,25,East,"East Stephanie",2253,"Electronics Camera",Electronics,Camera,2024-11-29,2024-12-02,2024-12-06,Delivered,2,729.70,221.57,48.91,UPI,1286.74,124.92
+529,196,"Jacob Powers",Female,65,West,Emilyside,4185,"Grocery Rice",Grocery,Rice,2024-01-11,2024-01-13,2024-01-14,Delivered,2,17.70,7.95,51.05,"Debit Card",78.50,1.57
+530,225,"Dr. Jeffrey Kirby MD",Male,48,East,Kevinborough,3643,"Clothing Shirt",Clothing,Shirt,2024-04-12,2024-04-13,2024-04-16,Delivered,1,73.47,8.61,12.37,"Debit Card",77.23,12.20
+531,226,"Michael Love",Female,29,South,"North Carmenville",1564,"Clothing Jacket",Clothing,Jacket,2024-02-18,2024-02-23,2024-03-01,Delivered,5,84.10,90.38,90.22,"Credit Card",420.34,44.89
+532,3,"Natalie Sanchez",Male,67,West,Nicholasland,4305,"Clothing Jeans",Clothing,Jeans,2024-09-01,2024-09-02,2024-09-03,Delivered,1,62.17,18.45,37.03,"Debit Card",80.75,1.61
+533,50,"Gabriela Taylor",Other,28,South,Deborahtown,1721,"Grocery Spices",Grocery,Spices,2024-04-20,2024-04-22,2024-04-25,Delivered,5,32.09,30.07,93.76,"Debit Card",224.14,4.48
+534,110,"Felicia Preston",Male,40,East,Smithland,3844,"Electronics Headphones",Electronics,Headphones,2024-11-19,2024-11-19,2024-11-23,Delivered,2,1079.92,42.78,82.43,"Credit Card",2199.49,471.69
+535,112,"Megan Hodge",Female,37,West,"East Angela",2668,"Clothing Jeans",Clothing,Jeans,2024-04-07,2024-04-11,2024-04-14,Delivered,4,87.79,102.44,70.90,"Net Banking",319.62,18.87
+536,247,"Tracy Palmer",Male,39,North,Desireeside,8354,"Grocery Spices",Grocery,Spices,2024-08-26,2024-08-30,2024-09-04,Delivered,1,13.17,2.43,90.19,"Debit Card",100.93,2.02
+537,41,"Matthew Good",Male,26,East,Christopherfort,9171,"Furniture Table",Furniture,Table,2024-06-04,2024-06-07,2024-06-09,Delivered,1,433.29,94.28,98.91,"Debit Card",437.92,20.60
+538,143,"Melissa Rose",Female,59,North,Flemingtown,9533,"Grocery Snacks",Grocery,Snacks,2024-01-25,2024-01-26,2024-02-02,Delivered,3,18.45,3.42,10.14,"Debit Card",62.07,9.71
+539,196,"James Griffin",Other,38,South,Phillipview,8247,"Electronics Mobile",Electronics,Mobile,2025-05-18,2025-05-18,2025-05-20,Delivered,1,1378.42,58.53,24.40,"Debit Card",1344.29,148.98
+540,121,"Nicole Gentry",Other,23,West,Moodyshire,8652,"Furniture Table",Furniture,Table,2024-07-21,2024-07-22,2024-07-26,Delivered,2,948.19,172.44,59.76,UPI,1783.70,500.04
+541,41,"Jackie Burton MD",Female,43,West,"North Gregoryburgh",3748,"Grocery Beverage",Grocery,Beverage,2025-03-08,2025-03-12,2025-03-17,Delivered,4,38.50,37.87,80.39,"Credit Card",196.52,3.93
+542,154,"Heather Morris",Other,52,South,Floydtown,3878,"Furniture Bed",Furniture,Bed,2025-04-19,2025-04-21,2025-04-25,Delivered,3,625.21,341.00,11.83,"Debit Card",1546.46,192.63
+543,98,"Jared Morgan",Male,18,East,"Lake Angela",9051,"Grocery Beverage",Grocery,Beverage,2025-02-08,2025-02-13,2025-02-16,Delivered,4,25.50,19.62,60.89,"Credit Card",143.27,13.79
+544,198,"Alejandro Castro",Other,28,South,Thomasport,8148,"Furniture Sofa",Furniture,Sofa,2025-06-05,2025-06-10,2025-06-14,Delivered,3,1075.04,629.78,93.02,"Credit Card",2688.36,630.12
+545,186,"Jeffery Thomas",Other,63,North,Paulville,3422,"Furniture Wardrobe",Furniture,Wardrobe,2025-04-11,2025-04-16,2025-04-18,Delivered,3,446.38,232.34,67.95,"Credit Card",1174.75,142.45
+546,197,"Sarah Gould",Female,63,North,"Port Jeffstad",9495,"Clothing Jacket",Clothing,Jacket,2024-06-18,2024-06-21,2024-06-24,Delivered,3,70.06,33.62,89.23,"Credit Card",265.79,5.61
+547,56,"Stacey Hernandez",Other,54,East,Caldwelltown,3338,"Furniture Table",Furniture,Table,2025-02-11,2025-02-16,2025-02-19,Delivered,1,1481.84,362.93,5.15,"Cash on Delivery",1124.06,125.73
+548,214,"Melissa Sheppard",Other,36,West,Evanton,3795,"Clothing Jeans",Clothing,Jeans,2024-07-09,2024-07-14,2024-07-16,Delivered,2,68.65,20.70,15.47,"Debit Card",132.07,23.24
+549,31,"Shane Williams",Other,29,South,"East Carlachester",5249,"Grocery Beverage",Grocery,Beverage,2024-04-21,2024-04-26,2024-04-28,Delivered,1,16.07,1.82,31.29,UPI,45.54,0.91
+550,249,"Daniel Hudson",Other,66,North,"Lake Jasonville",1155,"Electronics Tablet",Electronics,Tablet,2024-01-08,2024-01-13,2024-01-18,Delivered,1,464.63,72.81,5.69,"Net Banking",397.51,83.63
+551,249,"Cory Lee",Female,66,East,Millshaven,8036,"Furniture Sofa",Furniture,Sofa,2024-12-17,2024-12-19,2024-12-26,Delivered,2,1417.39,565.60,40.95,"Net Banking",2310.13,245.61
+552,52,"Sarah Mckenzie",Male,47,West,"West Savannah",3275,"Electronics Camera",Electronics,Camera,2024-05-05,2024-05-09,2024-05-12,Delivered,2,926.33,343.68,67.59,"Debit Card",1576.57,280.35
+553,2,"Hector Schmidt",Other,70,East,Cummingsstad,1272,"Furniture Chair",Furniture,Chair,2024-11-29,2024-12-04,2024-12-08,Delivered,2,949.47,227.97,63.20,UPI,1734.17,180.77
+554,52,"David Evans",Other,42,East,Stephanieport,4196,"Clothing Dress",Clothing,Dress,2025-08-08,2025-08-13,2025-08-18,Delivered,1,32.79,7.84,33.63,UPI,58.58,1.17
+555,87,"Roy Carroll",Female,25,West,Jonathonmouth,9858,"Clothing T-Shirt",Clothing,T-Shirt,2024-08-04,2024-08-05,2024-08-12,Delivered,1,30.55,9.10,7.78,UPI,29.23,4.86
+556,144,"Brandon Lane",Male,64,East,Toddchester,8803,"Electronics Laptop",Electronics,Laptop,2025-07-01,2025-07-06,2025-07-12,Delivered,4,453.75,376.68,87.83,"Cash on Delivery",1526.15,378.22
+557,34,"Taylor Price",Other,39,West,Willieland,7252,"Grocery Pasta",Grocery,Pasta,2024-08-16,2024-08-18,2024-08-19,Delivered,3,6.21,0.50,75.36,"Credit Card",93.49,1.87
+558,294,"Mrs. Jennifer Reed",Female,26,East,Robinside,7229,"Electronics Tablet",Electronics,Tablet,2024-03-04,2024-03-08,2024-03-13,Delivered,2,1740.10,1023.02,35.37,"Debit Card",2492.55,413.09
+559,267,"Christopher Green",Other,56,South,"East Christopher",2746,"Grocery Rice",Grocery,Rice,2025-07-05,2025-07-08,2025-07-11,Delivered,2,41.18,7.33,25.80,"Net Banking",100.83,15.81
+560,75,"Candice Spence",Other,60,North,"West Kara",6245,"Furniture Wardrobe",Furniture,Wardrobe,2024-05-06,2024-05-08,2024-05-15,Delivered,5,769.60,956.64,52.03,"Net Banking",2943.39,686.52
+561,79,"Craig Bryant",Other,31,South,Stephenfurt,1861,"Clothing Jacket",Clothing,Jacket,2025-02-05,2025-02-07,2025-02-14,Delivered,2,119.11,39.16,37.05,UPI,236.11,28.55
+562,201,"James Thompson",Male,51,East,Lucaschester,5626,"Clothing Dress",Clothing,Dress,2025-02-07,2025-02-07,2025-02-09,Delivered,3,95.23,49.74,81.48,UPI,317.43,34.79
+563,84,"David Jennings",Other,26,West,"New Shawn",8904,"Furniture Table",Furniture,Table,2024-08-02,2024-08-03,2024-08-10,Delivered,2,1129.45,6.19,73.97,"Debit Card",2326.68,459.55
+564,193,"Tammy Miller",Female,61,South,Howardville,1922,"Electronics Tablet",Electronics,Tablet,2025-04-30,2025-05-01,2025-05-02,Delivered,1,1966.47,383.52,61.37,UPI,1644.32,446.06
+565,126,"Olivia Olsen",Male,25,South,"East Amy",7498,"Grocery Snacks",Grocery,Snacks,2024-06-25,2024-06-30,2024-07-06,Delivered,4,39.24,46.67,68.72,UPI,179.01,3.58
+566,141,"James Hughes",Other,59,West,"West Rebeccaside",7018,"Electronics Mobile",Electronics,Mobile,2024-04-29,2024-04-29,2024-04-30,Delivered,4,1390.40,1515.78,26.37,UPI,4072.19,866.42
+567,141,"Douglas White MD",Other,65,North,Kathleentown,3967,"Grocery Beverage",Grocery,Beverage,2025-03-20,2025-03-22,2025-03-27,Delivered,2,6.77,0.26,91.34,"Credit Card",104.62,2.09
+568,202,"Victoria Hardy",Other,70,West,Markfort,2047,"Electronics Laptop",Electronics,Laptop,2024-04-30,2024-05-01,2024-05-08,Delivered,5,1481.87,11.83,47.49,"Cash on Delivery",7445.01,1203.82
+569,106,"Paige Murphy",Other,28,North,"South Karen",5206,"Electronics Mobile",Electronics,Mobile,2024-05-07,2024-05-11,2024-05-14,Delivered,3,1942.67,300.03,97.82,"Credit Card",5625.80,1268.31
+570,266,"Heather Thomas",Female,60,West,"Port Samuel",3291,"Grocery Snacks",Grocery,Snacks,2025-06-19,2025-06-21,2025-06-26,Delivered,5,26.51,27.36,67.95,"Debit Card",173.14,10.21
+571,154,"Matthew Park",Male,26,South,"East Michaelmouth",6882,"Furniture Table",Furniture,Table,2025-03-08,2025-03-08,2025-03-13,Delivered,3,464.94,271.90,20.52,UPI,1143.44,205.02
+572,74,"Sharon Smith",Other,31,North,"Port Keith",5413,"Clothing Jeans",Clothing,Jeans,2025-07-31,2025-08-05,2025-08-11,Delivered,5,80.49,50.67,19.58,"Credit Card",371.36,100.76
+573,127,"Matthew Pierce",Male,35,North,Scotttown,9707,"Electronics Camera",Electronics,Camera,2025-02-20,2025-02-20,2025-02-23,Delivered,1,916.79,91.73,30.96,"Credit Card",856.02,222.38
+574,51,"Christina Barton",Female,32,West,"East Derrickland",2720,"Electronics Laptop",Electronics,Laptop,2025-06-23,2025-06-28,2025-07-01,Delivered,5,1696.28,1245.80,55.25,"Cash on Delivery",7290.85,1713.30
+575,139,"Kelly Porter",Other,24,North,Garciachester,3797,"Furniture Bed",Furniture,Bed,2024-07-04,2024-07-06,2024-07-13,Delivered,5,872.34,1154.13,43.25,"Cash on Delivery",3250.82,695.13
+576,80,"Allen Davidson",Other,26,South,Heidifort,7206,"Furniture Chair",Furniture,Chair,2025-01-14,2025-01-19,2025-01-26,Delivered,2,1049.50,263.37,48.49,UPI,1884.12,336.13
+577,258,"Steven Bennett",Female,35,West,Doylestad,9529,"Clothing Jeans",Clothing,Jeans,2024-03-30,2024-04-01,2024-04-05,Delivered,3,104.52,59.70,12.29,"Cash on Delivery",266.15,37.00
+578,30,"Daniel Powell",Male,65,East,Paulmouth,9074,"Electronics Headphones",Electronics,Headphones,2025-06-04,2025-06-09,2025-06-11,Delivered,4,1146.27,942.40,69.29,"Credit Card",3711.97,747.83
+579,98,"Elizabeth Fleming",Other,18,West,Jonesfurt,9754,"Furniture Table",Furniture,Table,2025-06-24,2025-06-29,2025-07-04,Delivered,1,950.32,275.02,69.08,"Debit Card",744.38,168.56
+580,90,"Erin Jones",Male,41,South,Meganberg,9416,"Furniture Chair",Furniture,Chair,2025-03-08,2025-03-11,2025-03-15,Delivered,2,622.60,42.30,91.83,"Credit Card",1294.73,155.62
+581,149,"Matthew Bradley",Female,48,East,Crawfordland,5337,"Clothing Shirt",Clothing,Shirt,2025-08-05,2025-08-08,2025-08-10,Delivered,3,112.91,97.47,53.98,"Cash on Delivery",295.24,41.99
+582,250,"Monica Martin",Male,40,North,"East Evanborough",8542,"Furniture Sofa",Furniture,Sofa,2024-12-28,2024-12-28,2024-12-29,Delivered,3,1346.27,225.56,38.68,"Credit Card",3851.93,449.09
+583,271,"Amy Stone",Other,27,West,Irwinfort,3029,"Grocery Rice",Grocery,Rice,2024-06-08,2024-06-13,2024-06-16,Delivered,2,24.59,5.52,39.63,"Net Banking",83.29,1.67
+584,56,"Jacob Gomez",Female,60,West,Lewistown,3651,"Clothing Jeans",Clothing,Jeans,2025-03-20,2025-03-20,2025-03-23,Delivered,2,31.07,5.31,17.70,"Credit Card",74.53,7.54
+585,83,"Matthew Matthews",Other,30,West,"East Robertville",5354,"Electronics Headphones",Electronics,Headphones,2025-05-15,2025-05-19,2025-05-23,Delivered,2,852.31,390.90,88.77,UPI,1402.49,222.24
+586,68,"Robert Ayala",Male,24,North,"New Patriciaport",3066,"Clothing Jeans",Clothing,Jeans,2025-05-27,2025-05-27,2025-06-03,Delivered,2,25.20,12.55,45.82,UPI,83.67,8.12
+587,149,"Erika Odom",Female,49,North,Wiseburgh,8027,"Clothing Dress",Clothing,Dress,2024-06-05,2024-06-10,2024-06-15,Delivered,2,44.95,20.68,87.10,UPI,156.32,9.91
+588,102,"Jeffrey Curtis",Female,63,North,"West Kirkstad",9230,"Clothing T-Shirt",Clothing,T-Shirt,2024-06-01,2024-06-02,2024-06-03,Delivered,2,60.13,9.88,23.26,"Debit Card",133.64,14.06
+589,47,"Janice Moreno",Male,42,West,"Lake Ashleymouth",9601,"Furniture Table",Furniture,Table,2024-08-15,2024-08-17,2024-08-21,Delivered,4,185.89,95.27,9.91,"Net Banking",658.20,77.30
+590,215,"Mrs. Amy Santiago",Male,38,North,"South Jeremiahberg",3977,"Electronics Mobile",Electronics,Mobile,2024-02-23,2024-02-28,2024-03-05,Delivered,3,660.36,280.55,91.31,UPI,1791.84,195.88
+591,187,"Ariel Thompson",Female,37,North,"West Sharonshire",2587,"Electronics Camera",Electronics,Camera,2024-05-13,2024-05-15,2024-05-18,Delivered,3,1562.98,828.41,62.45,"Cash on Delivery",3922.98,561.39
+592,197,"Diana Knight",Male,24,South,"Lake Michael",2971,"Electronics Camera",Electronics,Camera,2024-07-14,2024-07-15,2024-07-21,Delivered,4,1873.35,168.33,56.93,"Debit Card",7382.00,1214.21
+593,274,"Emily Esparza",Other,27,North,Larryport,3094,"Clothing Jacket",Clothing,Jacket,2025-07-17,2025-07-22,2025-07-25,Delivered,5,117.51,157.75,47.61,"Credit Card",477.41,82.96
+594,248,"Heather Jones",Female,51,North,Clarkville,3735,"Furniture Table",Furniture,Table,2024-10-23,2024-10-23,2024-10-28,Delivered,1,1212.15,252.30,75.37,"Cash on Delivery",1035.22,146.49
+595,39,"Megan Gonzalez",Male,46,West,Ritachester,7393,"Grocery Spices",Grocery,Spices,2024-10-05,2024-10-06,2024-10-08,Delivered,1,9.68,0.63,71.19,UPI,80.24,1.60
+596,258,"Sandra Stephens",Other,64,East,"Port Heatherfort",5971,"Clothing Jeans",Clothing,Jeans,2024-10-01,2024-10-05,2024-10-06,Delivered,2,42.39,13.57,32.73,"Net Banking",103.94,2.08
+597,69,"Jessica Smith",Female,68,North,Jacobbury,5079,"Clothing Dress",Clothing,Dress,2024-04-28,2024-04-28,2024-05-04,Delivered,3,83.27,72.86,35.83,"Net Banking",212.78,35.35
+598,69,"Jessica Garcia",Female,57,East,"Port Mitchellhaven",6318,"Electronics Mobile",Electronics,Mobile,2024-12-30,2024-12-31,2025-01-06,Delivered,3,600.45,525.06,56.05,"Cash on Delivery",1332.34,355.66
+599,55,"Jasmin Cobb",Other,65,West,"Port Marcia",5216,"Clothing Jacket",Clothing,Jacket,2024-08-13,2024-08-15,2024-08-18,Delivered,2,78.17,37.88,76.53,UPI,194.99,6.67
+600,189,"Christopher Bradley",Male,48,North,Wilcoxburgh,9125,"Clothing Jacket",Clothing,Jacket,2024-07-08,2024-07-09,2024-07-11,Delivered,5,69.05,75.56,66.52,"Debit Card",336.21,22.69
+601,202,"Gary Doyle",Other,56,South,"Port Barbaratown",2137,"Clothing Shirt",Clothing,Shirt,2025-03-12,2025-03-13,2025-03-17,Delivered,4,30.02,18.97,74.04,UPI,175.15,4.12
+602,197,"Lauren Ruiz",Male,25,North,Meganhaven,1716,"Clothing T-Shirt",Clothing,T-Shirt,2024-03-26,2024-03-28,2024-03-30,Delivered,5,21.35,30.94,95.97,"Net Banking",171.78,3.44
+603,44,"Cameron Griffin",Male,26,West,Jordanborough,8279,"Clothing Jeans",Clothing,Jeans,2024-12-05,2024-12-08,2024-12-10,Delivered,2,25.59,10.62,64.61,"Credit Card",105.17,2.10
+604,279,"Ryan Fox",Female,24,West,"Lake Nicholas",3323,"Electronics Laptop",Electronics,Laptop,2024-01-25,2024-01-26,2024-01-30,Delivered,4,550.54,432.97,26.46,"Credit Card",1795.65,482.85
+605,252,"Jennifer Thomas",Male,25,South,"New Christinahaven",2666,"Furniture Sofa",Furniture,Sofa,2024-03-19,2024-03-23,2024-03-26,Delivered,1,604.69,167.75,13.06,UPI,450.00,46.50
+606,272,"Alexander Black",Female,56,South,"Port Peterhaven",7967,"Clothing Jeans",Clothing,Jeans,2024-10-20,2024-10-22,2024-10-23,Delivered,3,111.62,66.48,93.62,"Credit Card",362.00,37.06
+607,2,"Johnny Alexander",Male,67,South,"East Haley",6247,"Clothing Jacket",Clothing,Jacket,2025-04-02,2025-04-07,2025-04-14,Delivered,4,101.46,13.78,45.61,"Net Banking",437.67,92.89
+608,66,"Jonathan Morse",Male,67,West,Hernandezport,6777,"Furniture Bed",Furniture,Bed,2025-03-10,2025-03-13,2025-03-19,Delivered,4,942.44,719.95,18.13,UPI,3067.94,872.45
+609,215,"Matthew Sullivan",Other,49,West,"North Davidton",9724,"Clothing Jacket",Clothing,Jacket,2024-03-26,2024-03-30,2024-04-05,Delivered,4,72.69,67.74,82.07,"Net Banking",305.09,28.50
+610,2,"Wendy Johnson",Male,19,East,"Port Sarah",8764,"Clothing Shirt",Clothing,Shirt,2024-03-02,2024-03-04,2024-03-07,Delivered,2,49.47,4.28,86.06,"Debit Card",180.72,3.61
+611,108,"David Keith",Male,21,South,Lisashire,2920,"Clothing Jacket",Clothing,Jacket,2024-01-27,2024-02-01,2024-02-05,Delivered,3,25.41,2.42,60.25,"Debit Card",134.06,2.68
+612,16,"Hayley Russo",Male,41,South,"Lake Jenniferfort",2294,"Clothing Shirt",Clothing,Shirt,2024-01-13,2024-01-17,2024-01-24,Delivered,4,34.97,7.65,75.64,"Net Banking",207.87,6.59
+613,241,"Christopher Wood DVM",Female,64,East,"East Toddchester",8274,"Electronics Tablet",Electronics,Tablet,2024-04-23,2024-04-24,2024-04-25,Delivered,1,1327.10,69.11,20.23,UPI,1278.22,221.25
+614,284,"Seth Rosales",Other,34,East,"East Linda",4724,"Grocery Pasta",Grocery,Pasta,2024-10-05,2024-10-05,2024-10-10,Delivered,4,48.94,7.35,25.13,"Debit Card",213.54,39.42
+615,287,"Maria Garza",Other,22,West,Lindseyhaven,8821,"Furniture Bed",Furniture,Bed,2025-01-24,2025-01-25,2025-01-26,Delivered,3,1005.31,176.19,15.30,"Net Banking",2855.04,323.55
+616,15,"Joyce Reyes",Male,36,South,"East Janicechester",9873,"Electronics Mobile",Electronics,Mobile,2024-08-04,2024-08-08,2024-08-09,Delivered,3,619.16,112.41,93.27,"Cash on Delivery",1838.34,254.42
+617,290,"Julie Ellis",Male,54,West,"Lake Thomas",1748,"Electronics Tablet",Electronics,Tablet,2024-04-05,2024-04-07,2024-04-08,Delivered,3,1577.86,1361.48,52.52,"Net Banking",3424.62,539.04
+618,67,"Stephen Williams",Other,61,North,Wardview,6428,"Grocery Spices",Grocery,Spices,2024-04-13,2024-04-17,2024-04-24,Delivered,2,3.14,1.50,50.31,"Debit Card",55.09,1.10
+619,78,"Matthew Briggs",Other,47,North,Sheliahaven,2528,"Clothing T-Shirt",Clothing,T-Shirt,2024-05-24,2024-05-29,2024-05-31,Delivered,5,71.63,78.29,66.88,"Debit Card",346.74,68.64
+620,174,"Justin Palmer",Female,41,West,"South Garyport",1655,"Grocery Pasta",Grocery,Pasta,2024-08-01,2024-08-05,2024-08-10,Delivered,1,47.98,8.16,99.47,"Net Banking",139.29,4.01
+621,281,"Brooke Evans",Male,49,North,Garciaton,8451,"Furniture Table",Furniture,Table,2024-10-29,2024-10-30,2024-10-31,Delivered,3,907.12,288.49,11.76,UPI,2444.63,586.36
+622,132,"Mitchell Munoz",Female,59,South,"South Alejandroview",3031,"Grocery Rice",Grocery,Rice,2025-01-07,2025-01-09,2025-01-13,Delivered,4,43.14,47.48,17.25,"Net Banking",142.33,14.40
+623,192,"Nathan Bowman",Male,61,West,Blackstad,9289,"Grocery Snacks",Grocery,Snacks,2024-02-13,2024-02-17,2024-02-23,Delivered,1,37.57,2.76,83.02,"Net Banking",117.83,2.36
+624,193,"Robert Robinson",Male,54,West,"East Georgeborough",2195,"Clothing Jacket",Clothing,Jacket,2025-04-18,2025-04-23,2025-04-24,Delivered,3,66.59,38.50,90.51,"Credit Card",251.78,27.24
+625,204,"Joseph Wise",Female,30,West,"West Joshua",6385,"Electronics Tablet",Electronics,Tablet,2024-12-16,2024-12-20,2024-12-24,Delivered,2,1493.89,426.85,31.45,UPI,2592.38,273.25
+626,75,"John Williams",Other,31,East,"South Tinamouth",1513,"Grocery Rice",Grocery,Rice,2025-01-05,2025-01-08,2025-01-12,Delivered,2,4.60,2.40,95.50,"Debit Card",102.30,2.05
+627,43,"Scott Lee",Male,22,East,"Lake Daniel",7636,"Electronics Tablet",Electronics,Tablet,2025-04-07,2025-04-10,2025-04-15,Delivered,2,1438.40,223.91,83.90,"Net Banking",2736.79,276.51
+628,153,"Kathryn Ochoa DVM",Male,30,East,"South Adam",7866,"Grocery Beverage",Grocery,Beverage,2025-07-02,2025-07-07,2025-07-14,Delivered,2,48.35,12.67,91.70,"Cash on Delivery",175.73,3.51
+629,102,"Jennifer Waters",Male,64,South,Brendaview,6304,"Furniture Chair",Furniture,Chair,2024-06-03,2024-06-06,2024-06-08,Delivered,4,1310.02,178.59,97.15,"Credit Card",5158.64,892.24
+630,231,"Brian Cantrell",Male,58,West,Maureenfurt,2596,"Electronics Laptop",Electronics,Laptop,2024-07-11,2024-07-14,2024-07-20,Delivered,5,1616.45,1457.09,25.53,"Cash on Delivery",6650.69,938.02
+631,8,"Christopher Hendricks",Female,70,East,Timothystad,1265,"Furniture Sofa",Furniture,Sofa,2025-05-29,2025-05-29,2025-06-04,Delivered,4,1008.48,551.84,43.99,"Cash on Delivery",3526.07,581.56
+632,172,"Alyssa Carter",Male,29,West,Coltonfurt,8018,"Furniture Table",Furniture,Table,2025-07-20,2025-07-24,2025-07-26,Delivered,5,710.23,303.65,67.66,"Cash on Delivery",3315.16,745.14
+633,51,"Jeremy Ramirez",Male,69,North,"Lake Heidi",2468,"Electronics Camera",Electronics,Camera,2025-02-25,2025-02-25,2025-03-01,Delivered,5,1876.29,280.60,47.19,"Net Banking",9148.04,1967.26
+634,216,"Oscar Nguyen",Male,32,West,Jeffreyborough,7243,"Electronics Laptop",Electronics,Laptop,2025-04-25,2025-04-25,2025-04-28,Delivered,4,1001.99,986.46,71.86,"Net Banking",3093.36,749.76
+635,115,"Brenda Tate",Other,36,East,"South Crystalfurt",5333,"Furniture Bed",Furniture,Bed,2024-09-04,2024-09-04,2024-09-08,Delivered,1,121.74,5.60,40.57,"Cash on Delivery",156.71,13.95
+636,163,"Jessica Parrish",Female,28,West,"New Daniel",4962,"Grocery Pasta",Grocery,Pasta,2025-02-06,2025-02-06,2025-02-13,Delivered,5,22.60,31.85,42.09,"Net Banking",123.24,11.45
+637,265,"David Nguyen",Male,45,South,Martinborough,2631,"Clothing Dress",Clothing,Dress,2024-05-01,2024-05-06,2024-05-11,Delivered,4,104.30,78.52,29.72,"Debit Card",368.40,57.22
+638,48,"Brenda Keller",Male,19,West,Chelseashire,1189,"Clothing Shirt",Clothing,Shirt,2025-07-10,2025-07-10,2025-07-15,Delivered,4,22.53,19.85,98.42,"Debit Card",168.69,3.37
+639,123,"Stephanie Harvey MD",Other,32,East,Goodstad,4175,"Clothing Jacket",Clothing,Jacket,2024-09-23,2024-09-28,2024-09-29,Delivered,3,28.30,3.66,7.20,"Credit Card",88.44,21.00
+640,236,"Cameron Peck",Other,25,North,"North Rachelstad",3323,"Furniture Sofa",Furniture,Sofa,2024-07-03,2024-07-03,2024-07-04,Delivered,4,1282.47,1404.64,24.76,UPI,3750.00,437.68
+641,38,"Alexander Rangel",Female,58,North,Angelastad,4445,"Grocery Beverage",Grocery,Beverage,2024-11-17,2024-11-22,2024-11-26,Delivered,2,10.63,0.06,21.97,"Credit Card",43.17,0.86
+642,61,"David Welch",Female,40,West,Susanland,9953,"Electronics Laptop",Electronics,Laptop,2025-06-18,2025-06-23,2025-06-26,Delivered,1,627.84,5.57,7.19,"Net Banking",629.46,125.37
+643,59,"Sarah Hawkins",Male,19,East,"Port Karen",3270,"Clothing Shirt",Clothing,Shirt,2024-05-09,2024-05-11,2024-05-14,Delivered,4,39.92,4.41,72.27,UPI,227.54,18.90
+644,224,"Kimberly Hunter",Other,43,South,Pruittland,5097,"Clothing T-Shirt",Clothing,T-Shirt,2024-10-14,2024-10-17,2024-10-18,Delivered,5,99.32,87.54,20.74,UPI,429.80,50.26
+645,229,"Tara Carr",Female,56,East,Grantview,6222,"Electronics Camera",Electronics,Camera,2025-01-27,2025-01-30,2025-02-01,Delivered,5,899.96,1212.10,82.84,"Cash on Delivery",3370.54,587.43
+646,130,"Cristina Hall",Other,44,East,"East Terryview",9691,"Furniture Bed",Furniture,Bed,2024-01-31,2024-01-31,2024-02-02,Delivered,3,701.14,117.32,28.31,"Debit Card",2014.41,278.82
+647,161,"Erin Velasquez",Male,18,East,Calebstad,1178,"Furniture Table",Furniture,Table,2025-04-21,2025-04-25,2025-05-02,Delivered,3,1358.24,686.56,41.63,"Credit Card",3429.79,735.64
+648,288,"Nicole Walker",Female,63,North,Bretthaven,7909,"Grocery Snacks",Grocery,Snacks,2024-11-23,2024-11-24,2024-11-26,Delivered,1,40.53,6.06,99.07,"Debit Card",133.54,2.67
+649,168,"Thomas Todd",Other,42,South,Gomezstad,1348,"Furniture Chair",Furniture,Chair,2024-01-05,2024-01-08,2024-01-11,Delivered,2,1278.30,308.95,90.10,"Credit Card",2337.75,635.69
+650,36,"Donna Gross",Female,24,West,"New Thomasborough",5931,"Furniture Sofa",Furniture,Sofa,2024-12-20,2024-12-23,2024-12-24,Delivered,5,1184.46,877.36,9.47,UPI,5054.41,800.96
+651,63,"Lisa Zamora",Female,57,North,Bakerland,1479,"Clothing Shirt",Clothing,Shirt,2024-01-11,2024-01-12,2024-01-13,Delivered,3,106.14,69.19,26.50,"Net Banking",275.73,19.72
+652,276,"Joseph Schwartz",Male,62,North,"South Stephanie",5254,"Electronics Mobile",Electronics,Mobile,2024-02-19,2024-02-21,2024-02-22,Delivered,3,859.86,474.19,82.19,"Debit Card",2187.58,317.19
+653,299,"Mrs. Jennifer Gonzalez MD",Female,25,South,"New Erica",6231,"Clothing Dress",Clothing,Dress,2025-02-27,2025-03-04,2025-03-08,Delivered,1,72.18,5.21,50.40,UPI,117.37,6.19
+654,116,"Victor Gamble",Male,34,East,"East Michael",2356,"Furniture Wardrobe",Furniture,Wardrobe,2024-09-05,2024-09-10,2024-09-16,Delivered,2,1072.95,48.38,51.99,UPI,2149.51,281.46
+655,198,"Brian Alexander",Male,49,North,"South Jamie",6577,"Clothing Dress",Clothing,Dress,2025-06-24,2025-06-28,2025-07-05,Delivered,3,96.05,26.95,48.13,"Debit Card",309.33,22.02
+656,113,"Heather Brown",Female,42,West,Vasquezfurt,9412,"Clothing Jacket",Clothing,Jacket,2024-07-11,2024-07-11,2024-07-14,Delivered,4,36.42,13.42,87.63,"Credit Card",219.89,23.92
+657,57,"Jasmin Warren",Male,19,West,"West Rebecca",4064,"Furniture Chair",Furniture,Chair,2025-05-02,2025-05-07,2025-05-12,Delivered,4,592.74,84.16,57.28,UPI,2344.08,384.71
+658,258,"Christopher Hawkins",Female,50,East,"East Victoriaton",1870,"Grocery Snacks",Grocery,Snacks,2025-01-13,2025-01-13,2025-01-14,Delivered,4,37.14,18.83,32.93,"Cash on Delivery",162.66,13.64
+659,253,"Alicia Hawkins",Other,45,North,"Lake Williamfurt",1817,"Clothing Shirt",Clothing,Shirt,2024-08-12,2024-08-12,2024-08-13,Delivered,1,77.52,5.55,55.55,UPI,127.52,2.55
+660,201,"Rebecca Kelly",Female,24,South,"West Melissa",5395,"Grocery Pasta",Grocery,Pasta,2024-06-24,2024-06-25,2024-06-28,Delivered,3,35.88,9.30,5.30,"Cash on Delivery",103.64,11.07
+661,245,"Vanessa Jordan",Other,37,South,Sullivanport,3789,"Furniture Chair",Furniture,Chair,2024-06-19,2024-06-20,2024-06-23,Delivered,4,298.57,4.56,50.09,"Net Banking",1239.81,194.01
+662,40,"Debra Brown",Male,61,North,"Lake Monica",6769,"Grocery Spices",Grocery,Spices,2024-01-02,2024-01-05,2024-01-12,Delivered,2,24.68,0.67,6.65,"Debit Card",55.34,10.52
+663,269,"Amy Anthony",Other,28,South,Walshmouth,2538,"Electronics Tablet",Electronics,Tablet,2024-12-09,2024-12-12,2024-12-16,Delivered,3,1982.65,459.19,51.22,"Net Banking",5539.98,948.43
+664,155,"Heather Drake",Other,39,West,"North Ashleyborough",2847,"Furniture Wardrobe",Furniture,Wardrobe,2024-01-22,2024-01-23,2024-01-27,Delivered,2,1023.11,86.94,52.29,UPI,2011.57,272.31
+665,185,"Amanda Key",Male,65,North,"North Baileyborough",4175,"Grocery Rice",Grocery,Rice,2024-10-07,2024-10-12,2024-10-18,Delivered,5,45.16,30.43,96.04,"Net Banking",291.41,27.39
+666,170,"Patrick Larson",Female,55,West,"New Paulport",5526,"Furniture Table",Furniture,Table,2024-02-12,2024-02-16,2024-02-21,Delivered,3,1267.84,140.31,80.56,"Net Banking",3743.77,749.56
+667,148,"Kevin Wright",Male,18,West,Michaelberg,3410,"Grocery Pasta",Grocery,Pasta,2025-06-19,2025-06-21,2025-06-26,Delivered,5,33.89,15.43,32.38,"Credit Card",186.40,39.79
+668,112,"Michael Flores",Female,70,North,Brendafurt,1871,"Grocery Snacks",Grocery,Snacks,2024-01-06,2024-01-09,2024-01-12,Delivered,1,4.40,0.18,88.48,"Cash on Delivery",92.70,1.85
+669,80,"Steven Arroyo",Male,63,East,"West Krista",3337,"Clothing Jacket",Clothing,Jacket,2024-03-23,2024-03-25,2024-03-27,Delivered,1,67.32,7.16,82.11,"Credit Card",142.27,2.85
+670,134,"Angela Kelly",Female,56,East,"West Reginald",3839,"Grocery Snacks",Grocery,Snacks,2024-05-22,2024-05-27,2024-06-03,Delivered,2,14.00,3.50,23.95,UPI,48.45,0.97
+671,280,"Keith Torres",Male,42,West,"North Dawn",2573,"Clothing Dress",Clothing,Dress,2025-03-28,2025-04-02,2025-04-05,Delivered,5,113.49,121.31,49.50,UPI,495.64,72.37
+672,237,"Sarah Wall",Male,53,North,"Lake Kendraberg",7896,"Electronics Laptop",Electronics,Laptop,2024-11-05,2024-11-06,2024-11-11,Delivered,5,934.29,870.13,90.49,UPI,3891.81,1045.07
+673,65,"Michele Lopez",Female,60,North,"New Louisport",8582,"Grocery Rice",Grocery,Rice,2024-03-27,2024-03-27,2024-03-30,Delivered,1,18.01,0.53,32.60,"Credit Card",50.08,1.00
+674,63,"Kelsey Gomez",Other,55,North,"Lake Christopherfurt",4359,"Clothing Dress",Clothing,Dress,2025-05-22,2025-05-23,2025-05-25,Delivered,2,50.09,9.34,98.97,"Debit Card",189.81,3.80
+675,59,"James Odom",Male,18,South,"Port Lauren",2983,"Electronics Laptop",Electronics,Laptop,2024-07-28,2024-07-28,2024-08-01,Delivered,1,1715.63,228.43,10.29,"Debit Card",1497.49,182.87
+676,121,"Kevin Brown",Other,34,West,Austinport,3018,"Grocery Pasta",Grocery,Pasta,2024-01-23,2024-01-24,2024-01-26,Delivered,2,10.20,4.54,56.93,"Credit Card",72.79,1.46
+677,253,"Eric Peters",Female,60,East,Kristenside,7409,"Grocery Rice",Grocery,Rice,2025-04-20,2025-04-23,2025-04-30,Delivered,4,9.11,3.10,16.41,"Credit Card",49.75,1.17
+678,228,"Alexis Garcia",Male,40,South,Meganview,8666,"Grocery Snacks",Grocery,Snacks,2024-01-10,2024-01-11,2024-01-14,Delivered,5,43.08,32.52,38.14,"Credit Card",221.02,36.67
+679,90,"Erin Lewis",Other,27,East,Jonesville,6558,"Grocery Pasta",Grocery,Pasta,2024-10-12,2024-10-17,2024-10-20,Delivered,4,5.27,5.30,50.96,"Debit Card",66.74,1.33
+680,295,"Michael Jones",Other,50,East,Jasonmouth,3120,"Furniture Wardrobe",Furniture,Wardrobe,2024-12-22,2024-12-26,2024-12-31,Delivered,4,194.60,6.89,74.62,UPI,846.13,88.08
+681,244,"Karen Adams",Female,66,South,"Port Shanebury",4876,"Electronics Laptop",Electronics,Laptop,2025-01-28,2025-01-31,2025-02-01,Delivered,1,1340.24,46.03,85.45,"Cash on Delivery",1379.66,115.67
+682,16,"Joel Mccall",Male,38,North,Andersonshire,8364,"Grocery Pasta",Grocery,Pasta,2025-08-10,2025-08-14,2025-08-16,Delivered,2,14.12,3.71,32.18,"Cash on Delivery",56.71,1.13
+683,99,"Gregory Chavez",Male,55,North,Jodiberg,2576,"Clothing Shirt",Clothing,Shirt,2024-05-23,2024-05-23,2024-05-26,Delivered,4,76.83,79.71,37.37,"Cash on Delivery",264.98,35.93
+684,255,"Suzanne Harrington",Male,31,West,"North Margaret",9205,"Furniture Sofa",Furniture,Sofa,2025-07-26,2025-07-27,2025-08-03,Delivered,1,714.43,134.06,88.03,"Cash on Delivery",668.40,118.50
+685,153,"Tiffany Garcia",Male,25,West,Blackton,4777,"Electronics Camera",Electronics,Camera,2025-07-07,2025-07-09,2025-07-10,Delivered,2,1696.26,295.05,83.67,"Debit Card",3181.14,536.64
+686,148,"Robert Jimenez",Male,52,South,"New Rhondafurt",9482,"Furniture Bed",Furniture,Bed,2024-02-28,2024-03-03,2024-03-09,Delivered,1,915.88,257.43,98.57,UPI,757.02,150.28
+687,134,"William Jenkins",Male,39,North,Kathrynville,3282,"Clothing Dress",Clothing,Dress,2024-12-03,2024-12-08,2024-12-09,Delivered,2,69.36,33.53,58.57,"Credit Card",163.76,3.28
+688,178,"Andrew Mendez",Male,44,North,"New Larrymouth",8844,"Clothing Jeans",Clothing,Jeans,2024-02-12,2024-02-12,2024-02-13,Delivered,4,70.76,55.22,45.99,"Debit Card",273.81,17.07
+689,11,"Michael Martinez",Male,19,South,"Lake Karenberg",9752,"Grocery Rice",Grocery,Rice,2025-07-19,2025-07-22,2025-07-23,Delivered,4,38.75,32.34,45.82,UPI,168.48,19.58
+690,61,"Darren Rosario",Other,41,East,Williamberg,4172,"Furniture Bed",Furniture,Bed,2024-02-29,2024-03-01,2024-03-03,Delivered,1,924.06,62.96,76.01,"Cash on Delivery",937.11,208.95
+691,24,"Latoya Evans",Male,64,South,Priscillamouth,1931,"Electronics Mobile",Electronics,Mobile,2024-05-09,2024-05-12,2024-05-14,Delivered,3,374.32,117.80,67.24,"Cash on Delivery",1072.40,139.79
+692,204,"Victor Garcia",Female,60,North,"East Sara",2258,"Electronics Tablet",Electronics,Tablet,2025-07-10,2025-07-11,2025-07-15,Delivered,3,1825.99,1411.28,47.14,"Cash on Delivery",4113.83,644.23
+693,150,"Carla Flores",Other,33,East,"New Madison",6224,"Electronics Mobile",Electronics,Mobile,2024-12-20,2024-12-23,2024-12-29,Delivered,5,1126.55,132.56,91.64,"Net Banking",5591.83,1451.75
+694,284,"Zachary Robertson",Male,25,East,Crosbymouth,3325,"Electronics Laptop",Electronics,Laptop,2025-03-26,2025-03-31,2025-04-07,Delivered,4,1920.18,49.06,84.45,"Net Banking",7716.11,1150.89
+695,44,"Hunter Kelly",Male,35,West,Jameschester,9115,"Electronics Headphones",Electronics,Headphones,2025-01-28,2025-01-31,2025-02-01,Delivered,2,649.74,71.90,45.95,"Cash on Delivery",1273.53,128.58
+696,179,"Brandon Dixon",Male,56,East,Chadton,5301,"Clothing Shirt",Clothing,Shirt,2024-12-15,2024-12-20,2024-12-27,Delivered,5,63.41,40.66,74.28,"Credit Card",350.67,66.17
+697,284,"Patrick Mann",Female,64,East,"New Melissa",9761,"Grocery Beverage",Grocery,Beverage,2025-08-09,2025-08-14,2025-08-19,Delivered,5,14.48,20.86,49.40,"Credit Card",100.94,9.50
+698,144,"Maria Richardson",Other,35,North,"Lake Crystalview",5094,"Furniture Sofa",Furniture,Sofa,2025-08-07,2025-08-10,2025-08-11,Delivered,5,483.98,195.10,28.80,"Credit Card",2253.60,501.94
+699,64,"Jason Stanley",Female,54,East,Johnsonmouth,5333,"Clothing Jacket",Clothing,Jacket,2025-04-18,2025-04-18,2025-04-22,Delivered,1,66.64,19.31,50.62,"Credit Card",97.95,7.21
+700,297,"Edward Fitzgerald",Male,35,East,"South Diane",2049,"Grocery Pasta",Grocery,Pasta,2024-09-21,2024-09-23,2024-09-26,Delivered,4,8.11,6.13,18.96,"Credit Card",45.27,5.41
+701,20,"Samantha Adkins",Male,61,West,Jameschester,6199,"Electronics Camera",Electronics,Camera,2024-08-21,2024-08-21,2024-08-27,Delivered,3,1957.98,28.40,85.27,"Credit Card",5930.81,1554.56
+702,121,"Alicia Johnson",Female,24,North,"New Courtney",9305,"Grocery Rice",Grocery,Rice,2025-06-07,2025-06-07,2025-06-09,Delivered,2,17.64,3.93,83.16,"Net Banking",114.51,2.29
+703,74,"Mark Cook",Male,38,East,Adamfort,6488,"Grocery Snacks",Grocery,Snacks,2025-04-26,2025-04-28,2025-05-03,Delivered,1,9.70,0.13,93.38,"Cash on Delivery",102.95,2.06
+704,109,"Jennifer Hernandez",Female,50,East,"Lake Johnview",4520,"Grocery Spices",Grocery,Spices,2024-02-03,2024-02-08,2024-02-14,Delivered,2,20.29,12.14,12.45,"Debit Card",40.89,0.82
+705,290,"Donald Holmes",Other,54,West,"East Aaronhaven",9830,"Electronics Camera",Electronics,Camera,2024-02-22,2024-02-26,2024-03-01,Delivered,5,1184.57,563.15,23.53,"Net Banking",5383.23,1141.88
+706,125,"Andrew Ryan",Female,32,West,"South Johnville",6157,"Electronics Laptop",Electronics,Laptop,2025-03-31,2025-04-05,2025-04-09,Delivered,3,435.47,219.65,12.26,"Debit Card",1099.02,184.45
+707,230,"Christina Dorsey DDS",Female,32,South,Amymouth,9808,"Clothing Jacket",Clothing,Jacket,2024-05-21,2024-05-25,2024-05-28,Delivered,3,54.16,5.75,43.81,UPI,200.54,28.25
+708,102,"Jamie Curtis",Male,47,North,"South Karifort",3732,"Electronics Headphones",Electronics,Headphones,2024-09-26,2024-09-30,2024-10-06,Delivered,4,1562.85,237.05,8.24,"Credit Card",6022.59,1117.53
+709,68,"William Rose",Other,51,West,Johnnyville,7919,"Furniture Table",Furniture,Table,2025-02-15,2025-02-20,2025-02-25,Delivered,2,1096.78,78.33,90.26,"Cash on Delivery",2205.49,564.87
+710,56,"Dana Hudson",Other,20,North,"West Elizabethside",6815,"Grocery Beverage",Grocery,Beverage,2025-04-05,2025-04-10,2025-04-17,Delivered,4,15.89,9.10,17.79,"Cash on Delivery",72.25,1.45
+711,43,"Tiffany Johnson",Male,18,East,Walkerburgh,8430,"Grocery Snacks",Grocery,Snacks,2025-03-25,2025-03-26,2025-03-31,Delivered,5,15.41,17.86,27.07,"Cash on Delivery",86.26,11.11
+712,269,"Clinton Paul",Other,50,West,"East Sherri",5673,"Furniture Bed",Furniture,Bed,2024-11-22,2024-11-23,2024-11-25,Delivered,1,1239.58,273.19,98.97,"Cash on Delivery",1065.36,111.67
+713,161,"Kimberly Holmes",Male,40,East,Jennystad,3713,"Electronics Tablet",Electronics,Tablet,2024-10-07,2024-10-10,2024-10-14,Delivered,2,1805.09,312.44,92.18,"Debit Card",3389.92,947.21
+714,143,"George Brown",Male,24,South,"New Alishaland",9334,"Clothing Shirt",Clothing,Shirt,2024-02-10,2024-02-14,2024-02-19,Delivered,2,20.67,10.32,7.45,"Cash on Delivery",38.47,0.85
+715,219,"John Green",Other,46,South,Mcneilburgh,8435,"Furniture Chair",Furniture,Chair,2024-05-02,2024-05-05,2024-05-09,Delivered,4,468.28,485.80,99.34,"Net Banking",1486.66,335.95
+716,41,"Jordan Mueller PhD",Other,68,South,"Port Deannaborough",2218,"Furniture Table",Furniture,Table,2025-06-03,2025-06-05,2025-06-08,Delivered,4,982.87,604.87,78.82,"Credit Card",3405.43,790.51
+717,222,"Joseph Castillo",Male,63,East,Toddfort,4119,"Electronics Mobile",Electronics,Mobile,2024-09-08,2024-09-09,2024-09-14,Delivered,4,1782.60,471.05,23.59,"Debit Card",6682.94,1286.35
+718,255,"Danny Fritz",Female,26,South,"Lake Katherine",2453,"Clothing Shirt",Clothing,Shirt,2025-03-20,2025-03-20,2025-03-24,Delivered,5,81.12,86.39,8.69,"Cash on Delivery",327.90,73.18
+719,121,"Thomas Gray",Other,40,West,Katherineburgh,9691,"Clothing Jeans",Clothing,Jeans,2024-08-25,2024-08-27,2024-09-02,Delivered,4,69.02,52.18,61.80,"Debit Card",285.70,37.60
+720,58,"Nicholas Torres",Female,44,West,"Port Marissa",6331,"Clothing Jacket",Clothing,Jacket,2024-04-28,2024-04-29,2024-05-03,Delivered,3,86.06,26.92,42.82,UPI,274.08,10.16
+721,211,"Tami Reid",Other,33,North,"New Brenda",5766,"Furniture Wardrobe",Furniture,Wardrobe,2024-08-08,2024-08-11,2024-08-12,Delivered,5,1180.52,463.25,35.17,UPI,5474.52,961.93
+722,134,"Steven Wilson",Male,35,West,"Lake Luke",4587,"Furniture Chair",Furniture,Chair,2024-11-11,2024-11-14,2024-11-18,Delivered,2,901.51,90.08,24.59,"Cash on Delivery",1737.53,373.86
+723,169,"Eric Beck",Male,56,North,"East Paul",1345,"Grocery Rice",Grocery,Rice,2024-12-07,2024-12-09,2024-12-16,Delivered,5,5.05,0.37,24.99,"Cash on Delivery",49.87,1.00
+724,203,"Erik Stewart",Other,32,East,Hollandstad,3644,"Furniture Sofa",Furniture,Sofa,2025-02-27,2025-02-28,2025-03-05,Delivered,2,1416.02,30.65,6.90,UPI,2808.29,806.65
+725,249,"Margaret Cunningham",Male,28,East,Dennishaven,5939,"Electronics Laptop",Electronics,Laptop,2024-09-10,2024-09-10,2024-09-13,Delivered,1,1682.09,190.68,43.07,"Credit Card",1534.48,374.35
+726,40,"Scott Jacobson",Male,50,West,"East Tracyhaven",1330,"Electronics Camera",Electronics,Camera,2024-06-04,2024-06-04,2024-06-10,Delivered,5,1647.45,480.11,62.54,"Cash on Delivery",7819.68,1249.93
+727,12,"Ann Johnson",Female,35,West,"East Ivanville",4320,"Electronics Tablet",Electronics,Tablet,2025-04-27,2025-04-30,2025-05-03,Delivered,4,458.21,531.64,58.29,"Cash on Delivery",1359.49,229.45
+728,260,"Haley Lindsey",Male,42,North,"North Nicholas",9143,"Grocery Snacks",Grocery,Snacks,2025-07-13,2025-07-18,2025-07-19,Delivered,4,12.75,14.92,42.75,"Cash on Delivery",78.83,1.58
+729,56,"Maria Thompson",Other,37,East,Jonesview,3355,"Electronics Mobile",Electronics,Mobile,2025-07-28,2025-07-29,2025-07-31,Delivered,4,1308.80,131.75,43.30,"Cash on Delivery",5146.75,1354.42
+730,120,"Allison Warren",Male,67,West,"Lake Mark",5129,"Grocery Snacks",Grocery,Snacks,2024-12-11,2024-12-12,2024-12-13,Delivered,3,35.07,18.90,87.79,"Cash on Delivery",174.10,4.08
+731,251,"Suzanne Peterson",Other,49,East,Montgomeryview,4862,"Furniture Bed",Furniture,Bed,2025-05-09,2025-05-13,2025-05-18,Delivered,1,1389.72,177.48,12.36,"Cash on Delivery",1224.60,152.00
+732,63,"Nicholas Moss",Male,30,West,Leestad,2862,"Electronics Headphones",Electronics,Headphones,2025-05-22,2025-05-23,2025-05-29,Delivered,5,1128.23,1267.55,56.97,UPI,4430.57,778.28
+733,151,"Andrew Lowery",Other,61,East,"West Kevin",9560,"Furniture Wardrobe",Furniture,Wardrobe,2025-01-15,2025-01-19,2025-01-25,Delivered,2,298.12,93.59,24.42,"Cash on Delivery",527.07,103.27
+734,129,"Timothy Baker",Female,47,South,Johnsonbury,6409,"Clothing T-Shirt",Clothing,T-Shirt,2025-06-20,2025-06-25,2025-07-02,Delivered,4,20.98,10.48,19.28,"Net Banking",92.72,1.85
+735,97,"David Simmons",Male,62,North,Armstrongberg,9810,"Grocery Snacks",Grocery,Snacks,2024-04-06,2024-04-06,2024-04-11,Delivered,4,30.53,2.45,65.45,"Credit Card",185.12,21.82
+736,99,"Joseph Parker",Female,36,West,"West Dawn",6009,"Furniture Wardrobe",Furniture,Wardrobe,2025-02-16,2025-02-18,2025-02-23,Delivered,5,998.24,303.35,61.30,"Debit Card",4749.15,558.70
+737,135,"Meagan Watts",Other,24,South,Feliciaport,9557,"Grocery Snacks",Grocery,Snacks,2024-10-10,2024-10-15,2024-10-22,Delivered,5,34.09,24.21,20.97,"Credit Card",167.21,27.17
+738,76,"Ana Valencia",Male,28,West,"North Brittanystad",1004,"Furniture Chair",Furniture,Chair,2024-02-23,2024-02-24,2024-02-29,Delivered,4,695.57,393.71,33.74,UPI,2422.31,597.86
+739,194,"Ricky Oconnell",Female,63,West,Quinnstad,6816,"Furniture Wardrobe",Furniture,Wardrobe,2024-11-20,2024-11-24,2024-11-25,Delivered,5,1279.07,1832.95,94.82,UPI,4657.22,1183.16
+740,287,"Traci Erickson",Female,49,East,Nicholasberg,2970,"Grocery Snacks",Grocery,Snacks,2024-07-01,2024-07-01,2024-07-08,Delivered,3,43.06,29.87,37.87,"Debit Card",137.18,6.67
+741,196,"Mrs. Emily Thornton",Female,29,North,"Port Tyrone",4208,"Grocery Snacks",Grocery,Snacks,2025-06-22,2025-06-23,2025-06-24,Delivered,5,16.90,2.39,40.04,"Cash on Delivery",122.15,2.44
+742,140,"Jason Phelps",Male,59,East,Collierstad,8843,"Grocery Rice",Grocery,Rice,2024-09-16,2024-09-18,2024-09-24,Delivered,1,48.61,12.00,87.00,UPI,123.61,2.47
+743,252,"Michael Rivera",Male,48,North,"East Rhonda",1625,"Furniture Chair",Furniture,Chair,2024-06-05,2024-06-10,2024-06-16,Delivered,2,1319.28,104.21,44.86,"Credit Card",2579.21,680.89
+744,161,"Anne Keller",Male,52,East,Shirleystad,4181,"Electronics Tablet",Electronics,Tablet,2024-11-20,2024-11-25,2024-11-27,Delivered,5,1527.63,839.26,6.35,"Credit Card",6805.24,1582.13
+745,34,"Gina Potter",Male,70,South,Figueroabury,5368,"Electronics Laptop",Electronics,Laptop,2025-03-30,2025-03-30,2025-04-02,Delivered,5,637.76,483.55,21.43,"Credit Card",2726.68,665.62
+746,160,"Kyle Moore",Female,53,East,Jesseshire,2928,"Furniture Bed",Furniture,Bed,2025-08-04,2025-08-09,2025-08-10,Delivered,5,1402.38,185.45,92.21,"Net Banking",6918.66,927.83
+747,11,"Samantha Braun",Male,68,North,Simmonsbury,4563,"Furniture Bed",Furniture,Bed,2024-03-24,2024-03-29,2024-03-31,Delivered,3,1272.23,735.46,90.64,"Debit Card",3171.87,391.62
+748,159,"Anthony Berg",Male,42,East,Perezburgh,3916,"Furniture Table",Furniture,Table,2025-08-01,2025-08-03,2025-08-07,Delivered,2,1269.39,207.77,23.93,UPI,2354.94,686.54
+749,136,"Jonathon Reid",Male,49,East,Evanschester,6957,"Furniture Wardrobe",Furniture,Wardrobe,2025-04-05,2025-04-10,2025-04-16,Delivered,2,151.42,75.83,41.64,UPI,268.65,42.74
+750,178,"Maurice Wolfe",Other,69,East,"North Vincent",4398,"Furniture Wardrobe",Furniture,Wardrobe,2025-07-18,2025-07-23,2025-07-30,Delivered,3,227.06,158.05,29.53,"Credit Card",552.66,100.78
+751,265,"Daniel Bush",Other,58,South,"West Lisaberg",8785,"Clothing Jacket",Clothing,Jacket,2024-11-26,2024-11-28,2024-12-03,Delivered,4,85.83,92.83,35.63,"Credit Card",286.12,23.90
+752,82,"Deborah Wyatt",Female,48,East,Douglasstad,6516,"Electronics Laptop",Electronics,Laptop,2025-01-01,2025-01-03,2025-01-05,Delivered,4,1229.52,1109.58,46.71,UPI,3855.21,836.66
+753,205,"Michelle Edwards",Female,33,East,Kyleborough,7114,"Furniture Bed",Furniture,Bed,2025-02-14,2025-02-16,2025-02-17,Delivered,2,1168.44,631.56,53.16,"Cash on Delivery",1758.48,293.54
+754,206,"Nicholas Mcguire",Other,19,South,"East Larry",9391,"Clothing Jeans",Clothing,Jeans,2025-06-20,2025-06-21,2025-06-26,Delivered,2,32.99,6.59,96.19,"Debit Card",155.58,3.11
+755,178,"Kristina Johnson",Female,43,South,Theresastad,8546,"Electronics Laptop",Electronics,Laptop,2024-07-24,2024-07-25,2024-07-28,Delivered,3,436.64,92.82,24.32,"Cash on Delivery",1241.42,140.68
+756,192,"Stacie Dean",Male,48,South,"West Frank",6647,"Electronics Headphones",Electronics,Headphones,2025-07-17,2025-07-22,2025-07-26,Delivered,2,1851.82,742.69,83.98,"Credit Card",3044.93,682.27
+757,199,"Hector Anderson",Male,38,South,Mitchellbury,7551,"Furniture Sofa",Furniture,Sofa,2025-03-10,2025-03-14,2025-03-18,Delivered,5,200.32,146.73,75.34,"Cash on Delivery",930.21,177.40
+758,92,"Carl Martinez",Male,41,East,Barrerafort,6568,"Electronics Camera",Electronics,Camera,2025-02-11,2025-02-11,2025-02-17,Delivered,2,534.74,60.31,25.07,"Debit Card",1034.24,184.54
+759,218,"Kendra Williams",Male,36,East,"West Susan",7337,"Grocery Rice",Grocery,Rice,2024-09-24,2024-09-27,2024-09-29,Delivered,2,21.11,6.55,15.11,"Credit Card",50.78,6.70
+760,208,"Miguel Smith",Male,28,East,"New Andrewland",3109,"Grocery Beverage",Grocery,Beverage,2024-01-12,2024-01-15,2024-01-21,Delivered,4,22.28,1.46,45.37,UPI,133.03,19.15
+761,258,"Daniel Ayers",Female,67,West,"Lake Henryshire",6489,"Furniture Chair",Furniture,Chair,2024-07-02,2024-07-05,2024-07-10,Delivered,4,1318.44,126.58,5.66,"Net Banking",5152.84,1488.83
+762,102,"David Perez",Other,70,West,"South Kathyview",8125,"Electronics Headphones",Electronics,Headphones,2024-10-15,2024-10-15,2024-10-16,Delivered,4,1082.43,65.04,61.94,"Net Banking",4326.62,728.27
+763,13,"Steven Weaver",Other,35,South,"Lake Stevenberg",5804,"Furniture Bed",Furniture,Bed,2024-01-18,2024-01-21,2024-01-24,Delivered,3,990.38,531.04,38.94,"Debit Card",2479.04,247.50
+764,90,"Tracy Walker",Male,52,North,"New Gregorystad",3065,"Clothing Jacket",Clothing,Jacket,2025-03-17,2025-03-19,2025-03-22,Delivered,4,88.90,26.04,83.43,"Cash on Delivery",412.99,57.42
+765,292,"Brittany Giles",Female,20,North,Sabrinahaven,6350,"Furniture Chair",Furniture,Chair,2024-05-30,2024-06-03,2024-06-09,Delivered,1,634.68,186.64,12.48,UPI,460.52,123.23
+766,206,"Shelby Chen",Male,29,East,Stanleyshire,2298,"Grocery Rice",Grocery,Rice,2024-07-15,2024-07-19,2024-07-22,Delivered,3,31.55,15.31,80.40,"Cash on Delivery",159.74,16.99
+767,243,"Leah Jackson",Male,66,West,Lindsayview,5502,"Clothing Jeans",Clothing,Jeans,2025-05-28,2025-06-02,2025-06-03,Delivered,5,59.87,16.28,32.07,UPI,315.14,25.27
+768,67,"Diane Chan",Female,35,West,Reedton,6212,"Electronics Laptop",Electronics,Laptop,2024-08-18,2024-08-18,2024-08-24,Delivered,3,675.80,371.86,74.18,UPI,1729.72,350.22
+769,169,"Abigail Morrison",Other,42,West,Clementsland,1205,"Furniture Sofa",Furniture,Sofa,2024-11-23,2024-11-25,2024-12-02,Delivered,4,312.49,320.37,52.40,UPI,981.99,187.46
+770,131,"Julie Hughes",Female,20,North,"East Ashley",8971,"Furniture Chair",Furniture,Chair,2024-07-31,2024-08-05,2024-08-10,Delivered,3,525.65,355.22,47.89,"Cash on Delivery",1269.62,232.64
+771,86,"Jessica Brown",Other,40,West,"Lake Sheena",7805,"Electronics Tablet",Electronics,Tablet,2025-07-23,2025-07-28,2025-08-01,Delivered,2,937.98,302.55,40.95,UPI,1614.36,453.39
+772,112,"Shannon Duke",Male,25,East,"South Cindyview",3926,"Clothing Jacket",Clothing,Jacket,2025-07-17,2025-07-20,2025-07-23,Delivered,2,61.82,22.23,35.34,"Net Banking",136.75,15.64
+773,258,"Lisa Munoz",Other,52,West,"East Darleneport",4688,"Grocery Beverage",Grocery,Beverage,2025-04-20,2025-04-22,2025-04-29,Delivered,4,9.53,9.99,43.01,UPI,71.14,1.42
+774,89,"Anthony Walker",Other,24,West,Morriston,7850,"Grocery Beverage",Grocery,Beverage,2024-07-12,2024-07-17,2024-07-18,Delivered,5,12.76,11.67,52.82,UPI,104.95,2.10
+775,12,"Shawn Reed",Female,57,South,"Lake Matthew",3727,"Grocery Rice",Grocery,Rice,2025-01-14,2025-01-14,2025-01-20,Delivered,5,44.41,43.57,57.45,"Debit Card",235.93,24.24
+776,235,"Debra Holt",Female,64,South,Michaelhaven,3870,"Grocery Pasta",Grocery,Pasta,2024-11-26,2024-11-27,2024-11-30,Delivered,1,44.93,2.79,48.81,"Debit Card",90.95,1.82
+777,91,"Antonio Perez",Female,50,North,Kathleenton,6427,"Clothing T-Shirt",Clothing,T-Shirt,2025-04-18,2025-04-23,2025-04-24,Delivered,1,94.86,19.41,43.60,UPI,119.05,5.14
+778,37,"Mark Stevens",Female,34,North,Millermouth,9751,"Electronics Headphones",Electronics,Headphones,2025-05-07,2025-05-12,2025-05-13,Delivered,3,1679.83,1252.28,73.89,"Cash on Delivery",3861.10,394.19
+779,226,"Andrew Wells",Female,68,North,"New Colleenbury",2697,"Clothing Jeans",Clothing,Jeans,2024-04-24,2024-04-29,2024-05-01,Delivered,3,61.29,18.75,91.73,"Credit Card",256.85,33.15
+780,169,"Vincent Snyder",Other,62,North,"North Joel",8507,"Grocery Pasta",Grocery,Pasta,2024-09-23,2024-09-25,2024-09-28,Delivered,4,17.87,9.66,29.50,"Debit Card",91.32,9.06
+781,76,"Elizabeth Lopez",Other,36,North,"New Kim",4621,"Furniture Wardrobe",Furniture,Wardrobe,2025-01-06,2025-01-11,2025-01-14,Delivered,3,1422.71,202.70,65.22,"Net Banking",4130.65,778.65
+782,80,"Linda Rivera",Other,69,South,"Lake Marissafort",3400,"Furniture Bed",Furniture,Bed,2024-09-20,2024-09-25,2024-09-27,Delivered,1,1291.29,225.94,19.09,"Cash on Delivery",1084.44,105.63
+783,265,"Daniel Taylor",Female,48,South,"South Lauren",6639,"Clothing Dress",Clothing,Dress,2025-05-28,2025-05-30,2025-06-04,Delivered,3,57.80,48.17,66.60,UPI,191.83,18.28
+784,195,"Michael Ramos",Male,60,North,Caintown,6609,"Clothing Jeans",Clothing,Jeans,2024-07-30,2024-07-31,2024-08-02,Delivered,3,80.86,53.03,16.36,"Cash on Delivery",205.91,22.34
+785,7,"James Thomas",Other,70,South,Marthastad,4318,"Furniture Chair",Furniture,Chair,2025-02-12,2025-02-17,2025-02-18,Delivered,3,810.38,198.00,96.36,"Credit Card",2329.50,575.52
+786,29,"Cody Andrade",Female,54,South,"North Sandraton",5009,"Furniture Table",Furniture,Table,2024-09-07,2024-09-08,2024-09-14,Delivered,4,348.40,409.46,30.25,"Credit Card",1014.39,141.79
+787,68,"Elizabeth Barr",Other,37,North,Wilkinsville,4403,"Clothing T-Shirt",Clothing,T-Shirt,2025-05-03,2025-05-06,2025-05-07,Delivered,5,108.16,8.29,80.05,UPI,612.56,41.89
+788,43,"Chelsea Davis",Female,30,North,Christinaton,9886,"Clothing Dress",Clothing,Dress,2025-05-13,2025-05-15,2025-05-20,Delivered,1,78.17,20.19,15.59,"Debit Card",73.57,10.02
+789,234,"Summer Rogers",Male,34,West,"East Bradleyfurt",5435,"Grocery Pasta",Grocery,Pasta,2024-12-02,2024-12-06,2024-12-10,Delivered,5,15.62,15.12,30.10,"Cash on Delivery",93.08,7.87
+790,258,"Timothy Baker",Female,58,West,Markborough,2826,"Clothing Jacket",Clothing,Jacket,2024-01-07,2024-01-09,2024-01-14,Delivered,4,69.58,14.93,77.24,UPI,340.63,58.14
+791,176,"Rodney Ballard",Other,61,South,Timothyberg,4171,"Electronics Laptop",Electronics,Laptop,2024-08-06,2024-08-08,2024-08-13,Delivered,3,844.03,402.91,14.78,"Cash on Delivery",2143.96,336.19
+792,80,"Leah Beck",Female,28,South,Beasleyside,7491,"Clothing T-Shirt",Clothing,T-Shirt,2024-06-09,2024-06-11,2024-06-16,Delivered,4,85.35,80.78,79.08,UPI,339.70,6.79
+793,156,"Vanessa Davidson",Female,27,East,Evansmouth,6467,"Furniture Sofa",Furniture,Sofa,2025-04-05,2025-04-07,2025-04-11,Delivered,5,650.96,407.30,77.41,"Net Banking",2924.91,477.38
+794,72,"Robin Huff MD",Female,67,East,Stewartland,1319,"Clothing T-Shirt",Clothing,T-Shirt,2024-09-19,2024-09-21,2024-09-28,Delivered,3,22.37,8.61,41.33,"Debit Card",99.83,2.00
+795,258,"John Morgan",Female,35,North,Jasonfurt,2219,"Clothing T-Shirt",Clothing,T-Shirt,2024-11-29,2024-12-04,2024-12-08,Delivered,5,66.99,97.58,9.37,UPI,246.74,51.82
+796,128,"Keith Spence",Female,56,West,Katrinachester,1971,"Electronics Mobile",Electronics,Mobile,2024-12-16,2024-12-18,2024-12-23,Delivered,3,1044.81,267.28,49.82,UPI,2916.97,789.98
+797,78,"Richard Rich",Male,55,East,Morganbury,4276,"Electronics Headphones",Electronics,Headphones,2024-09-08,2024-09-10,2024-09-15,Delivered,5,1596.74,624.45,55.45,"Credit Card",7414.70,1164.24
+798,161,"Frederick Christensen",Female,67,West,Millerside,4519,"Clothing Jeans",Clothing,Jeans,2025-04-24,2025-04-25,2025-04-29,Delivered,3,53.30,32.51,71.89,"Credit Card",199.28,3.99
+799,72,"Selena Sims",Male,59,West,Hartland,8001,"Grocery Beverage",Grocery,Beverage,2024-02-19,2024-02-23,2024-02-24,Delivered,5,19.93,16.91,99.59,"Net Banking",182.33,3.65
+800,276,"Nathaniel Richard",Female,36,East,"New Jennifer",2099,"Electronics Camera",Electronics,Camera,2024-04-04,2024-04-08,2024-04-15,Delivered,1,1204.00,288.45,85.40,"Cash on Delivery",1000.95,68.23
+801,98,"Robert Cooper",Male,67,West,Jacquelinestad,5536,"Grocery Beverage",Grocery,Beverage,2024-06-04,2024-06-09,2024-06-12,Delivered,1,10.72,1.85,48.13,UPI,57.00,1.14
+802,11,"Robert Garcia",Female,54,East,Richardmouth,1104,"Grocery Rice",Grocery,Rice,2024-01-09,2024-01-10,2024-01-13,Delivered,4,9.22,9.46,60.52,"Debit Card",87.94,1.76
+803,295,"Willie Dickerson",Female,63,South,"South Pamela",4094,"Clothing T-Shirt",Clothing,T-Shirt,2024-11-11,2024-11-12,2024-11-13,Delivered,1,73.34,20.78,8.75,"Credit Card",61.31,5.07
+804,168,"Mason Washington",Female,32,South,Timothyborough,4304,"Furniture Table",Furniture,Table,2025-03-10,2025-03-12,2025-03-14,Delivered,2,1181.28,19.35,88.38,UPI,2431.59,671.46
+805,14,"Kenneth Thomas",Female,65,South,Rodgersport,7232,"Electronics Headphones",Electronics,Headphones,2025-03-25,2025-03-28,2025-03-30,Delivered,2,1610.67,570.39,16.84,"Cash on Delivery",2667.79,774.71
+806,265,"Catherine Holmes",Male,28,South,Dillontown,2971,"Grocery Spices",Grocery,Spices,2025-01-01,2025-01-06,2025-01-09,Delivered,4,11.17,13.20,80.98,"Credit Card",112.46,2.25
+807,234,"Cheyenne Cruz",Male,18,West,Hensleymouth,7881,"Grocery Rice",Grocery,Rice,2024-12-29,2024-12-31,2025-01-03,Delivered,1,22.84,5.81,33.57,UPI,50.60,3.69
+808,242,"Derek Faulkner",Male,35,East,"East Jonathanmouth",1743,"Clothing T-Shirt",Clothing,T-Shirt,2024-06-30,2024-07-04,2024-07-05,Delivered,2,71.86,6.05,49.63,"Debit Card",187.30,3.75
+809,151,"Debra Middleton",Female,57,West,"North Janicetown",3580,"Grocery Pasta",Grocery,Pasta,2024-06-27,2024-07-01,2024-07-03,Delivered,2,19.52,10.83,79.72,UPI,107.93,2.16
+810,192,"Kendra Harris",Female,57,East,"North Michael",1466,"Electronics Tablet",Electronics,Tablet,2024-01-30,2024-02-02,2024-02-03,Delivered,2,1853.08,51.70,40.82,"Debit Card",3695.28,792.17
+811,52,"Crystal Chang",Male,40,South,"North Sarahfort",2509,"Grocery Rice",Grocery,Rice,2024-04-25,2024-04-28,2024-05-02,Delivered,4,43.09,27.75,17.77,"Net Banking",162.38,26.25
+812,244,"Robert Benton",Female,34,South,Turnerport,6290,"Furniture Wardrobe",Furniture,Wardrobe,2024-04-08,2024-04-11,2024-04-15,Delivered,5,374.80,123.30,17.33,"Credit Card",1768.03,503.05
+813,49,"Richard Huffman",Other,43,East,Sharontown,2724,"Clothing T-Shirt",Clothing,T-Shirt,2024-09-13,2024-09-14,2024-09-20,Delivered,3,52.86,46.33,68.49,"Net Banking",180.74,3.61
+814,68,"James Grant",Female,45,East,Jeffreybury,3379,"Electronics Headphones",Electronics,Headphones,2024-02-19,2024-02-20,2024-02-22,Delivered,1,543.02,5.56,80.50,"Cash on Delivery",617.96,58.17
+815,247,"Stacey Smith",Female,40,South,Stephenhaven,7646,"Grocery Pasta",Grocery,Pasta,2025-04-09,2025-04-13,2025-04-16,Delivered,5,23.11,25.82,67.27,"Debit Card",157.00,6.86
+816,131,"Timothy Ward",Female,69,West,"East Thomasborough",9993,"Grocery Rice",Grocery,Rice,2024-12-16,2024-12-20,2024-12-23,Delivered,1,39.53,5.06,7.41,UPI,41.88,6.84
+817,57,"Brandon Johnson",Male,53,East,Brittanyton,3069,"Furniture Sofa",Furniture,Sofa,2025-04-08,2025-04-11,2025-04-16,Delivered,1,1452.81,423.50,22.35,"Cash on Delivery",1051.66,261.85
+818,100,"Michelle Hamilton",Male,61,South,Gilbertchester,1273,"Clothing Jeans",Clothing,Jeans,2025-06-22,2025-06-26,2025-07-03,Delivered,2,76.29,24.28,9.46,"Cash on Delivery",137.76,23.96
+819,86,"Dr. Abigail Gomez",Female,28,North,Thomasport,3713,"Clothing T-Shirt",Clothing,T-Shirt,2025-07-07,2025-07-11,2025-07-15,Delivered,2,47.84,27.52,95.15,UPI,163.31,3.27
+820,244,"Megan Matthews",Female,38,South,Heathfort,5915,"Electronics Mobile",Electronics,Mobile,2024-09-14,2024-09-19,2024-09-24,Delivered,3,654.88,432.29,61.43,"Debit Card",1593.78,150.52
+821,74,"Mark Brown",Female,70,South,Johnsonfurt,4972,"Grocery Pasta",Grocery,Pasta,2025-03-05,2025-03-08,2025-03-13,Delivered,2,13.93,2.93,26.50,UPI,51.43,5.36
+822,64,"Hannah Nguyen",Other,65,South,"West Theresaside",4372,"Grocery Pasta",Grocery,Pasta,2024-10-09,2024-10-11,2024-10-12,Delivered,1,26.99,4.25,78.31,UPI,101.05,2.02
+823,153,"Robyn Meadows",Male,52,West,"East Stephanie",3517,"Electronics Tablet",Electronics,Tablet,2024-10-05,2024-10-05,2024-10-09,Delivered,3,491.82,206.50,60.57,UPI,1329.53,328.34
+824,150,"Breanna Chan",Male,51,North,"North Brendaside",2451,"Furniture Table",Furniture,Table,2025-05-21,2025-05-26,2025-05-30,Delivered,4,179.31,22.63,78.14,"Net Banking",772.75,157.86
+825,261,"Abigail Williams",Female,44,East,Hesterbury,6843,"Electronics Mobile",Electronics,Mobile,2024-04-13,2024-04-18,2024-04-25,Delivered,4,712.67,423.30,61.15,UPI,2488.53,562.71
+826,288,"Michael Allen",Other,54,West,Danielsport,9502,"Grocery Rice",Grocery,Rice,2024-04-20,2024-04-24,2024-05-01,Delivered,1,29.63,1.04,77.58,"Cash on Delivery",106.17,2.12
+827,216,"Brandon Maxwell",Female,63,North,Jonborough,6690,"Grocery Beverage",Grocery,Beverage,2025-08-10,2025-08-14,2025-08-15,Delivered,4,41.03,30.93,78.87,"Cash on Delivery",212.06,30.13
+828,93,"Scott Nunez",Male,58,East,"West Zacharyton",2618,"Furniture Bed",Furniture,Bed,2024-01-30,2024-02-04,2024-02-08,Delivered,3,602.02,370.07,38.48,"Credit Card",1474.47,415.59
+829,167,"Jennifer Smith",Female,62,East,"New Kimberly",3631,"Clothing Dress",Clothing,Dress,2025-07-14,2025-07-19,2025-07-22,Delivered,4,95.33,89.34,21.35,"Net Banking",313.33,57.44
+830,276,"Jonathan Hampton",Other,69,South,"East Erictown",6186,"Furniture Chair",Furniture,Chair,2024-04-02,2024-04-07,2024-04-11,Delivered,3,970.52,558.56,76.87,UPI,2429.87,297.53
+831,180,"Gary Carroll",Female,69,West,Chaseville,6922,"Clothing T-Shirt",Clothing,T-Shirt,2024-11-26,2024-11-26,2024-11-27,Delivered,2,78.18,42.63,71.52,"Cash on Delivery",185.25,3.71
+832,92,"Steven Snyder",Female,57,North,"South Kellyfurt",4254,"Electronics Mobile",Electronics,Mobile,2025-02-18,2025-02-20,2025-02-22,Delivered,3,1205.81,430.57,92.52,"Net Banking",3279.38,340.51
+833,292,"Lisa Thompson",Male,38,South,Mullinsmouth,8250,"Electronics Laptop",Electronics,Laptop,2025-07-15,2025-07-16,2025-07-22,Delivered,3,344.81,69.66,71.03,UPI,1035.80,107.65
+834,111,"Benjamin Evans",Male,18,East,Gloriaborough,4992,"Electronics Camera",Electronics,Camera,2025-05-09,2025-05-12,2025-05-16,Delivered,5,1237.08,1054.15,44.17,"Cash on Delivery",5175.42,1370.46
+835,199,"Isaiah Nunez",Other,34,East,"North Nicole",5318,"Grocery Snacks",Grocery,Snacks,2025-01-08,2025-01-09,2025-01-12,Delivered,5,19.14,27.51,17.78,"Debit Card",85.97,9.78
+836,276,"Jason Leach",Other,26,North,Danielleberg,9314,"Grocery Spices",Grocery,Spices,2024-11-17,2024-11-17,2024-11-24,Delivered,5,12.94,6.76,71.70,"Debit Card",129.64,2.59
+837,239,"Kyle Rodriguez",Female,54,North,Adamsstad,8540,"Grocery Beverage",Grocery,Beverage,2025-03-22,2025-03-22,2025-03-24,Delivered,1,28.88,4.84,10.47,"Debit Card",34.51,0.69
+838,33,"Amanda Lopez",Other,40,North,"North Megan",5523,"Furniture Chair",Furniture,Chair,2025-05-17,2025-05-20,2025-05-26,Delivered,2,1480.69,191.19,47.95,"Net Banking",2818.14,559.14
+839,120,"Kristy Carter",Other,69,West,Johnton,3363,"Furniture Chair",Furniture,Chair,2024-02-24,2024-02-29,2024-03-07,Delivered,3,922.43,643.08,11.75,"Debit Card",2135.96,237.02
+840,100,"Bryan Casey",Male,56,South,"West Michaelton",3969,"Electronics Headphones",Electronics,Headphones,2024-05-02,2024-05-04,2024-05-05,Delivered,1,1908.45,328.63,95.16,UPI,1674.98,261.01
+841,71,"Austin Foster",Female,29,North,"South Barbara",6098,"Furniture Table",Furniture,Table,2025-03-16,2025-03-18,2025-03-22,Delivered,1,358.39,43.16,26.53,"Net Banking",341.76,85.27
+842,232,"Theresa Smith",Male,51,East,Rodriguezmouth,1334,"Electronics Camera",Electronics,Camera,2024-03-01,2024-03-06,2024-03-09,Delivered,1,586.47,169.54,55.27,"Credit Card",472.20,31.45
+843,291,"Morgan Shea",Other,41,North,"New Michael",3824,"Clothing Dress",Clothing,Dress,2025-05-25,2025-05-26,2025-05-31,Delivered,2,117.58,6.84,69.90,"Debit Card",298.22,16.82
+844,226,"Laura Davies",Other,67,South,Hannaton,9312,"Clothing Jacket",Clothing,Jacket,2024-02-01,2024-02-05,2024-02-06,Delivered,5,108.82,129.55,16.43,"Credit Card",430.98,111.23
+845,179,"Michael Doyle",Other,29,South,Shannonland,2633,"Grocery Pasta",Grocery,Pasta,2024-06-07,2024-06-11,2024-06-14,Delivered,4,46.57,30.62,41.94,"Cash on Delivery",197.60,27.07
+846,34,"Paul Martin",Female,33,East,"Port Davidview",3316,"Clothing Jacket",Clothing,Jacket,2024-07-11,2024-07-14,2024-07-15,Delivered,3,25.86,22.86,50.64,"Cash on Delivery",105.36,2.11
+847,51,"Susan Sosa",Other,23,East,Janetville,9639,"Grocery Spices",Grocery,Spices,2024-07-24,2024-07-26,2024-07-29,Delivered,2,23.50,2.79,94.70,"Credit Card",138.91,2.78
+848,252,"Joshua Webb",Male,49,North,"North Bernard",6267,"Grocery Spices",Grocery,Spices,2025-02-02,2025-02-04,2025-02-08,Delivered,3,39.00,24.53,55.12,"Net Banking",147.59,2.95
+849,293,"Sydney Matthews",Other,29,East,"West Travisstad",1785,"Electronics Mobile",Electronics,Mobile,2024-11-06,2024-11-09,2024-11-11,Delivered,3,1939.12,91.51,83.41,"Cash on Delivery",5809.26,1542.33
+850,92,"Jenna Mcmillan",Other,41,North,"Port Tim",4514,"Electronics Headphones",Electronics,Headphones,2024-07-09,2024-07-10,2024-07-16,Delivered,3,424.04,77.71,24.64,UPI,1219.05,272.23
+851,106,"Derek Fuentes",Other,25,East,Theresaland,1077,"Clothing Jeans",Clothing,Jeans,2024-06-30,2024-07-03,2024-07-10,Delivered,2,57.18,28.74,9.25,"Net Banking",94.87,9.85
+852,217,"Morgan Ramirez",Other,54,East,"New Danielle",4356,"Furniture Bed",Furniture,Bed,2024-01-11,2024-01-14,2024-01-21,Delivered,4,627.98,634.99,23.00,"Credit Card",1899.93,477.29
+853,203,"April Kent",Male,62,West,Amymouth,3111,"Clothing Shirt",Clothing,Shirt,2024-04-27,2024-04-27,2024-04-29,Delivered,4,26.65,17.17,20.90,UPI,110.33,12.20
+854,146,"Courtney Gardner",Other,36,East,Cynthiamouth,5284,"Electronics Mobile",Electronics,Mobile,2025-02-08,2025-02-09,2025-02-10,Delivered,5,1738.97,523.75,54.23,"Credit Card",8225.33,862.46
+855,118,"Christopher Cline",Male,42,South,"East Saratown",2369,"Electronics Laptop",Electronics,Laptop,2025-03-22,2025-03-26,2025-03-29,Delivered,4,1555.19,824.92,78.07,"Debit Card",5473.91,1235.28
+856,108,"Brian Harper",Other,38,North,Hillmouth,1232,"Clothing Jeans",Clothing,Jeans,2024-09-13,2024-09-14,2024-09-17,Delivered,4,40.06,30.96,42.17,"Credit Card",171.45,10.73
+857,116,"Michael Martinez",Male,58,South,Williammouth,6503,"Grocery Rice",Grocery,Rice,2025-03-27,2025-03-27,2025-04-03,Delivered,2,30.88,5.33,20.30,"Credit Card",76.73,8.59
+858,34,"Wendy Jennings",Female,51,North,Weeksfurt,3783,"Furniture Sofa",Furniture,Sofa,2024-02-09,2024-02-10,2024-02-11,Delivered,2,108.26,0.22,10.55,"Debit Card",226.85,35.40
+859,19,"Kevin Hamilton",Other,52,North,"West Shelleyberg",1324,"Grocery Spices",Grocery,Spices,2025-01-30,2025-02-01,2025-02-07,Delivered,5,20.56,28.07,27.58,UPI,102.31,11.36
+860,246,"Antonio Todd",Male,47,East,Bowmanton,4667,"Clothing Jeans",Clothing,Jeans,2024-06-27,2024-06-30,2024-07-03,Delivered,2,56.81,0.71,81.52,"Cash on Delivery",194.43,3.89
+861,117,"Hannah Mathis",Female,26,East,"Lake Katrina",4409,"Grocery Beverage",Grocery,Beverage,2025-03-03,2025-03-06,2025-03-12,Delivered,4,23.31,10.86,39.54,"Cash on Delivery",121.92,5.72
+862,106,"Adam Taylor",Male,31,South,"South Kellyshire",4188,"Furniture Bed",Furniture,Bed,2025-07-15,2025-07-18,2025-07-21,Delivered,3,398.92,50.74,15.32,"Cash on Delivery",1161.34,261.80
+863,212,"Ashley Boyle",Male,30,South,"Port John",6532,"Clothing Jacket",Clothing,Jacket,2025-06-13,2025-06-16,2025-06-18,Delivered,4,22.38,5.55,58.90,"Cash on Delivery",142.87,2.86
+864,80,"Mrs. Brandy Rice",Other,43,South,Christophershire,3468,"Grocery Snacks",Grocery,Snacks,2025-04-24,2025-04-25,2025-05-02,Delivered,2,38.61,11.28,62.98,"Credit Card",128.92,2.58
+865,50,"Ryan Mays",Male,23,North,"South Ellen",1142,"Electronics Tablet",Electronics,Tablet,2024-04-02,2024-04-04,2024-04-07,Delivered,2,1564.09,898.99,34.22,"Net Banking",2263.41,241.69
+866,299,"Pedro Barnes",Female,48,East,Erinshire,3870,"Furniture Sofa",Furniture,Sofa,2024-04-13,2024-04-17,2024-04-19,Delivered,2,328.56,23.35,91.47,UPI,725.24,89.62
+867,144,"Tracy Fox",Other,33,North,Samanthafort,3402,"Grocery Rice",Grocery,Rice,2024-02-10,2024-02-11,2024-02-15,Delivered,4,20.21,4.13,6.90,UPI,83.61,15.41
+868,300,"Mark Ortega",Other,29,West,Foxbury,1325,"Grocery Spices",Grocery,Spices,2024-12-18,2024-12-20,2024-12-21,Delivered,3,5.31,0.65,33.51,"Debit Card",48.79,0.98
+869,165,"Jason Mcgrath",Female,63,North,"Port Josestad",6811,"Grocery Rice",Grocery,Rice,2025-03-03,2025-03-04,2025-03-07,Delivered,3,11.22,2.83,54.44,"Debit Card",85.27,1.71
+870,27,"Dana Hansen",Other,33,East,"Lake Taylorton",5310,"Grocery Beverage",Grocery,Beverage,2024-12-11,2024-12-11,2024-12-14,Delivered,4,33.65,13.44,7.98,"Credit Card",129.14,29.55
+871,294,"Mrs. Samantha Hernandez",Male,37,West,"New Bradleystad",4270,"Grocery Beverage",Grocery,Beverage,2025-02-01,2025-02-01,2025-02-07,Delivered,3,35.45,10.71,81.30,UPI,176.94,3.54
+872,176,"Charles Simon",Male,40,East,Raystad,4160,"Grocery Snacks",Grocery,Snacks,2024-09-30,2024-09-30,2024-10-04,Delivered,1,40.66,11.14,86.84,"Debit Card",116.36,7.24
+873,55,"Maureen Fields",Male,22,South,Hollytown,7117,"Electronics Laptop",Electronics,Laptop,2025-08-08,2025-08-09,2025-08-16,Delivered,1,1768.27,5.12,6.28,"Cash on Delivery",1769.43,458.15
+874,37,"Steven Mcclure",Male,55,West,"New Caitlinville",6421,"Electronics Camera",Electronics,Camera,2024-05-04,2024-05-04,2024-05-10,Delivered,2,639.19,286.12,12.71,"Credit Card",1004.97,111.38
+875,222,"Adam Hernandez",Other,32,South,Meyerview,1819,"Electronics Headphones",Electronics,Headphones,2024-11-24,2024-11-29,2024-12-04,Delivered,2,1109.27,131.31,98.85,"Net Banking",2186.08,452.27
+876,32,"James Martinez",Female,29,North,"South Jasminechester",2303,"Clothing T-Shirt",Clothing,T-Shirt,2024-09-26,2024-09-27,2024-10-02,Delivered,5,117.27,123.13,71.77,"Net Banking",534.99,46.63
+877,117,"Linda Webb",Male,43,East,"East Danielborough",7754,"Furniture Table",Furniture,Table,2025-03-12,2025-03-14,2025-03-21,Delivered,3,1129.62,539.39,67.21,"Debit Card",2916.68,828.23
+878,34,"Christopher Duffy",Male,22,West,Johnsontown,6639,"Electronics Camera",Electronics,Camera,2025-03-16,2025-03-16,2025-03-22,Delivered,4,320.40,286.16,13.38,"Net Banking",1008.82,210.51
+879,34,"Kimberly Andrews",Other,34,East,Codyport,8385,"Furniture Bed",Furniture,Bed,2025-01-14,2025-01-17,2025-01-20,Delivered,4,538.86,646.05,23.08,"Net Banking",1532.47,327.72
+880,210,"Richard Anderson",Female,47,East,"East Timothy",7606,"Grocery Beverage",Grocery,Beverage,2025-04-08,2025-04-09,2025-04-11,Delivered,4,22.14,0.65,18.25,"Debit Card",106.16,5.33
+881,205,"Andrew Mcdonald",Female,18,West,Diaztown,3830,"Clothing Dress",Clothing,Dress,2024-07-07,2024-07-08,2024-07-09,Delivered,1,59.13,2.66,37.04,"Net Banking",93.51,1.87
+882,282,"Kaitlyn Ortiz",Female,32,South,Dominicmouth,8971,"Grocery Beverage",Grocery,Beverage,2025-03-21,2025-03-22,2025-03-26,Delivered,1,18.96,0.60,95.53,"Debit Card",113.89,2.28
+883,121,"Jared Wright",Other,49,South,Murphyfurt,7821,"Grocery Rice",Grocery,Rice,2024-11-11,2024-11-16,2024-11-18,Delivered,3,32.26,19.86,45.75,"Net Banking",122.67,6.61
+884,175,"Daniel Adams",Other,41,South,"Port Timothystad",7054,"Grocery Rice",Grocery,Rice,2024-01-19,2024-01-22,2024-01-25,Delivered,4,13.81,15.65,70.39,UPI,109.98,2.20
+885,144,"Krystal Pena",Other,39,East,Joyceberg,4184,"Clothing Jeans",Clothing,Jeans,2025-08-09,2025-08-10,2025-08-16,Delivered,5,80.94,98.75,28.66,"Net Banking",334.61,52.30
+886,262,"Rhonda Johnson",Male,42,South,"North Derek",6269,"Electronics Camera",Electronics,Camera,2025-05-17,2025-05-20,2025-05-25,Delivered,3,413.77,145.07,23.35,"Net Banking",1119.59,270.12
+887,31,"Natalie Roman",Female,33,South,Hallmouth,1050,"Furniture Sofa",Furniture,Sofa,2025-05-09,2025-05-13,2025-05-15,Delivered,3,1439.33,627.88,34.85,"Debit Card",3724.96,1017.36
+888,62,"Vickie Jones",Female,64,North,"Lake Marcberg",4193,"Furniture Table",Furniture,Table,2025-01-20,2025-01-23,2025-01-29,Delivered,1,517.45,31.71,33.13,UPI,518.87,40.71
+889,41,"Amber Sanchez",Female,47,South,Ritaland,8318,"Grocery Spices",Grocery,Spices,2024-06-09,2024-06-13,2024-06-17,Delivered,3,7.17,1.76,31.22,"Debit Card",50.97,1.02
+890,66,"Thomas Phillips",Female,19,North,Christianmouth,1858,"Furniture Wardrobe",Furniture,Wardrobe,2025-05-03,2025-05-05,2025-05-07,Delivered,3,1264.53,426.81,7.42,"Debit Card",3374.20,627.89
+891,168,"Brandy West",Other,66,North,"Lake James",5635,"Furniture Wardrobe",Furniture,Wardrobe,2025-08-05,2025-08-05,2025-08-10,Delivered,1,1111.89,238.06,52.18,"Credit Card",926.01,245.73
+892,268,"Helen Hughes",Male,63,South,"South Kendra",2505,"Furniture Sofa",Furniture,Sofa,2024-12-12,2024-12-12,2024-12-16,Delivered,3,1151.19,510.22,56.79,UPI,3000.14,584.97
+893,80,"Julia Hess",Other,70,North,"Lake Cheryltown",4395,"Grocery Pasta",Grocery,Pasta,2024-04-28,2024-04-30,2024-05-02,Delivered,2,4.71,1.93,7.30,UPI,14.79,0.30
+894,22,"Herbert Ruiz",Male,32,South,"Port Jacobshire",3500,"Clothing Dress",Clothing,Dress,2024-11-23,2024-11-25,2024-11-29,Delivered,4,21.93,20.15,51.76,"Cash on Delivery",119.33,2.39
+895,35,"Olivia Sullivan",Male,30,North,"East Lisachester",4421,"Clothing Dress",Clothing,Dress,2025-05-18,2025-05-18,2025-05-21,Delivered,1,78.16,8.63,90.37,"Cash on Delivery",159.90,3.20
+896,4,"William Wright",Other,65,East,"East Michael",5352,"Furniture Wardrobe",Furniture,Wardrobe,2025-02-01,2025-02-02,2025-02-09,Delivered,2,1155.84,177.73,23.60,"Net Banking",2157.55,591.99
+897,232,"Travis Davis",Male,46,West,"West Barryshire",4352,"Clothing Shirt",Clothing,Shirt,2024-02-12,2024-02-15,2024-02-22,Delivered,1,94.28,24.72,24.01,"Debit Card",93.57,5.92
+898,156,"Michael Lowe",Female,47,North,"Port Austin",4765,"Furniture Table",Furniture,Table,2025-06-07,2025-06-07,2025-06-10,Delivered,1,402.99,21.87,36.72,"Net Banking",417.84,62.97
+899,235,"Sara Allen",Female,56,South,Morriston,9055,"Grocery Spices",Grocery,Spices,2024-10-19,2024-10-24,2024-10-31,Delivered,2,5.73,0.37,5.03,"Credit Card",16.12,1.05
+900,141,"Ellen Mcmillan",Male,37,West,"West Brentmouth",7249,"Clothing Shirt",Clothing,Shirt,2024-02-24,2024-02-26,2024-02-28,Delivered,2,117.09,52.11,40.42,"Net Banking",222.49,15.19
+901,18,"Ashley Lee",Male,37,South,"West Danielville",5304,"Grocery Pasta",Grocery,Pasta,2024-05-03,2024-05-08,2024-05-14,Delivered,1,44.25,12.38,21.59,UPI,53.46,1.07
+902,297,"Anne Wagner",Other,53,East,"South Steven",5424,"Electronics Camera",Electronics,Camera,2025-05-06,2025-05-06,2025-05-12,Delivered,2,666.31,158.93,40.86,UPI,1214.55,117.26
+903,212,"Isaac Roberts",Male,18,North,"South Edward",2032,"Furniture Sofa",Furniture,Sofa,2025-05-05,2025-05-06,2025-05-13,Delivered,3,134.18,32.84,87.84,"Credit Card",457.54,34.66
+904,23,"Tonya Barnett",Other,45,West,"West Curtis",4793,"Electronics Tablet",Electronics,Tablet,2025-01-07,2025-01-07,2025-01-12,Delivered,3,1075.64,457.39,20.57,"Cash on Delivery",2790.10,637.94
+905,277,"Tiffany Carney",Male,38,East,Elizabethberg,7668,"Clothing Dress",Clothing,Dress,2025-02-15,2025-02-17,2025-02-21,Delivered,3,96.73,12.85,68.90,UPI,346.24,53.79
+906,185,"David Little",Female,23,East,Foxborough,3255,"Furniture Sofa",Furniture,Sofa,2025-04-22,2025-04-25,2025-05-02,Delivered,5,1306.52,321.95,9.06,"Debit Card",6219.71,1246.13
+907,175,"Margaret Alexander",Other,58,South,"New Nicholasville",3285,"Clothing Jacket",Clothing,Jacket,2024-03-24,2024-03-27,2024-03-28,Delivered,5,74.40,57.98,59.67,"Debit Card",373.69,30.98
+908,117,"Jennifer Allen",Other,63,East,"Port Katherine",9014,"Electronics Tablet",Electronics,Tablet,2025-01-17,2025-01-21,2025-01-25,Delivered,5,1416.72,834.73,59.82,"Credit Card",6308.69,1541.43
+909,116,"Michael Booth",Other,59,West,Kathleentown,3551,"Clothing Shirt",Clothing,Shirt,2025-05-31,2025-05-31,2025-06-04,Delivered,2,111.58,46.53,34.12,"Debit Card",210.75,39.20
+910,278,"Heather Nicholson",Other,24,South,Bishopstad,1385,"Electronics Mobile",Electronics,Mobile,2024-10-29,2024-10-29,2024-10-31,Delivered,2,1707.02,696.96,11.37,"Net Banking",2728.45,516.98
+911,207,"Nicholas Garza",Male,62,East,Benjaminborough,6622,"Grocery Snacks",Grocery,Snacks,2024-08-01,2024-08-03,2024-08-07,Delivered,5,30.31,21.75,63.41,"Credit Card",193.21,3.86
+912,256,"Jennifer Bennett",Female,40,North,"New Cesarmouth",5190,"Grocery Beverage",Grocery,Beverage,2025-07-05,2025-07-05,2025-07-09,Delivered,5,31.77,16.73,97.28,"Credit Card",239.40,26.82
+913,250,"Mary Martinez",Male,48,East,"South Heatherbury",9908,"Electronics Mobile",Electronics,Mobile,2024-09-08,2024-09-13,2024-09-20,Delivered,1,1072.97,241.11,27.93,"Net Banking",859.79,246.42
+914,283,"Tyler Rosario",Other,46,South,Wintersburgh,7727,"Electronics Mobile",Electronics,Mobile,2024-05-11,2024-05-15,2024-05-22,Delivered,1,1890.41,252.05,52.70,UPI,1691.06,297.24
+915,275,"Haley King",Other,64,North,"North John",5148,"Electronics Camera",Electronics,Camera,2025-05-17,2025-05-18,2025-05-22,Delivered,3,1751.04,62.75,62.11,"Credit Card",5252.48,940.69
+916,102,"Andrea Martin",Female,49,South,"Port Mary",1093,"Grocery Pasta",Grocery,Pasta,2025-01-20,2025-01-20,2025-01-23,Delivered,2,12.72,6.60,60.44,"Credit Card",79.28,1.59
+917,52,"Terry Hunter",Male,26,South,"Port Jamesberg",1387,"Grocery Beverage",Grocery,Beverage,2025-01-10,2025-01-15,2025-01-19,Delivered,1,36.00,9.70,39.99,"Credit Card",66.29,1.33
+918,143,"Jill Payne",Female,53,West,"East Williamshire",2096,"Electronics Mobile",Electronics,Mobile,2024-09-26,2024-10-01,2024-10-04,Delivered,4,982.26,1083.56,91.13,"Debit Card",2936.61,777.30
+919,45,"Brittany Nunez",Other,29,South,"North Jeromemouth",8308,"Furniture Wardrobe",Furniture,Wardrobe,2024-09-26,2024-09-29,2024-09-30,Delivered,2,914.97,63.60,8.78,UPI,1775.12,246.83
+920,6,"Dana Allen",Female,21,North,"New Erikaton",2847,"Furniture Wardrobe",Furniture,Wardrobe,2025-06-27,2025-06-27,2025-06-30,Delivered,2,547.34,80.02,50.64,UPI,1065.30,127.99
+921,246,"Ashley Wiggins",Male,24,South,Angelicashire,7354,"Electronics Laptop",Electronics,Laptop,2024-05-10,2024-05-14,2024-05-16,Delivered,1,1112.07,330.24,11.90,UPI,793.73,100.21
+922,186,"Jeffrey Luna",Male,70,East,"East Jenna",7658,"Electronics Headphones",Electronics,Headphones,2024-02-13,2024-02-15,2024-02-22,Delivered,4,347.03,279.70,93.42,"Debit Card",1201.84,169.14
+923,66,"David Collins",Female,57,West,Taylorburgh,3576,"Clothing Dress",Clothing,Dress,2025-06-17,2025-06-19,2025-06-23,Delivered,1,63.27,0.59,11.30,"Debit Card",73.98,2.29
+924,21,"Amy Zamora",Female,35,West,Murrayshire,5601,"Grocery Snacks",Grocery,Snacks,2024-11-06,2024-11-10,2024-11-15,Delivered,3,46.13,35.52,49.64,"Cash on Delivery",152.51,3.05
+925,287,"Kristina Lowery",Other,56,South,"Lake Christinestad",8689,"Furniture Chair",Furniture,Chair,2025-05-16,2025-05-18,2025-05-23,Delivered,5,962.91,90.90,64.77,"Cash on Delivery",4788.42,1326.57
+926,263,"Glenn Joseph",Male,38,East,Freemanmouth,4922,"Clothing Jeans",Clothing,Jeans,2024-11-09,2024-11-10,2024-11-17,Delivered,3,71.77,26.58,30.07,"Cash on Delivery",218.80,24.96
+927,72,"Vincent Hill",Other,36,South,Paulborough,6922,"Furniture Table",Furniture,Table,2025-04-18,2025-04-22,2025-04-27,Delivered,2,264.10,114.53,32.69,"Net Banking",446.36,52.03
+928,94,"Juan Peters",Other,69,West,Kempland,7143,"Clothing Jacket",Clothing,Jacket,2025-05-10,2025-05-15,2025-05-18,Delivered,5,65.91,33.75,29.20,UPI,325.00,32.03
+929,282,"Kimberly Hill",Female,18,North,Gilberttown,4095,"Furniture Bed",Furniture,Bed,2025-04-10,2025-04-14,2025-04-19,Delivered,3,815.57,308.65,30.24,UPI,2168.30,624.04
+930,56,"Dennis King",Female,45,West,"South Eric",6130,"Electronics Laptop",Electronics,Laptop,2024-07-04,2024-07-04,2024-07-07,Delivered,1,369.76,7.80,15.21,"Credit Card",377.17,73.97
+931,217,"David Torres",Male,20,North,Robinsonbury,1161,"Electronics Tablet",Electronics,Tablet,2024-10-10,2024-10-12,2024-10-16,Delivered,2,691.83,256.66,59.21,"Debit Card",1186.21,156.46
+932,78,"Craig Phillips",Male,53,East,"East Victorshire",4602,"Clothing Jacket",Clothing,Jacket,2024-07-27,2024-07-31,2024-08-05,Delivered,1,115.45,3.16,75.34,UPI,187.63,23.05
+933,64,"Randall Roberts",Male,33,West,Saraview,4620,"Clothing Jacket",Clothing,Jacket,2024-06-18,2024-06-19,2024-06-21,Delivered,3,30.74,6.61,34.31,UPI,119.92,8.20
+934,229,"Tracy Guerrero",Male,32,North,"East Deborah",2343,"Grocery Beverage",Grocery,Beverage,2025-03-29,2025-03-30,2025-04-05,Delivered,4,42.83,38.59,7.19,UPI,139.92,32.84
+935,224,"Timothy Villegas",Other,39,East,Freemanshire,1339,"Grocery Spices",Grocery,Spices,2025-02-01,2025-02-04,2025-02-09,Delivered,2,19.90,8.40,62.09,UPI,93.49,1.87
+936,107,"Scott York",Male,38,East,Roberttown,7637,"Furniture Table",Furniture,Table,2024-10-24,2024-10-25,2024-10-29,Delivered,5,1328.82,1914.81,70.22,"Credit Card",4799.51,983.08
+937,232,"Joseph Snyder",Other,69,North,"Port Kennethside",7371,"Furniture Sofa",Furniture,Sofa,2025-01-25,2025-01-25,2025-01-29,Delivered,4,1113.85,1215.24,13.50,"Net Banking",3253.66,487.67
+938,134,"Scott Combs",Female,28,South,"New Fernando",4590,"Clothing Shirt",Clothing,Shirt,2025-01-25,2025-01-27,2025-01-28,Delivered,2,29.00,15.94,13.78,"Credit Card",55.84,9.71
+939,269,"Elizabeth Reynolds",Female,46,South,Michaeltown,5803,"Clothing Jacket",Clothing,Jacket,2024-10-12,2024-10-13,2024-10-15,Delivered,4,51.16,31.95,27.02,"Debit Card",199.71,19.75
+940,148,"Jason Smith",Other,48,West,Gonzalezstad,3751,"Clothing Shirt",Clothing,Shirt,2024-07-19,2024-07-23,2024-07-29,Delivered,1,26.74,0.81,82.64,UPI,108.57,2.17
+941,284,"Shannon Garcia",Female,64,South,Kathyton,3502,"Clothing T-Shirt",Clothing,T-Shirt,2024-01-09,2024-01-11,2024-01-18,Delivered,2,96.63,29.76,6.97,"Debit Card",170.47,32.65
+942,86,"Michael Santos",Male,48,South,"South Jessica",3167,"Clothing Dress",Clothing,Dress,2025-01-11,2025-01-15,2025-01-22,Delivered,3,66.24,27.12,72.47,"Cash on Delivery",244.07,35.77
+943,22,"Virginia Robbins",Male,42,South,Petershire,1009,"Furniture Bed",Furniture,Bed,2025-06-25,2025-06-28,2025-07-04,Delivered,4,870.44,758.57,89.44,"Cash on Delivery",2812.63,497.51
+944,182,"Steven George",Other,54,West,"Port Tonybury",5119,"Grocery Pasta",Grocery,Pasta,2025-05-30,2025-06-02,2025-06-04,Delivered,1,11.93,2.15,39.91,UPI,49.69,0.99
+945,196,"Laura Tapia",Female,37,East,Thomasborough,1391,"Furniture Bed",Furniture,Bed,2024-07-22,2024-07-22,2024-07-24,Delivered,4,1185.10,1067.08,47.74,"Debit Card",3721.06,782.99
+946,155,"Brenda Mcknight",Female,33,South,Burtonport,1268,"Clothing Jacket",Clothing,Jacket,2024-09-15,2024-09-18,2024-09-22,Delivered,4,91.29,40.71,24.45,"Debit Card",348.90,29.18
+947,75,"Jennifer Wilcox",Other,24,East,"South Heather",7128,"Electronics Tablet",Electronics,Tablet,2025-04-21,2025-04-24,2025-04-30,Delivered,4,432.81,152.67,83.00,UPI,1661.57,330.33
+948,35,"Megan Patrick",Female,39,South,"Lake Theresa",6084,"Clothing Shirt",Clothing,Shirt,2024-04-13,2024-04-14,2024-04-20,Delivered,5,46.96,1.74,25.78,UPI,258.84,47.28
+949,172,"Megan Lopez",Other,47,East,"Port Raymond",6350,"Furniture Sofa",Furniture,Sofa,2024-02-22,2024-02-26,2024-03-02,Delivered,1,1336.95,304.22,46.17,"Cash on Delivery",1078.90,194.05
+950,290,"Michael Murphy",Other,22,South,"Lake Michele",7191,"Furniture Bed",Furniture,Bed,2024-09-30,2024-10-01,2024-10-03,Delivered,2,230.47,53.08,42.47,"Debit Card",450.33,37.77
+951,100,"Shelly Thomas",Female,54,South,"Lake Richardhaven",7841,"Clothing Jacket",Clothing,Jacket,2025-07-14,2025-07-18,2025-07-21,Delivered,2,20.06,0.80,86.59,"Credit Card",125.91,2.52
+952,113,"Thomas Clark",Female,28,West,Loribury,2871,"Electronics Headphones",Electronics,Headphones,2024-12-16,2024-12-20,2024-12-26,Delivered,3,1746.01,1501.75,29.52,"Net Banking",3765.80,777.90
+953,168,"Billy Cox",Other,27,East,"West Dawnland",5018,"Clothing Shirt",Clothing,Shirt,2025-03-20,2025-03-23,2025-03-26,Delivered,3,113.99,30.84,97.41,"Cash on Delivery",408.54,90.30
+954,154,"David Garcia",Female,24,South,Xaviertown,4663,"Clothing T-Shirt",Clothing,T-Shirt,2025-04-20,2025-04-21,2025-04-22,Delivered,5,70.58,43.69,42.99,"Debit Card",352.20,59.53
+955,84,"Maria Wang",Other,48,North,Stevenshaven,6143,"Electronics Headphones",Electronics,Headphones,2025-02-19,2025-02-22,2025-02-24,Delivered,4,1104.40,40.55,94.07,UPI,4471.12,530.12
+956,203,"James Greene",Other,31,West,Tylerport,8046,"Clothing Jeans",Clothing,Jeans,2024-09-06,2024-09-10,2024-09-17,Delivered,2,53.61,19.24,61.38,"Credit Card",149.36,20.72
+957,5,"Steven Maldonado",Male,52,West,Jeffreyton,9071,"Electronics Laptop",Electronics,Laptop,2024-02-22,2024-02-22,2024-02-26,Delivered,2,355.56,62.17,85.14,"Net Banking",734.09,113.91
+958,293,"Shelby Gonzales",Male,20,South,Popemouth,6075,"Furniture Chair",Furniture,Chair,2024-02-09,2024-02-13,2024-02-14,Delivered,1,960.11,236.60,23.26,UPI,746.77,92.40
+959,56,"Ashley Thompson",Female,55,East,"West Martha",9619,"Electronics Camera",Electronics,Camera,2024-10-18,2024-10-19,2024-10-20,Delivered,4,1330.49,415.09,66.13,"Cash on Delivery",4973.00,1174.41
+960,115,"Elizabeth Vaughn DVM",Other,36,North,Bradleyborough,7445,"Furniture Table",Furniture,Table,2025-04-29,2025-05-02,2025-05-05,Delivered,5,528.96,518.50,82.39,"Net Banking",2208.69,352.04
+961,168,"Kelly Hinton",Male,33,West,"Lake Ryanport",3436,"Clothing Shirt",Clothing,Shirt,2024-03-22,2024-03-22,2024-03-27,Delivered,1,34.77,10.41,16.98,"Net Banking",41.34,3.56
+962,164,"Daniel Adams",Other,33,West,"West James",8132,"Grocery Rice",Grocery,Rice,2025-07-19,2025-07-24,2025-07-29,Delivered,3,47.00,8.87,49.96,"Debit Card",182.09,10.20
+963,177,"Patricia Burke",Male,21,North,"West Cynthiaside",5131,"Grocery Pasta",Grocery,Pasta,2025-05-24,2025-05-27,2025-06-02,Delivered,4,39.62,41.01,47.71,UPI,165.18,13.13
+964,162,"Kelly Chen",Other,62,South,Crystalville,1121,"Clothing Jeans",Clothing,Jeans,2025-03-01,2025-03-01,2025-03-05,Delivered,3,34.82,27.71,27.80,"Debit Card",104.55,3.64
+965,93,"Jeffrey Kelley",Female,20,North,Julieborough,6910,"Furniture Wardrobe",Furniture,Wardrobe,2025-01-16,2025-01-18,2025-01-19,Delivered,1,775.92,191.89,52.60,"Cash on Delivery",636.63,74.31
+966,141,"Patricia Dyer",Other,43,South,"Port Emilyview",8126,"Electronics Headphones",Electronics,Headphones,2025-07-14,2025-07-16,2025-07-21,Delivered,4,375.67,149.94,43.70,UPI,1396.44,287.62
+967,214,"Natasha Marquez",Female,56,South,Willisside,6163,"Clothing Jacket",Clothing,Jacket,2024-09-28,2024-09-30,2024-10-06,Delivered,1,101.67,20.39,60.06,"Debit Card",141.34,14.42
+968,21,"Scott Holland DDS",Male,70,West,Christianburgh,4915,"Grocery Rice",Grocery,Rice,2025-03-16,2025-03-16,2025-03-17,Delivered,3,27.69,22.42,94.29,"Net Banking",154.94,3.10
+969,27,"Kayla Camacho",Female,55,South,Farleymouth,9750,"Furniture Chair",Furniture,Chair,2024-08-28,2024-08-31,2024-09-05,Delivered,3,348.13,205.57,6.35,"Debit Card",845.17,154.89
+970,246,"Allen Harris",Male,24,South,Lopezmouth,5230,"Clothing Jeans",Clothing,Jeans,2024-09-20,2024-09-23,2024-09-25,Delivered,4,40.41,7.95,14.27,"Cash on Delivery",167.96,41.80
+971,281,"Derrick Hicks",Other,22,North,Terryfort,3548,"Electronics Mobile",Electronics,Mobile,2024-09-02,2024-09-02,2024-09-09,Delivered,3,1940.74,198.02,47.87,"Cash on Delivery",5672.07,680.69
+972,239,"Walter Lewis",Other,25,West,Meganview,5559,"Electronics Tablet",Electronics,Tablet,2024-04-04,2024-04-06,2024-04-08,Delivered,4,1671.22,1093.59,28.78,"Credit Card",5620.07,566.36
+973,33,"Christine Edwards",Male,27,East,Williambury,3627,"Clothing Jacket",Clothing,Jacket,2024-12-25,2024-12-25,2024-12-28,Delivered,4,99.27,51.51,81.69,"Debit Card",427.26,71.74
+974,98,"Tammy Barnes",Other,58,West,"Lake Michaelhaven",2096,"Clothing Jacket",Clothing,Jacket,2025-07-24,2025-07-27,2025-07-31,Delivered,3,84.25,15.10,8.99,"Net Banking",246.64,45.28
+975,9,"Brittany Mcintyre",Other,41,East,Christopherton,7808,"Electronics Tablet",Electronics,Tablet,2025-04-19,2025-04-19,2025-04-21,Delivered,1,1310.90,220.79,16.07,"Cash on Delivery",1106.18,134.64
+976,175,"Heather Bennett",Male,57,North,"New Benjamin",6194,"Clothing Jeans",Clothing,Jeans,2025-07-03,2025-07-06,2025-07-09,Delivered,1,105.87,1.74,33.52,"Net Banking",137.65,28.20
+977,195,"Andre Carney",Male,35,East,Myersberg,7750,"Electronics Camera",Electronics,Camera,2025-01-07,2025-01-07,2025-01-11,Delivered,3,1555.67,569.66,7.48,"Credit Card",4104.83,642.72
+978,71,"Donna Becker",Other,56,North,"East Sherry",6939,"Electronics Mobile",Electronics,Mobile,2024-09-27,2024-09-29,2024-10-02,Delivered,1,610.45,38.88,81.04,"Cash on Delivery",652.61,72.42
+979,278,"Stacey Hamilton",Male,69,East,"East Georgemouth",5874,"Electronics Headphones",Electronics,Headphones,2024-02-11,2024-02-13,2024-02-17,Delivered,1,1418.43,114.49,9.95,"Cash on Delivery",1313.89,143.60
+980,3,"Melissa Glenn",Male,48,North,Sydneytown,8687,"Furniture Bed",Furniture,Bed,2025-07-08,2025-07-08,2025-07-11,Delivered,2,927.20,312.20,80.44,"Cash on Delivery",1622.64,172.74
+981,54,"Shane Bryant",Other,69,North,Watkinsburgh,8705,"Clothing T-Shirt",Clothing,T-Shirt,2024-06-22,2024-06-27,2024-07-04,Delivered,5,43.86,26.84,69.73,"Debit Card",262.19,32.82
+982,253,"Brianna Fuentes",Other,33,North,"East Williamside",8040,"Clothing Dress",Clothing,Dress,2025-02-01,2025-02-02,2025-02-09,Delivered,5,49.27,10.07,97.50,"Net Banking",333.78,14.88
+983,128,"Briana Gordon",Other,25,West,Shannonton,5177,"Grocery Rice",Grocery,Rice,2024-04-27,2024-04-30,2024-05-05,Delivered,2,37.85,15.70,59.78,"Debit Card",119.78,2.40
+984,68,"Wayne Francis",Other,20,South,Hoganview,5095,"Electronics Mobile",Electronics,Mobile,2025-02-08,2025-02-09,2025-02-11,Delivered,3,1930.98,998.54,66.93,"Credit Card",4861.33,1139.41
+985,212,"Mr. Daniel Scott",Male,39,South,Toddbury,8324,"Clothing T-Shirt",Clothing,T-Shirt,2024-05-06,2024-05-08,2024-05-11,Delivered,4,57.87,36.03,31.13,"Debit Card",226.58,32.12
+986,106,"Steve Wilson",Female,40,South,Crystalhaven,4977,"Grocery Beverage",Grocery,Beverage,2024-10-07,2024-10-10,2024-10-11,Delivered,3,2.15,0.89,10.83,UPI,16.39,1.22
+987,269,"Pamela Rodriguez",Female,31,West,"Lake Brianberg",2809,"Furniture Table",Furniture,Table,2024-10-17,2024-10-19,2024-10-21,Delivered,4,1176.67,668.21,77.45,"Net Banking",4115.92,438.99
+988,115,"Renee Jones DDS",Female,30,East,Teresaton,8812,"Grocery Snacks",Grocery,Snacks,2024-06-13,2024-06-16,2024-06-18,Delivered,4,45.43,0.93,27.27,"Cash on Delivery",208.06,32.66
+989,261,"Samantha Gonzalez",Other,27,North,Charlesview,5385,"Furniture Wardrobe",Furniture,Wardrobe,2024-09-17,2024-09-22,2024-09-23,Delivered,3,1306.80,607.44,34.47,"Credit Card",3347.43,597.71
+990,124,"William Benjamin",Female,34,South,"West Lisa",9682,"Clothing Jacket",Clothing,Jacket,2025-06-25,2025-06-25,2025-06-27,Delivered,1,52.74,10.91,57.62,"Debit Card",99.45,8.89
+991,96,"Brittany Little",Male,64,East,"East Robert",7960,"Furniture Sofa",Furniture,Sofa,2024-07-23,2024-07-28,2024-08-01,Delivered,5,891.30,477.14,41.09,"Net Banking",4020.45,876.76
+992,24,"Brenda Willis",Female,40,West,"Port Williamberg",4951,"Furniture Bed",Furniture,Bed,2024-08-21,2024-08-24,2024-08-29,Delivered,1,1065.62,32.99,90.11,"Debit Card",1122.74,111.99
+993,240,"Carl Freeman",Female,52,North,Aprilfurt,2681,"Grocery Pasta",Grocery,Pasta,2024-08-14,2024-08-19,2024-08-21,Delivered,2,19.80,0.43,6.11,"Net Banking",45.28,8.15
+994,231,"Jessica Diaz",Male,23,East,"East Robinland",4878,"Electronics Mobile",Electronics,Mobile,2024-09-13,2024-09-17,2024-09-22,Delivered,2,375.09,155.06,56.40,"Credit Card",651.52,118.12
+995,251,"Jimmy King",Male,68,West,"Port Lauren",6418,"Electronics Mobile",Electronics,Mobile,2025-05-30,2025-06-03,2025-06-05,Delivered,5,772.04,494.61,38.15,"Debit Card",3403.74,568.17
+996,14,"Zachary Gomez",Other,24,North,Laurenbury,5509,"Clothing T-Shirt",Clothing,T-Shirt,2024-06-09,2024-06-10,2024-06-16,Delivered,1,93.24,5.48,24.86,UPI,112.62,5.38
+997,116,"Meagan White",Other,26,North,Stevenstad,2931,"Clothing Jeans",Clothing,Jeans,2024-11-02,2024-11-07,2024-11-11,Delivered,2,88.79,44.41,20.11,"Credit Card",153.28,21.66
+998,273,"Tammy Gibbs",Male,61,West,"New Charlesmouth",2778,"Electronics Laptop",Electronics,Laptop,2024-08-04,2024-08-04,2024-08-06,Delivered,4,484.35,133.25,82.20,"Cash on Delivery",1886.35,255.06
+999,272,"Joseph Harrington",Other,55,East,Amandatown,8422,"Clothing Dress",Clothing,Dress,2025-06-29,2025-07-04,2025-07-09,Delivered,2,115.36,29.41,63.04,"Net Banking",264.35,43.33
+1000,110,"Michael Neal",Other,69,North,"South Kristinabury",4215,"Grocery Snacks",Grocery,Snacks,2025-01-19,2025-01-23,2025-01-27,Delivered,1,43.99,1.52,70.98,"Cash on Delivery",113.45,3.75
